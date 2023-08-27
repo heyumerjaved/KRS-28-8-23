@@ -297,6 +297,10 @@ cart-items {
   font-size: 20px;
 }
 
+.cart-item__details .rating{
+  margin-right: 1rem;
+}
+
 @media screen and (max-width: 750px){
   .before__cart__blocks .icon-column .icon-title{
     font-size: 9px;
