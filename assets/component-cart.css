@@ -293,6 +293,10 @@ cart-items {
   top: 3px;
 }
 
+.cart-item__details .rating-star:before{
+  font-size: 20px;
+}
+
 @media screen and (max-width: 750px){
   .before__cart__blocks .icon-column .icon-title{
     font-size: 9px;
