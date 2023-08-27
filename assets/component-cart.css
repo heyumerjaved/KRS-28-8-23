@@ -288,6 +288,11 @@ cart-items {
   text-align: right;
 }
 
+#checkoutCheckbox{
+  position: relative;
+  top: 3px;
+}
+
 @media screen and (max-width: 750px){
   .before__cart__blocks .icon-column .icon-title{
     font-size: 9px;
