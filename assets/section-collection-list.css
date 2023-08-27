@@ -1,0 +1,141 @@
+.collection-list {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.collection-list-title {
+  margin: 0;
+}
+
+@media screen and (max-width: 749px) {
+  .collection-list:not(.slider) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .section-collection-list .page-width {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .section-collection-list .collection-list:not(.slider) {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+.collection-list__item:only-child {
+  max-width: 100%;
+  width: 100%;
+}
+
+@media screen and (max-width: 749px) {
+  .slider.collection-list--1-items {
+    padding-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 750px) and (max-width: 989px) {
+  .slider.collection-list--1-items,
+  .slider.collection-list--2-items,
+  .slider.collection-list--3-items,
+  .slider.collection-list--4-items {
+    padding-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  .collection-list__item a:hover {
+    box-shadow: none;
+  }
+}
+
+@media screen and (max-width: 989px) {
+  .collection-list.slider .collection-list__item {
+    max-width: 100%;
+  }
+}
+
+.collection-list-view-all {
+  margin-top: 2rem;
+}
+
+/* Add 50% overlay with #ff6b00 color and 6px corner radius to the cards on hover */
+.section-collection-list-modified .collection-list-wrapper .collection-list__item {
+  position: relative; /* Ensure the card container is positioned */
+}
+
+.section-collection-list-modified .collection-list-wrapper .collection-list__item::before {
+  content: ""; /* Required for pseudo-elements to work */
+  position: absolute; /* Position the overlay */
+  top: 0;
+  left: 0;
+  width: 100%; /* Cover the entire card */
+  height: 100%;
+  background-color: rgba(255, 107, 0, 0.6); /* #ff6b00 with 50% opacity */
+  border-radius: 6px; /* Add 6px corner radius to the overlay */
+  pointer-events: none; /* Allow clicks on elements below the overlay */
+  z-index: 2; /* Adjust the z-index to place the overlay behind the content */
+  opacity: 0; /* Initially, the overlay is transparent */
+  transition: opacity 0.3s ease; /* Add smooth transition for the hover effect */
+}
+
+/* Show the overlay on hover */
+.section-collection-list-modified .collection-list-wrapper .collection-list__item:hover::before {
+  opacity: 1; /* Fully show the overlay on hover */
+}
+
+/* Center the text inside the cards */
+.section-collection-list-modified .card__heading .icon-wrap {
+  display: none !important;
+}
+
+.section-collection-list-modified h3 {
+  color: #f1f1f1;
+}
+
+.section-collection-list-modified .card__heading {
+  position: absolute;
+  top: 50%;
+  transform: translateY(0%);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: img;
+}
+@media screen and (min-width: 750px) {}
+.section-collection-list-modified .card__heading {
+  position: absolute;
+  top: 50%;
+  transform: translateY(0%);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: img;
+  font-size: 20px;
+}}
+
+.section-collection-list-modified .collection-list-wrapper .card__content .card__information {
+  position: 50%; /* Adjust the position to make the text visible */
+  z-index: 4; /* Adjust the z-index to place the text above the overlay and card__heading */
+}
+
+.section-collection-list-modified .collection-list-wrapper .card__content .card__information {
+  height: 0;
+  overflow: hidden;
+  padding: 0;
+}
+.section-collection-list-modified a {
+  font-size: 15.5px;
+  margin-left: 11px !important;
+}
