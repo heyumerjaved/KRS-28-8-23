@@ -312,4 +312,8 @@ cart-items {
   .before__cart__blocks .icon-column .icon-image img{
     height: 30px;
   }
+
+  .checkbox-wrapper{
+    text-align: center;
+  }
 }
