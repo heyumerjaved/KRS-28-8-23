@@ -69,6 +69,10 @@
               assign quantity_rule_soldout = true
             endif
           -%}
+
+          {% assign showatc = product.metafields.custom.show_atc %}
+
+          {% if showatc != false %}
           <button
             id = "ProductSubmitButton-{{ section_id }}"
             type="submit"
@@ -97,6 +101,7 @@
               </svg>
             </div>
           </button>
+          {% endif %}
 
           {% assign bundleObject = product.metafields.custom.bundle_product_object.value %}
           {% assign bundleObject1 = product.metafields.custom.bundle_product_object_1.value %}
