@@ -889,7 +889,7 @@
         "columns_desktop": 3,
         "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
         "show_image": true,
-        "show_date": true,
+        "show_date": false,
         "show_author": true,
         "show_view_all": false,
         "padding_top": 100,
