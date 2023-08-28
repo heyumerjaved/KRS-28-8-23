@@ -382,7 +382,7 @@
             "button_label": "Add to cart",
             "product": "shotgun-child-bike-seat-handlebars-combo",
             "atc_type": "ajax",
-            "button_toggle": true
+            "button_toggle": false
           }
         },
         "7db668c7-b812-4028-8882-22973cfcbd6d": {
@@ -699,68 +699,6 @@
         "hide_controls": true
       }
     },
-    "5dc5ada4-a221-412d-880d-8b8a6256cca1": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16039832944790__5dc5ada4-a221-412d-880d-8b8a6256cca1-16884243444c44b92f-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DFD_without_text.png",
-            "title": "<strong>DESIGNED FOR DIRT<\/strong>",
-            "text": "<p>Our products are designed specifically for mountain biking, crafted for life on the trails and built to last.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16039832944790__5dc5ada4-a221-412d-880d-8b8a6256cca1-16884243444c44b92f-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ZYTG_without_text_cd9c58ad-d34d-4b74-8969-30c3e08c6d2a.png",
-            "title": "<strong>ZERO YEARS TO GEARS<\/strong>",
-            "text": "<p>From birth to bike, we have everything you need to raise your mini mountain biker.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16039832944790__5dc5ada4-a221-412d-880d-8b8a6256cca1-16884243444c44b92f-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/connected_experiences_logo.png",
-            "title": "<strong>CONNECTED EXPERIENCES<\/strong>",
-            "text": "<p>Our products unlock amazing experiences for MTB families to do together - creating memories that will last a lifetime. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16039832944790__5dc5ada4-a221-412d-880d-8b8a6256cca1-16884243444c44b92f-0",
-        "template--16039832944790__5dc5ada4-a221-412d-880d-8b8a6256cca1-16884243444c44b92f-1",
-        "template--16039832944790__5dc5ada4-a221-412d-880d-8b8a6256cca1-16884243444c44b92f-2"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}",
-        ".slideshow__controls {display: none !important;}",
-        ".content-container {background: transparent;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
     "c26ae100-d5a5-4403-9dc7-53fe124f112d": {
       "type": "featured-collection",
       "custom_css": [
@@ -909,7 +847,6 @@
     "16873073199d82bfd2",
     "a2034ce1-6470-41ba-a894-6e7301faa85d",
     "f8bc5375-bc65-4712-86f1-5fd751d0ed64",
-    "5dc5ada4-a221-412d-880d-8b8a6256cca1",
     "c26ae100-d5a5-4403-9dc7-53fe124f112d",
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d",
     "1687992408aa7441fa",
