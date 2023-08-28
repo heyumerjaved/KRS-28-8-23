@@ -16,7 +16,7 @@
         "0a75fbf8-7f73-4360-9060-f43714b1530c": {
           "type": "text",
           "settings": {
-            "text": "Price starting from...",
+            "text": "Starting from...",
             "text_style": "uppercase"
           }
         },
