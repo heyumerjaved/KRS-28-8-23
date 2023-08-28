@@ -99,27 +99,94 @@
           </button>
 
           {% assign bundleObject = product.metafields.custom.bundle_product_object.value %}
+          {% assign bundleObject1 = product.metafields.custom.bundle_product_object_1.value %}
+          {% assign bundleObject2 = product.metafields.custom.bundle_product_object_2.value %}
+          {% assign bundleObject3 = product.metafields.custom.bundle_product_object_3.value %}
+
           {% if bundleObject != blank %}
             <div class="product-container" id="fakeform">
-                <div class="product-image">
-                    <img src="{{ bundleObject.image | img_url: '64px' }}" alt="Product Image" loading=lazy width=64 height=auto>
-                </div>
-                <div class="product-details">
-                    <div class="product-title">
-                        {{ bundleObject.text }}
-                    </div>
-                    <div class="product-price">
-                        {% if bundleObject.crossed_out_price != blank %}
-                        <span class="original-price">
-                          ${{ bundleObject.crossed_out_price | times: 100 | money_without_currency  }}
-                        <span class="fakest"></span>
-                        </span>
-                        {% endif %}
-                        <span class="current-price">${{ bundleObject.discounted_price | times: 100 | money_without_currency   }}</span>
-                    </div>
-                </div>
+              <div class="product-image">
+                  <img src="{{ bundleObject.image | img_url: '64px' }}" alt="Product Image" loading=lazy width=64 height=auto>
               </div>
-            {% endif %}
+              <div class="product-details">
+                  <div class="product-title">
+                      {{ bundleObject.text }}
+                  </div>
+                  <div class="product-price">
+                      {% if bundleObject.crossed_out_price != blank %}
+                      <span class="original-price">
+                        ${{ bundleObject.crossed_out_price | times: 100 | money_without_currency  }}
+                      <span class="fakest"></span>
+                      </span>
+                      {% endif %}
+                      <span class="current-price">${{ bundleObject.discounted_price | times: 100 | money_without_currency   }}</span>
+                  </div>
+              </div>
+            </div>
+          {% endif %}
+          {% if bundleObject1 != blank %}
+            <div class="product-container" id="fakeform1">
+              <div class="product-image">
+                  <img src="{{ bundleObject1.image | img_url: '64px' }}" alt="Product Image" loading=lazy width=64 height=auto>
+              </div>
+              <div class="product-details">
+                  <div class="product-title">
+                      {{ bundleObject1.text }}
+                  </div>
+                  <div class="product-price">
+                      {% if bundleObject1.crossed_out_price != blank %}
+                      <span class="original-price">
+                        ${{ bundleObject1.crossed_out_price | times: 100 | money_without_currency  }}
+                      <span class="fakest"></span>
+                      </span>
+                      {% endif %}
+                      <span class="current-price">${{ bundleObject1.discounted_price | times: 100 | money_without_currency   }}</span>
+                  </div>
+              </div>
+            </div>
+          {% endif %}
+          {% if bundleObject2 != blank %}
+            <div class="product-container" id="fakeform2">
+              <div class="product-image">
+                  <img src="{{ bundleObject2.image | img_url: '64px' }}" alt="Product Image" loading=lazy width=64 height=auto>
+              </div>
+              <div class="product-details">
+                  <div class="product-title">
+                      {{ bundleObject2.text }}
+                  </div>
+                  <div class="product-price">
+                      {% if bundleObject2.crossed_out_price != blank %}
+                      <span class="original-price">
+                        ${{ bundleObject2.crossed_out_price | times: 100 | money_without_currency  }}
+                      <span class="fakest"></span>
+                      </span>
+                      {% endif %}
+                      <span class="current-price">${{ bundleObject2.discounted_price | times: 100 | money_without_currency   }}</span>
+                  </div>
+              </div>
+            </div>
+          {% endif %}
+          {% if bundleObject3 != blank %}
+            <div class="product-container" id="fakeform3">
+              <div class="product-image">
+                  <img src="{{ bundleObject3.image | img_url: '64px' }}" alt="Product Image" loading=lazy width=64 height=auto>
+              </div>
+              <div class="product-details">
+                  <div class="product-title">
+                      {{ bundleObject3.text }}
+                  </div>
+                  <div class="product-price">
+                      {% if bundleObject3.crossed_out_price != blank %}
+                      <span class="original-price">
+                        ${{ bundleObject3.crossed_out_price | times: 100 | money_without_currency  }}
+                      <span class="fakest"></span>
+                      </span>
+                      {% endif %}
+                      <span class="current-price">${{ bundleObject3.discounted_price | times: 100 | money_without_currency   }}</span>
+                  </div>
+              </div>
+            </div>
+          {% endif %}
         
           {%- if show_dynamic_checkout -%}
             {{ form | payment_button }}
@@ -129,6 +196,10 @@
     </product-form>
     
     {% assign bundleObject = product.metafields.custom.bundle_product_object.value %}
+    {% assign bundleObject1 = product.metafields.custom.bundle_product_object_1.value %}
+    {% assign bundleObject2 = product.metafields.custom.bundle_product_object_2.value %}
+    {% assign bundleObject3 = product.metafields.custom.bundle_product_object_3.value %}
+
     {% if bundleObject != blank %}
       <product-form style="display: none;">
         <form method="post" action="/cart/add" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form" button_toggle="true"><input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="{{ bundleObject.product.value.variants.first.id }}">
@@ -145,8 +216,56 @@
         </form>
       </product-form>
     {% endif %}
+    {% if bundleObject1 != blank %}
+      <product-form style="display: none;">
+        <form method="post" action="/cart/add" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form" button_toggle="true"><input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="{{ bundleObject1.product.value.variants.first.id }}">
+          <button id="originalbundleforbtn1" type="submit" name="add" class="quick-add__submit button button--full-width button--secondary  buttonToggle" aria-haspopup="dialog" aria-labelledby="-submit title--7795305611414" aria-live="polite" data-sold-out-message="true">
+              <span>Add to cart</span>
+              <span class="sold-out-message hidden">
+                Sold out
+              </span><div class="loading-overlay__spinner hidden">
+                <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                  <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                </svg>
+              </div>
+            </button>
+        </form>
+      </product-form>
+    {% endif %}
+    {% if bundleObject2 != blank %}
+      <product-form style="display: none;">
+        <form method="post" action="/cart/add" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form" button_toggle="true"><input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="{{ bundleObject2.product.value.variants.first.id }}">
+          <button id="originalbundleforbtn2" type="submit" name="add" class="quick-add__submit button button--full-width button--secondary  buttonToggle" aria-haspopup="dialog" aria-labelledby="-submit title--7795305611414" aria-live="polite" data-sold-out-message="true">
+              <span>Add to cart</span>
+              <span class="sold-out-message hidden">
+                Sold out
+              </span><div class="loading-overlay__spinner hidden">
+                <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                  <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                </svg>
+              </div>
+            </button>
+        </form>
+      </product-form>
+    {% endif %}
+    {% if bundleObject3 != blank %}
+      <product-form style="display: none;">
+        <form method="post" action="/cart/add" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form" button_toggle="true"><input type="hidden" name="form_type" value="product"><input type="hidden" name="utf8" value="✓"><input type="hidden" name="id" value="{{ bundleObject3.product.value.variants.first.id }}">
+          <button id="originalbundleforbtn3" type="submit" name="add" class="quick-add__submit button button--full-width button--secondary  buttonToggle" aria-haspopup="dialog" aria-labelledby="-submit title--7795305611414" aria-live="polite" data-sold-out-message="true">
+              <span>Add to cart</span>
+              <span class="sold-out-message hidden">
+                Sold out
+              </span><div class="loading-overlay__spinner hidden">
+                <svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                  <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                </svg>
+              </div>
+            </button>
+        </form>
+      </product-form>
+    {% endif %}
 
- <script>
+<script>
 document.addEventListener("DOMContentLoaded", function() {
     // Get the fakeform and originalbundleforbtn elements
     var fakeform = document.getElementById("fakeform");
@@ -161,8 +280,50 @@ document.addEventListener("DOMContentLoaded", function() {
         originalbundleforbtn.click();
     });
 });
+document.addEventListener("DOMContentLoaded", function() {
+    // Get the fakeform and originalbundleforbtn elements
+    var fakeform1 = document.getElementById("fakeform1");
+    var originalbundleforbtn1 = document.getElementById("originalbundleforbtn1");
 
- </script>           
+    // Add a click event listener to the fakeform
+    fakeform1.addEventListener("click", function(event) {
+        // Prevent the default form submission
+        event.preventDefault();
+
+        // Trigger a click event on the originalbundleforbtn
+        originalbundleforbtn1.click();
+    });
+});
+document.addEventListener("DOMContentLoaded", function() {
+    // Get the fakeform and originalbundleforbtn elements
+    var fakeform2 = document.getElementById("fakeform2");
+    var originalbundleforbtn2 = document.getElementById("originalbundleforbtn2");
+
+    // Add a click event listener to the fakeform
+    fakeform2.addEventListener("click", function(event) {
+        // Prevent the default form submission
+        event.preventDefault();
+
+        // Trigger a click event on the originalbundleforbtn
+        originalbundleforbtn2.click();
+    });
+});
+document.addEventListener("DOMContentLoaded", function() {
+    // Get the fakeform and originalbundleforbtn elements
+    var fakeform3 = document.getElementById("fakeform3");
+    var originalbundleforbtn3 = document.getElementById("originalbundleforbtn3");
+
+    // Add a click event listener to the fakeform
+    fakeform3.addEventListener("click", function(event) {
+        // Prevent the default form submission
+        event.preventDefault();
+
+        // Trigger a click event on the originalbundleforbtn
+        originalbundleforbtn3.click();
+    });
+});
+
+</script>           
             
           
   {%- else -%}

@@ -1588,7 +1588,8 @@ a.product__text {
     border: 2px solid #212121;
     border-radius: 6px;
     cursor: pointer;
-  transition: color .3s,background-color .3s;
+    transition: color .3s,background-color .3s;
+    margin-bottom: 1rem;
 }
 
 .product-container:hover{
