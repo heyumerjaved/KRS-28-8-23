@@ -25,7 +25,7 @@
         "template--16066259779734__31da16f8-a105-4b9c-8661-aef233d5c6b2-text-1": {
           "type": "text",
           "settings": {
-            "text": "Why choose a front mounted bicycle seat for your child?",
+            "text": "Why choose a front mounted bicycle seat for your child? <strong>On this page you'll find information about the difference between front and rear mounted seats,and what makes the shotgun seat different.<\/strong>",
             "text_style": "font-weight: 900"
           }
         }
@@ -60,7 +60,7 @@
         "template--16065053556886__50cd6fac-a286-4a84-9510-0abc1086ad65-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>We believe that mountain biking and everything it offers helps positively develop kids and leaves a lasting impression. <\/strong> <br\/> <br\/> That’s why our range of products are designed to help families hit the trails together – providing amazing mountain biking experiences, creating memorable family moments, and fostering a passion for riding and a life in the great outdoors<\/p>"
+            "text": ""
           }
         }
       },
@@ -70,8 +70,8 @@
       "custom_css": [
         ".h2 {display: flex; align-items: center; justify-content: center !important; margin-bottom: 50px; font-size: 24px;}",
         "a {color: #212121;}",
-        "strong {font-weight: 900; font-size: 20px; line-height: 30px;}",
-        "p {font-size: 12px;}",
+        "strong {font-weight: 900; font-size: 20px; line-height: 20px;}",
+        "p {font-size: 20px; line-height: 20px;}",
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
