@@ -252,17 +252,67 @@
         "padding_bottom": 0
       }
     },
-    "0d13993e-816d-4bbe-b758-f81e961e5102": {
-      "type": "video",
+    "6138987f-2e7a-4ff6-8212-8b7d667261ba": {
+      "type": "multicolumn-sidebyside",
+      "blocks": {
+        "template--16079434645654__6138987f-2e7a-4ff6-8212-8b7d667261ba-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-07-19_at_12.54.35_PM.png",
+            "title": "SHOTGUN®",
+            "text": "<h5>$135 USD<\/h5><h5>On\/off – 2 minutes<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted <\/h5><h5>Fixed leg length<\/h5><h5>No bike modification<\/h5><h5>Kids 2-5 years <\/h5><h5>Allan key handlebars<\/h5><h5><\/h5>",
+            "link_label": "Learn more",
+            "link": "",
+            "button_toggle": true
+          }
+        },
+        "template--16079434645654__6138987f-2e7a-4ff6-8212-8b7d667261ba-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/221121_9873GreyBG_2baffd2c-00e8-41be-8de5-6c1d48a1c272.jpg",
+            "title": "SHOTGUN® 2.0",
+            "text": "<h5>$205 USD<\/h5><h5>On\/off – 30 seconds<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted<\/h5><h5>2 leg lengths <\/h5><h5>No bike modification<\/h5><h5>Kids 18 mo-5 years<\/h5><h5>Allan key handlebars<\/h5><h5><\/h5>",
+            "link_label": "Learn more",
+            "link": "",
+            "button_toggle": true
+          }
+        },
+        "template--16079434645654__6138987f-2e7a-4ff6-8212-8b7d667261ba-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KRS_Combo_Grey_1_1-1.jpg",
+            "title": "SHOTGUN® PRO",
+            "text": "<h5>$310 USD<\/h5><h5>On\/off – 15 seconds<\/h5><h5>E-bike compatible<\/h5><h5>Zero frame contact <\/h5><h5>7 leg lengths<\/h5><h5>Stem spacer required <\/h5><h5>Kids 18 mo-5 years<\/h5><h5>Quick release handlebars<\/h5><h5><\/h5>",
+            "link_label": "Learn more",
+            "link": "shopify:\/\/products\/shotgun-child-bike-seat-handlebars-combo",
+            "button_toggle": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16079434645654__6138987f-2e7a-4ff6-8212-8b7d667261ba-column-1",
+        "template--16079434645654__6138987f-2e7a-4ff6-8212-8b7d667261ba-column-2",
+        "template--16079434645654__6138987f-2e7a-4ff6-8212-8b7d667261ba-column-3"
+      ],
+      "custom_css": [
+        "h2 {margin: auto;}",
+        ".multicolumn-sidebyside .h2 {margin-bottom: 80px;}",
+        ".multicolumn-sidebyside .multicolumn-list h3,.multicolumn-sidebyside .multicolumn-list h3 strong {color: #606060;}"
+      ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=t1_mxcDtM6Q&embeds_referring_euri=https%3A%2F%2Fkidsrideshotgun.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo",
-        "description": "",
-        "full_width": false,
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
-        "padding_top": 52,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 100
       }
     }
@@ -275,6 +325,6 @@
     "25c8fe87-ac6a-4f68-8bc7-107eec422220",
     "9d63fc14-eb6c-4cff-a94e-cddea251b7bc",
     "4560f180-2a41-434c-bd15-32b475a926de",
-    "0d13993e-816d-4bbe-b758-f81e961e5102"
+    "6138987f-2e7a-4ff6-8212-8b7d667261ba"
   ]
 }
