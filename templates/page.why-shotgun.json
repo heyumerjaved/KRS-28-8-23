@@ -81,7 +81,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
         "full_width": true,
         "padding_top": 100,
         "padding_bottom": 0
@@ -129,7 +129,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 52,
@@ -246,187 +246,23 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
         "full_width": true,
         "padding_top": 52,
         "padding_bottom": 0
       }
     },
-    "d074f53f-b812-4bfe-898b-f27bafd0dc7a": {
-      "type": "rich-text",
-      "blocks": {
-        "3eed6ca3-6f3b-4abe-99db-cd7fd1cf030a": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "We believe that mountain biking and everything it offers helps positively develop kids and leaves a lasting impression. That’s why our range of products are designed to help families hit the trails together – providing amazing mountain biking experiences, creating memorable family moments, and fostering a passion for riding and a life in the great outdoors",
-            "heading_size": "h2"
-          }
-        },
-        "c888f992-3916-4b69-9425-766cb2a1d28c": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>WHAT MAKES US DIFFERENT<\/strong><br\/> <br\/>While there are plenty of amazing brands out there helping to teach your kid to ride a bike, we believe the key to getting kids into a life of riding comes from providing them with amazing experiences at a young age, designed to get them stoked on mountain biking and being in nature. <\/p><p>From their first book in the nursey which introduces them to the concept of mountain biking, through riding up front on mom or dads bike, to hitting the trails on their own 2 wheels - our range of products unlock incredible exoeriences for families and kids all the way from 0 to 5 years. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "3eed6ca3-6f3b-4abe-99db-cd7fd1cf030a",
-        "c888f992-3916-4b69-9425-766cb2a1d28c"
-      ],
-      "custom_css": [
-        ".h2 {display: flex; align-items: center; justify-content: center !important; margin-bottom: 50px; font-size: 24px;}",
-        "a {color: #212121;}",
-        "strong {font-weight: 900; font-size: 20px; line-height: 30px;}",
-        "p {font-size: 12px;}",
-        ".content-container:after {box-shadow: none !important;}"
-      ],
+    "0d13993e-816d-4bbe-b758-f81e961e5102": {
+      "type": "video",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "139f0de3-8278-4868-8e89-fa6dc9e34809": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16065053556886__139f0de3-8278-4868-8e89-fa6dc9e34809-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "About us",
-            "heading_size": "h1"
-          }
-        },
-        "template--16065053556886__139f0de3-8278-4868-8e89-fa6dc9e34809-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Based in the North Island of New Zealand we're a close-knit team of mountain bike parents with a global vision – to raise the next generation of mountain bikers.<br\/>Since being founded by Tom Hayward and Dan Necklen in May 2017 we’ve grown steadily whilst remaining an independently owned business. As well as our New Zealand Shredquaters, we now have a European office in the MTB mecca of Tweed Valley, Scotland, as well as team members in North America. <\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16065053556886__139f0de3-8278-4868-8e89-fa6dc9e34809-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "product": "",
-            "atc_type": "ajax",
-            "button_toggle": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16065053556886__139f0de3-8278-4868-8e89-fa6dc9e34809-heading-1",
-        "template--16065053556886__139f0de3-8278-4868-8e89-fa6dc9e34809-text-1",
-        "template--16065053556886__139f0de3-8278-4868-8e89-fa6dc9e34809-button-1"
-      ],
-      "custom_css": [
-        "a {color: #212121;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/2022.09_KRS_team_photo_1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "large",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 72,
-        "padding_bottom": 48
-      }
-    },
-    "e13b622e-f8d9-47c9-a7ec-1d687d3f885a": {
-      "type": "image-with-text",
-      "blocks": {
-        "c5680beb-6650-464a-ade4-1e815ade894c": {
-          "type": "heading",
-          "settings": {
-            "heading": "Designed in New Zealand",
-            "heading_size": "h1"
-          }
-        },
-        "15b74bd0-cbdf-4298-806d-aa90f3b341fc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Because we're from the outdoor mecca of New Zealand, a passion for nature and the outdoors flows through everything we do – especially our products. Everything we produce is designed to handle the rugged outdoors. And to protect the environment we love, we strive to make our packaging from 100% recycled materials wherever possible.<\/p><p>As hat-tip to our kiwi roots, you'll find the official fernmark symbol on all of our products, the registered mark of our New Zealand origins<\/p>",
-            "text_style": "body"
-          }
-        },
-        "2176e679-150c-4547-bb5d-81572134b7a8": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "product": "",
-            "atc_type": "ajax",
-            "button_toggle": false
-          }
-        }
-      },
-      "block_order": [
-        "c5680beb-6650-464a-ade4-1e815ade894c",
-        "15b74bd0-cbdf-4298-806d-aa90f3b341fc",
-        "2176e679-150c-4547-bb5d-81572134b7a8"
-      ],
-      "custom_css": [
-        "a {color: #212121;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/L1000275_copy.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 52,
-        "padding_bottom": 100
-      }
-    },
-    "2869a041-f960-4ea9-8fa0-d8fb355479b6": {
-      "type": "rich-text",
-      "blocks": {
-        "b625a6b3-b5ba-450f-a935-9e49e0a9ea93": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "We believe that mountain biking and everything it offers helps positively develop kids and leaves a lasting impression. That’s why our range of products are designed to help families hit the trails together – providing amazing mountain biking experiences, creating memorable family moments, and fostering a passion for riding and a life in the great outdoors",
-            "heading_size": "h2"
-          }
-        },
-        "91449acb-481d-470e-b84d-2540d79f3fc0": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>OUR STORY<\/strong><br\/> <br\/>Our journey began in the New Zealand summer of 2017, when mountain biking was splitting up the family for Kids Ride Shotgun co-founder Dan Necklen.<\/p><p>“Our kids were 3, 7 and 9 years old, and we’d literally have to split up to go riding. We would head to the trails in nearby Rotorua, and I’d ride the longer trails with our older boys, whilst my wife would stay near the carpark with our youngest son on his balance bike. We all loved mountain biking, but we hated having to split up to do it – we had to find a better way.”<\/p><p>Dan knew that a rear mounted seat wouldn’t work on his full suspension bike, so he started looking at front mounted child seats – and he found two options suitable for mountain biking. But unfortunately, the first wouldn’t fit his bike, and the second was a permanent attachment which also risked scratching his pride and joy.<\/p><p>And that’s when co-founder, product designer and MTB Dad Tom Hayward stepped in. The brief was simple. To design a child bike seat for parents who have high end full-suspension bikes, and want to take their kids mountain biking with them.<\/p><p>“After several prototypes, and plenty of feedback from MTB families and bike retailers, we had a design that was working really well – and most importantly, parents and kids were loving it”<\/p><p>Fast forward a few months, and the first version of the shotgun seat was born, and a pre-order campaign helped launch the brand in New Zealand. In March 2018, our shotgun handlebar accessory was released, before investment was raised in February 2019, and our focus shifted to North America and Europe, and USA and UK distribution was secured.<\/p><p>In 2020, covid-19 fuelled a global bike boom, and our tow rope and ‘shred til bed’ kids book products launched. This was supported by strong growth in Europe, with distribution secured in a number of key markets. We also picked up the design and innovation award, and grew our team from 4 to 14 staff, including a number of off-shore team members.<\/p><p>In 2021, we shifted across town into our new 'shred-quarters', and released the shotgun pro, our e-bike compatible child seat with zero frame contact.<\/p><p>From our origins as a single-product business, we’re now stoked to be a leading brand in the emerging mountain biking with kids category, and we’re excited about raising the next generation of mountain bikers.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "b625a6b3-b5ba-450f-a935-9e49e0a9ea93",
-        "91449acb-481d-470e-b84d-2540d79f3fc0"
-      ],
-      "custom_css": [
-        ".h2 {display: flex; align-items: center; justify-content: center !important; margin-bottom: 50px; font-size: 24px;}",
-        "a {color: #212121;}",
-        "strong {font-weight: 900; font-size: 20px; line-height: 30px;}",
-        "p {font-size: 12px;}",
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=t1_mxcDtM6Q&embeds_referring_euri=https%3A%2F%2Fkidsrideshotgun.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo",
+        "description": "",
+        "full_width": false,
         "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
-        "full_width": true,
-        "padding_top": 100,
+        "padding_top": 52,
         "padding_bottom": 100
       }
     }
@@ -439,9 +275,6 @@
     "25c8fe87-ac6a-4f68-8bc7-107eec422220",
     "9d63fc14-eb6c-4cff-a94e-cddea251b7bc",
     "4560f180-2a41-434c-bd15-32b475a926de",
-    "d074f53f-b812-4bfe-898b-f27bafd0dc7a",
-    "139f0de3-8278-4868-8e89-fa6dc9e34809",
-    "e13b622e-f8d9-47c9-a7ec-1d687d3f885a",
-    "2869a041-f960-4ea9-8fa0-d8fb355479b6"
+    "0d13993e-816d-4bbe-b758-f81e961e5102"
   ]
 }
