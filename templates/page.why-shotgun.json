@@ -57,75 +57,84 @@
     "50cd6fac-a286-4a84-9510-0abc1086ad65": {
       "type": "rich-text",
       "blocks": {
-        "template--16065053556886__50cd6fac-a286-4a84-9510-0abc1086ad65-text-1": {
+        "48f84f0c-a03b-4199-b747-87bc75dfa5e0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FRONT VERSUS REAR MOUNTED CHILD SEATS.",
+            "heading_size": "h2"
+          }
+        },
+        "4b3a1e65-c240-4b5b-8d5f-de5a7654b358": {
           "type": "text",
           "settings": {
-            "text": ""
+            "text": "<p>If you're looking to take your little one riding, the first step is to decide whether you'd like them sitting in front or behind you – and as you can tell, we think front is best for the reasons below.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--16065053556886__50cd6fac-a286-4a84-9510-0abc1086ad65-text-1"
+        "48f84f0c-a03b-4199-b747-87bc75dfa5e0",
+        "4b3a1e65-c240-4b5b-8d5f-de5a7654b358"
       ],
-      "custom_css": [
-        ".h2 {display: flex; align-items: center; justify-content: center !important; margin-bottom: 50px; font-size: 24px;}",
-        "a {color: #212121;}",
-        "strong {font-weight: 900; font-size: 20px; line-height: 20px;}",
-        "p {font-size: 20px; line-height: 20px;}",
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "5ae21b2d-d3cc-4af4-896c-fd0aef91c98f": {
-      "type": "rich-text",
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 100,
         "padding_bottom": 0
       }
     },
-    "1691371931fdb06143": {
-      "type": "apps",
+    "58762137-8fbb-45f7-9e7a-c38c022cb6b5": {
+      "type": "multicolumn-sidebyside",
       "blocks": {
-        "11664110-ab1f-4748-8cec-287058b4d3b5": {
-          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/media-grid\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+        "template--16066259779734__58762137-8fbb-45f7-9e7a-c38c022cb6b5-column-2": {
+          "type": "column",
           "settings": {
-            "product": "asiento-para-ninos-shotgun-pro-mtb"
+            "title": "<strong>Front Mounted Seat<\/strong>",
+            "text": "<p>✅ Active participation, learning to ride<\/p><p>✅ Centered weight distribution on bike<\/p><p>✅ Suitable for full suspension bikes<\/p><p>✅ Visibility of what's ahead<\/p><p>✅ Ability to interact \/ talk with child<\/p>",
+            "link_label": "",
+            "link": "",
+            "button_toggle": false
+          }
+        },
+        "template--16066259779734__58762137-8fbb-45f7-9e7a-c38c022cb6b5-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Rear Mounted Seat<\/strong>",
+            "text": "<p>⛔️ Passive participation, sitting prone<\/p><p>⛔️ Uneven weight distribution on bike<\/p><p>⛔️ Suitable for hard tail bikes only <\/p><p>⛔️ Looking at parents back<\/p><p>⛔️ Limited ability to interact \/ talk with child<\/p>",
+            "link_label": "",
+            "link": "",
+            "button_toggle": false
           }
         }
       },
       "block_order": [
-        "11664110-ab1f-4748-8cec-287058b4d3b5"
+        "template--16066259779734__58762137-8fbb-45f7-9e7a-c38c022cb6b5-column-2",
+        "template--16066259779734__58762137-8fbb-45f7-9e7a-c38c022cb6b5-column-1"
       ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "a0c5ea50-3e19-4501-9051-49a322c718c8": {
-      "type": "rich-text",
       "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
+        ".content-container:after {box-shadow: none !important;}",
+        "p {text-align: left;}",
+        ".content-container {width: 68%; margin-left: 90px}"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 0
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 100
       }
     },
     "08a39fdf-ae12-4930-bb17-964a0e96d9dd": {
@@ -249,72 +258,6 @@
         "swipe_on_mobile": false,
         "padding_top": 100,
         "padding_bottom": 100
-      }
-    },
-    "58762137-8fbb-45f7-9e7a-c38c022cb6b5": {
-      "type": "multicolumn-sidebyside",
-      "blocks": {
-        "template--16066259779734__58762137-8fbb-45f7-9e7a-c38c022cb6b5-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ZYTG_090823.png",
-            "title": "ZERO YEARS TO GEARS",
-            "text": "<p>From birth to bike, we have everything you need to raise your mini mountain biker.<\/p>",
-            "link_label": "",
-            "link": "",
-            "button_toggle": false
-          }
-        },
-        "template--16066259779734__58762137-8fbb-45f7-9e7a-c38c022cb6b5-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DFD_090823.png",
-            "title": "DESIGNED FOR DIRT",
-            "text": "<p>Our products are designed specifically for mountain biking, crafted for life on the trails and built to last.<\/p>",
-            "link_label": "",
-            "link": "",
-            "button_toggle": false
-          }
-        },
-        "template--16066259779734__58762137-8fbb-45f7-9e7a-c38c022cb6b5-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/dby_af267a31-fc66-479c-884a-cd8583e71331.png",
-            "title": "DRIVEN BY EXPERIENCE",
-            "text": "<p>Our products unlock amazing experiences for mtb families to do together - creating memories that will last a lifetime.<\/p>",
-            "link_label": "",
-            "link": "",
-            "button_toggle": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16066259779734__58762137-8fbb-45f7-9e7a-c38c022cb6b5-column-2",
-        "template--16066259779734__58762137-8fbb-45f7-9e7a-c38c022cb6b5-column-1",
-        "template--16066259779734__58762137-8fbb-45f7-9e7a-c38c022cb6b5-column-3"
-      ],
-      "custom_css": [
-        "@media only screen and (min-width: 992px) {.multicolumn-list__item.center .media--adapt, .multicolumn-list__item .media--adapt .multicolumn-card__image {max-width: 70%; max-height: 50%; margin: 8%; margin-bottom: -50px; }}",
-        ".content-container:after {box-shadow: none !important;}",
-        "p {font-size: 11px; margin-top: -15px;}",
-        "h3 {margin-top: -15px; color: #212121;}",
-        "@media only screen and (max-width: 992px) {p {display: none; } h3 {margin-top: 0px; font-size: 14px !important; color: #212121; }}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 52,
-        "padding_bottom": 0
       }
     },
     "139f0de3-8278-4868-8e89-fa6dc9e34809": {
@@ -462,13 +405,10 @@
     "main",
     "31da16f8-a105-4b9c-8661-aef233d5c6b2",
     "50cd6fac-a286-4a84-9510-0abc1086ad65",
-    "5ae21b2d-d3cc-4af4-896c-fd0aef91c98f",
-    "1691371931fdb06143",
-    "a0c5ea50-3e19-4501-9051-49a322c718c8",
+    "58762137-8fbb-45f7-9e7a-c38c022cb6b5",
     "08a39fdf-ae12-4930-bb17-964a0e96d9dd",
     "d074f53f-b812-4bfe-898b-f27bafd0dc7a",
     "e5d6bbbd-4f19-4398-a81f-8b7211bcf5bb",
-    "58762137-8fbb-45f7-9e7a-c38c022cb6b5",
     "139f0de3-8278-4868-8e89-fa6dc9e34809",
     "e13b622e-f8d9-47c9-a7ec-1d687d3f885a",
     "2869a041-f960-4ea9-8fa0-d8fb355479b6"
