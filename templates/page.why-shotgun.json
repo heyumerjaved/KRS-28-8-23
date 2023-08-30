@@ -133,7 +133,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 52,
-        "padding_bottom": 48
+        "padding_bottom": 80
       }
     },
     "25c8fe87-ac6a-4f68-8bc7-107eec422220": {
@@ -165,7 +165,7 @@
         "content_alignment": "center",
         "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
         "full_width": true,
-        "padding_top": 52,
+        "padding_top": 100,
         "padding_bottom": 0
       }
     },
@@ -215,7 +215,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 52,
-        "padding_bottom": 48
+        "padding_bottom": 60
       }
     },
     "4560f180-2a41-434c-bd15-32b475a926de": {
@@ -248,7 +248,7 @@
         "content_alignment": "center",
         "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
         "full_width": true,
-        "padding_top": 52,
+        "padding_top": 100,
         "padding_bottom": 0
       }
     },
