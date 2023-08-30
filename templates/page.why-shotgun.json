@@ -18,14 +18,14 @@
         "template--16066259779734__31da16f8-a105-4b9c-8661-aef233d5c6b2-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "FOR THE NEXT GENERATION OF MOUNTAIN BIKERS.",
+            "heading": "WHY SHOTGUN?",
             "heading_size": "h1"
           }
         },
         "template--16066259779734__31da16f8-a105-4b9c-8661-aef233d5c6b2-text-1": {
           "type": "text",
           "settings": {
-            "text": "We're on a mission to raise the next generation of mountain bikers. To help families ride together, and inspire future riders. ",
+            "text": "Why choose a front mounted bicycle seat for your child?",
             "text_style": "font-weight: 900"
           }
         }
@@ -41,7 +41,7 @@
         "@media only screen and (max-width: 540px) {h2 {font-size: 20px; max-width: 70%; } p {max-width: 60%; font-size: 10px; } .banner {flex-direction: row; flex-wrap: nowrap; margin: 0; gap: 0; height: 700px; } h2 {margin-top: 280px; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_9c4346d9-85b0-4f54-a0e2-f03fe25ac754.jpg",
+        "image": "shopify:\/\/shop_images\/Copy_of_Shotgun_Assets_TW_2020-6August_30_2020211A0445_38e5ac8d-3baf-4de6-bcc9-7cd28b7bdcc5.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "middle-left",
