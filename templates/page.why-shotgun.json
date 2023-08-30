@@ -231,7 +231,7 @@
         "4c6b9485-0ccd-48c5-9573-f7b5ecffa11a": {
           "type": "text",
           "settings": {
-            "text": "<p>Use the below table & video to help you decide if the <a href=\"https:\/\/kidsrideshotgun.com\/collections\/products\/products\/shotgun-kids-mtb-seat-combo\">Shotgun seat<\/a>, or the<a href=\"https:\/\/kidsrideshotgun.com\/products\/shotgun-pro-kids-mtb-seat\">Shotgun Pro <\/a>seat, is the right one for you:<\/p>"
+            "text": "<p>Use the below table & video to help you decide if the <a href=\"https:\/\/kidsrideshotgun.com\/collections\/products\/products\/shotgun-kids-mtb-seat-combo\">Shotgun seat<\/a>, or the <a href=\"https:\/\/kidsrideshotgun.com\/products\/shotgun-pro-kids-mtb-seat\">Shotgun Pro <\/a>seat, is the right one for you:<\/p>"
           }
         }
       },
@@ -240,7 +240,8 @@
         "4c6b9485-0ccd-48c5-9573-f7b5ecffa11a"
       ],
       "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
+        ".content-container:after {box-shadow: none !important;}",
+        "a {color: #212121;}"
       ],
       "settings": {
         "desktop_content_position": "center",
