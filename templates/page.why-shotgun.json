@@ -168,7 +168,7 @@
         ".content-container {background: none;}",
         ".content-container:after {box-shadow: none !important;}",
         "@media only screen and (min-width: 992px) {p {text-align: left; margin-left: 60px; font-size: 15px; } strong {font-size: 20px; }}",
-        "@media only screen and (max-width: 992px) {p {text-align: left; font-size: 7px; } strong {font-size: 12px; }}"
+        "@media only screen and (max-width: 992px) {p {text-align: left; font-size: 7px; } strong {font-size: 10px; }}"
       ],
       "settings": {
         "title": "",
