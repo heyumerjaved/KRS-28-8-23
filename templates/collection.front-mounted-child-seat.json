@@ -21,30 +21,10 @@
             "color_scheme": "inverse",
             "text_alignment_mobile": "left"
           }
-        },
-        "template--16038430965910__1fbe2ef4-7f2b-45b9-99c3-314570df5274-1687143959204f79dd-1": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "smallimage_width": 150,
-            "button_label": "Button label",
-            "link": "",
-            "button_toggle": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "template--16038430965910__1fbe2ef4-7f2b-45b9-99c3-314570df5274-1687143959204f79dd-0",
-        "template--16038430965910__1fbe2ef4-7f2b-45b9-99c3-314570df5274-1687143959204f79dd-1"
+        "template--16038430965910__1fbe2ef4-7f2b-45b9-99c3-314570df5274-1687143959204f79dd-0"
       ],
       "custom_css": [
         ".gradient {display: flex; width: 100%; height: 100%; background: linear-gradient(to right, black -100%, rgba(0, 0, 0, 0) 200%);}",
@@ -154,102 +134,19 @@
         "padding_bottom": 100
       }
     },
-    "1e74dc56-277d-422a-b61c-21878e88422d": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16038430965910__1e74dc56-277d-422a-b61c-21878e88422d-1687143244cce79958-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/A7301766_copy_2.jpg",
-            "title": "DESIGNED FOR MOUNTAIN BIKERS",
-            "text": "<p>Designed by mountain bikers for mountain bikers. Tested in the toughest environments so you can take to the trails with confidence.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16038430965910__1e74dc56-277d-422a-b61c-21878e88422d-1687143244cce79958-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/A7302045.jpg",
-            "title": "RIDING TOGETHER AS A FAMILY",
-            "text": "<p>Now you can take your kids riding and spend quality time together as a family in nature, fostering a love for the great outdoors. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16038430965910__1e74dc56-277d-422a-b61c-21878e88422d-1687143244cce79958-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/A7301591.jpg",
-            "title": "PROTECT YOUR FRAME",
-            "text": "<p>All our front mounted child bikes seats have full rubber protection to keep your frame safe from damage or  scratching.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16038430965910__1e74dc56-277d-422a-b61c-21878e88422d-1687143244cce79958-0",
-        "template--16038430965910__1e74dc56-277d-422a-b61c-21878e88422d-1687143244cce79958-1",
-        "template--16038430965910__1e74dc56-277d-422a-b61c-21878e88422d-1687143244cce79958-2"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".multicolumn [class^=\"title\"] {align-items: center !important; justify-content: center !important; height: 100px;}",
-        ".h2 {text-align: center;}",
-        ".multicolumn-card {display: width: 100% !important; max-width: 100% !important;}",
-        "h3{font-size: 13px}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
     "5db3ad43-09b4-4905-85ee-36f1798c3966": {
       "type": "image-with-text",
       "blocks": {
-        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-heading-1": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
         "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-text-1": {
           "type": "text",
           "settings": {
             "text": "<h3>DESIGNED FOR MOUNTAIN BIKERS<\/h3><p>Designed by mountain bikers for mountain bikers. Tested in the toughest environments so you can take to the trails with confidence.<\/p><h3>RIDE TOGETHER AS A FAMILY<\/h3><p>Share the joy of mountain biking together as a family, spending quality time together in nature doing what you love.<\/p><h3>PROTECT YOUR FRAME<\/h3><p>All of our front mounted child bikes seats have full rubber protection to keep your frame safe from damage or scratching.<\/p>",
             "text_style": "body"
           }
-        },
-        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "product": "",
-            "atc_type": "ajax",
-            "button_toggle": false
-          }
         }
       },
       "block_order": [
-        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-heading-1",
-        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-text-1",
-        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-button-1"
+        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-text-1"
       ],
       "custom_css": [
         "p {color: #212121;}",
@@ -406,40 +303,6 @@
         "padding_bottom": 100
       }
     },
-    "fe166266-2c75-4b3e-a67f-cc3a21b5af91": {
-      "type": "featured-collection",
-      "disabled": true,
-      "custom_css": [
-        ".cloud-search-filter {display: none;}",
-        ".cloud-search-filters-mobile-classic {display: none;}"
-      ],
-      "settings": {
-        "title": "AMPLIFY YOUR RIDES",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "most-popular",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "button_toggle": true
-      }
-    },
     "d5f87ff4-bc76-41b9-87c3-b055459de40c": {
       "type": "featured-collection",
       "custom_css": [
@@ -561,36 +424,6 @@
         "full_width": true,
         "padding_top": 48,
         "padding_bottom": 0
-      }
-    },
-    "main-collection-product-grid": {
-      "type": "main-collection-product-grid",
-      "disabled": true,
-      "settings": {
-        "products_per_page": 20,
-        "columns_desktop": 4,
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "enable_filtering": true,
-        "filter_type": "horizontal",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 0,
-        "padding_bottom": 68,
-        "button_toggle": false
-      }
-    },
-    "main-collection-banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": false,
-        "show_collection_image": false,
-        "color_scheme": "background-1"
       }
     },
     "1a579df8-c859-4fe1-b0b0-1851a4542970": {
@@ -720,16 +553,6 @@
         "padding_bottom": 0
       }
     },
-    "44c2be82-a392-426d-946e-14f0c43fb24d": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<style>\n  .container {\n    max-width: 980px;\n    margin: 0 auto;\n  }\n  \n  .button-container {\n    display: flex;\n    justify-content: space-between;\n    text-align: center;\n    align-items: center;\n    padding-top: 15px;\n    padding-bottom: 15px;\n  }\n  \n  .button-container .button {\n    padding: 15px 15px;\n    background-color: #ff6b00;\n    border: none;\n    color: #f1f1f1;\n    text-decoration: none;\n    text-align: center;\n    display: inline-block;\n    cursor: pointer;\n    width: 180px;\n    font-size: 14px; \/* Default font size *\/\n  }\n  \n  .button-container .button:first-child {\n    margin-left: 25px;\n  }\n  \n  .button-container .button:last-child {\n    margin-right: 25px;\n  }\n  \n  \/* Media query for mobile devices *\/\n  @media only screen and (max-width: 767px) {\n    .button-container .button {\n      font-size: 10px;\n    }\n.button-container .button {\n    padding: 15px 15px;\n    background-color: #ff6b00;\n    border: none;\n    color: #f1f1f1;\n    text-decoration: none;\n    text-align: center;\n    display: inline-block;\n    cursor: pointer;\n    width: 120px;\n    font-size: 10px; \/* Default font size *\/\n  }\n  }\n<\/style>\n\n<div class=\"container\">\n  <div class=\"button-container\">\n    <a href=\"https:\/\/example.com\/link1\" class=\"button\">LEARN MORE<\/a>\n    <a href=\"https:\/\/example.com\/link2\" class=\"button\">LEARN MORE<\/a>\n    <a href=\"https:\/\/kids-ride-shotgun-es.myshopify.com\/products\/asiento-para-ninos-shotgun-pro-mtb\" class=\"button\">LEARN MORE<\/a>\n  <\/div>\n<\/div>",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "padding_top": 4,
-        "padding_bottom": 36
-      }
-    },
     "1e698311-db95-4d2d-a273-9ff553e11a0a": {
       "type": "featured-blog-modified",
       "settings": {
@@ -746,29 +569,56 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "main-collection-banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "main-collection-product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 20,
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 68,
+        "button_toggle": false
+      }
     }
   },
   "order": [
     "1fbe2ef4-7f2b-45b9-99c3-314570df5274",
     "4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80",
     "19d069c6-6ef8-4b77-9e7c-6b8027636d51",
-    "1e74dc56-277d-422a-b61c-21878e88422d",
     "5db3ad43-09b4-4905-85ee-36f1798c3966",
     "7f96a391-6b55-45ea-bdec-c7ebae4914a7",
     "b090af9f-d513-4991-aef2-f890298945a5",
-    "fe166266-2c75-4b3e-a67f-cc3a21b5af91",
     "d5f87ff4-bc76-41b9-87c3-b055459de40c",
     "652cffc6-4a39-45af-aefd-3adc911d3a82",
     "9ff8835c-a0ea-448a-ac08-52da2fe6d6a0",
     "1688078656b90c3621",
     "619cae11-7e87-4ce5-bb99-9a62fabedfe8",
-    "main-collection-product-grid",
-    "main-collection-banner",
     "1a579df8-c859-4fe1-b0b0-1851a4542970",
     "b0ec386c-1010-4319-b050-9af9c9565561",
     "16884380759e7ce7b8",
     "27d73539-01a4-4974-9b9f-3fe3d99e798f",
-    "44c2be82-a392-426d-946e-14f0c43fb24d",
-    "1e698311-db95-4d2d-a273-9ff553e11a0a"
+    "1e698311-db95-4d2d-a273-9ff553e11a0a",
+    "main-collection-banner",
+    "main-collection-product-grid"
   ]
 }
