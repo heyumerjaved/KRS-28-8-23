@@ -38,7 +38,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
         "full_width": true,
         "padding_top": 100,
         "padding_bottom": 52
@@ -73,7 +73,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
         "full_width": true,
         "padding_top": 52,
         "padding_bottom": 48
@@ -99,7 +99,7 @@
         "desktop_layout": "left",
         "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
         "padding_top": 52,
         "padding_bottom": 48
       }
@@ -133,7 +133,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
         "full_width": true,
         "padding_top": 52,
         "padding_bottom": 48
@@ -148,9 +148,44 @@
         "video_url": "https:\/\/www.youtube.com\/watch?v=TeuyhasN4yc",
         "description": "",
         "full_width": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
         "padding_top": 52,
         "padding_bottom": 48
+      }
+    },
+    "8ff26dab-62c7-4570-a6c2-502e9c56370c": {
+      "type": "rich-text",
+      "blocks": {
+        "240ae424-ba11-4e6d-a3d5-fb14cb54a37e": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "SHOTGUN SEAT FITTING",
+            "heading_size": "h2"
+          }
+        },
+        "488fc7a8-3880-4eb3-9dee-78c462281094": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have a question about the suitability of the Shotgun 2.0 seat for your bike, we recommend visiting your local retailer. Or you can either <a href=\"https:\/\/kidsrideshotgun.com\/pages\/contact\">contact us<\/a> or <a>start a chat with our team.<\/a><\/p><h3>ARE YOU SURE THE SHOTGUN 2.0 SEAT WON'T FIT MY E-MTB?<\/h3><p>The shotgun seat doesn't fit e-mtb's because of the variance between the top tube and the down tube being too great. We have had a handful of customers who have modified their shotgun seat to fit their e-mtb, but that's not something we can recommend.<\/p><h3>CAN I USE THE SHOTGUN 2.0 SEAT ON MY CARBON FRAME?<\/h3><p>Yes, we have thousands of customers around the world using the shotgun seat on high-end carbon mountain bikes. The clamping force of the shotgun seat is minimal thanks to the load being shared across 5 points of contact, with each point having moulded rubber frame protection. <\/p><h3>WILL THE SHOTGUN 2.0 SEAT DAMAGE OR SCRATCH MY BIKE?<\/h3><p>The shotgun seat contacts the frame in 5 places, with each one of these locations has full rubber-moulded frame protection. Sharing the load across these locations helps to minimise the clamping force required, and the rubber protection means your frame is safe from damage or scratching.<\/p><h3>HAVE AN INSTALLATION QUESTION? <\/h3><p>If you have a question about the installation or suitability of the shotgun seat for your bike, please <a href=\"https:\/\/kidsrideshotgun.com\/pages\/contact\">contact us <\/a>or <a>start a chat with our team<\/a><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "240ae424-ba11-4e6d-a3d5-fb14cb54a37e",
+        "488fc7a8-3880-4eb3-9dee-78c462281094"
+      ],
+      "custom_css": [
+        "a {color: #212121;}",
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 100
       }
     }
   },
@@ -160,6 +195,7 @@
     "3c043d80-5f8e-4bfb-86e8-731fee26fbf4",
     "c14d38e9-e69b-41e1-9b9d-5dc01c1d5d80",
     "21660d44-c568-4d8e-a0d6-b3d10e90bb4a",
-    "13308d88-c8cb-4ebc-affc-3c3d247cc8ce"
+    "13308d88-c8cb-4ebc-affc-3c3d247cc8ce",
+    "8ff26dab-62c7-4570-a6c2-502e9c56370c"
   ]
 }
