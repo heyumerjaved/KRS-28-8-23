@@ -18,7 +18,7 @@
           "type": "heading",
           "settings": {
             "heading": "SHOTGUN SEAT FITTING",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "template--16080135520406__4809ba0a-7302-4339-bf08-0ffe1db82c7d-text-1": {
@@ -38,7 +38,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
         "full_width": true,
         "padding_top": 100,
         "padding_bottom": 52
