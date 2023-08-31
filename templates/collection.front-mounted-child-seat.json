@@ -89,7 +89,7 @@
       ],
       "custom_css": [
         "h2 {margin: auto;}",
-        ".multicolumn-sidebyside .h2 {margin-bottom: 80px;}",
+        ".multicolumn-sidebyside .h2 {margin-bottom: 80px; text-align: center;}",
         ".multicolumn-sidebyside .multicolumn-list h3,.multicolumn-sidebyside .multicolumn-list h3 strong {color: #606060;}"
       ],
       "settings": {
