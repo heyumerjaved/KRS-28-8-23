@@ -1,5 +1,54 @@
 {
   "sections": {
+    "ed085e6d-7d75-4992-bf5b-56b63be589d8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16080135520406__ed085e6d-7d75-4992-bf5b-56b63be589d8-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "SHOTGUN SEAT FITTING",
+            "heading_size": "h2"
+          }
+        },
+        "template--16080135520406__ed085e6d-7d75-4992-bf5b-56b63be589d8-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16080135520406__ed085e6d-7d75-4992-bf5b-56b63be589d8-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "product": "",
+            "atc_type": "ajax",
+            "button_toggle": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16080135520406__ed085e6d-7d75-4992-bf5b-56b63be589d8-heading-1",
+        "template--16080135520406__ed085e6d-7d75-4992-bf5b-56b63be589d8-text-1",
+        "template--16080135520406__ed085e6d-7d75-4992-bf5b-56b63be589d8-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-07-19_at_12.54.35_PM.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -81,6 +130,7 @@
     }
   },
   "order": [
+    "ed085e6d-7d75-4992-bf5b-56b63be589d8",
     "main",
     "4809ba0a-7302-4339-bf08-0ffe1db82c7d",
     "3c043d80-5f8e-4bfb-86e8-731fee26fbf4"
