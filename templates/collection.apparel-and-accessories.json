@@ -7,9 +7,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Copy_of_Kids-Ride-Shotgun-Pro-Seat-57_copy_f76ea143-b893-426d-b980-836a8d7c1662.jpg",
-            "heading": "FRONT MOUNTED CHILD BIKE SEATS",
+            "heading": "APPAREL & ACCESSORIES",
             "heading_size": "h1",
-            "subheading": "The ultimate upfront experience for your little one",
+            "subheading": "Everything you need to keep the stoke a alive",
             "smallimage_width": 150,
             "button_label": "",
             "link": "",
@@ -87,6 +87,7 @@
         "template--16055924981910__4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80-column-2",
         "template--16055924981910__4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80-column-1"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {margin: auto;}",
         ".multicolumn-sidebyside .h2 {margin-bottom: 80px; text-align: center;}",
@@ -122,6 +123,7 @@
       "block_order": [
         "template--16039832420502__19d069c6-6ef8-4b77-9e7c-6b8027636d51-168843814006b026e2-1"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -153,7 +155,7 @@
         ".image-with-texta--overlap .image-with-text__content-text {}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/A7302045.jpg",
+        "image": "shopify:\/\/shop_images\/shred_til_bed.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
