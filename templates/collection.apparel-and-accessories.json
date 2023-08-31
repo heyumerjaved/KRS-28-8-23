@@ -1,0 +1,624 @@
+{
+  "sections": {
+    "1fbe2ef4-7f2b-45b9-99c3-314570df5274": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16038430965910__1fbe2ef4-7f2b-45b9-99c3-314570df5274-1687143959204f79dd-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Copy_of_Kids-Ride-Shotgun-Pro-Seat-57_copy_f76ea143-b893-426d-b980-836a8d7c1662.jpg",
+            "heading": "FRONT MOUNTED CHILD BIKE SEATS",
+            "heading_size": "h1",
+            "subheading": "The ultimate upfront experience for your little one",
+            "smallimage_width": 150,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16038430965910__1fbe2ef4-7f2b-45b9-99c3-314570df5274-1687143959204f79dd-0"
+      ],
+      "custom_css": [
+        ".gradient {display: flex; width: 100%; height: 100%; background: linear-gradient(to right, black -100%, rgba(0, 0, 0, 0) 200%);}",
+        "@media only screen and (min-width: 540px) {.gradient {background: none; }}",
+        "@media only screen and (max-width: 540px) {h2 {font-size: 20px; max-width: 60%; } p {max-width: 60%; font-size: 10px; }}",
+        "@media screen and (max-width: 750px) {slideshow-component .slideshow.banner {flex-direction: row; flex-wrap: nowrap; margin: 0; gap: 0; height: 700px; } h2 {margin-top: 300px; } p {}}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "",
+        "hide_arrows_play": true,
+        "hide_controls": true
+      }
+    },
+    "4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80": {
+      "type": "multicolumn-sidebyside",
+      "blocks": {
+        "template--16055924981910__4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-07-19_at_12.54.35_PM.png",
+            "title": "SHOTGUN®",
+            "text": "<h5>$135 USD<\/h5><h5>On\/off – 2 minutes<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted <\/h5><h5>Fixed leg length<\/h5><h5>No bike modification<\/h5><h5>Kids 2-5 years <\/h5><h5>Allan key handlebars<\/h5><h5><\/h5>",
+            "link_label": "Learn More",
+            "link": "#",
+            "button_toggle": true
+          }
+        },
+        "template--16055924981910__4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-07-19_at_12.55.45_PM.png",
+            "title": "SHOTGUN® 2.0",
+            "text": "<h5>$205 USD<\/h5><h5>On\/off – 30 seconds<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted<\/h5><h5>2 leg lengths <\/h5><h5>No bike modification<\/h5><h5>Kids 18 mo-5 years<\/h5><h5>Allan key handlebars<\/h5><h5><\/h5>",
+            "link_label": "Learn More",
+            "link": "#",
+            "button_toggle": true
+          }
+        },
+        "template--16055924981910__4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KRS_Combo_Grey_1_1-1.jpg",
+            "title": "SHOTGUN® PRO",
+            "text": "<h5>$310 USD<\/h5><h5>On\/off – 15 seconds<\/h5><h5>E-bike compatible<\/h5><h5>Zero frame contact <\/h5><h5>7 leg lengths<\/h5><h5>Stem spacer required <\/h5><h5>Kids 18 mo-5 years<\/h5><h5>Quick release handlebars<\/h5><h5><\/h5>",
+            "link_label": "Learn more",
+            "link": "shopify:\/\/products\/shotgun-child-bike-seat-handlebars-combo",
+            "button_toggle": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16055924981910__4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80-column-3",
+        "template--16055924981910__4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80-column-2",
+        "template--16055924981910__4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80-column-1"
+      ],
+      "custom_css": [
+        "h2 {margin: auto;}",
+        ".multicolumn-sidebyside .h2 {margin-bottom: 80px; text-align: center;}",
+        ".multicolumn-sidebyside .multicolumn-list h3,.multicolumn-sidebyside .multicolumn-list h3 strong {color: #606060;}"
+      ],
+      "settings": {
+        "title": "FIND YOUR PERFECT SEAT & HANDLEBAR SETUP",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "19d069c6-6ef8-4b77-9e7c-6b8027636d51": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16039832420502__19d069c6-6ef8-4b77-9e7c-6b8027636d51-168843814006b026e2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>*To be used as a guideline only. Estimate is based on data collected on average in-seam measurement by age.*<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16039832420502__19d069c6-6ef8-4b77-9e7c-6b8027636d51-168843814006b026e2-1"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "5db3ad43-09b4-4905-85ee-36f1798c3966": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>DESIGNED FOR MOUNTAIN BIKERS<\/h3><p>Designed by mountain bikers for mountain bikers. Tested in the toughest environments so you can take to the trails with confidence.<\/p><h3>RIDE TOGETHER AS A FAMILY<\/h3><p>Share the joy of mountain biking together as a family, spending quality time together in nature doing what you love.<\/p><h3>PROTECT YOUR FRAME<\/h3><p>All of our front mounted child bikes seats have full rubber protection to keep your frame safe from damage or scratching.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-text-1"
+      ],
+      "custom_css": [
+        "p {color: #212121;}",
+        ".image-with-texta--overlap .image-with-text__content-text {}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/A7302045.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "7f96a391-6b55-45ea-bdec-c7ebae4914a7": {
+      "type": "slideshow",
+      "blocks": {
+        "bd8cc940-1067-475a-9ad3-b9e78f7410e7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "<strong>\"The kids ride shotgun seat is the best kids seat for taking your child mountain biking, and is a great way to bond with your child and introduce them to a sport you love\"<\/strong>",
+            "smallimage": "shopify:\/\/shop_images\/image_10_2_copy.jpg",
+            "smallimage_width": 200,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "b0d59a11-3c9d-401d-8aca-a44edfd2683a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "<strong>\"Kids Ride Shotgun are out to reset your expectations for fun and ease-of-use when you want to bring your child along for the ride.\"<\/strong>",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_2-100.jpg",
+            "smallimage_width": 310,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "5134bd4a-cce0-4287-bd98-ab794dc58421": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "<strong>\"It's lightning fast to mount, quick release up front, quick release at the back. Literally flick it onto one bike and off as you need it. This is one seat to fit all bikes.\"<\/strong>",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_4-100.jpg",
+            "smallimage_width": 250,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "bd8cc940-1067-475a-9ad3-b9e78f7410e7",
+        "b0d59a11-3c9d-401d-8aca-a44edfd2683a",
+        "5134bd4a-cce0-4287-bd98-ab794dc58421"
+      ],
+      "custom_css": [
+        ".banner__media {opacity: 100%; color: #f1f1f1;}",
+        "strong {color: #f1f1f1;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "",
+        "hide_arrows_play": true,
+        "hide_controls": false
+      }
+    },
+    "b090af9f-d513-4991-aef2-f890298945a5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "BUNDLE & SAVE",
+            "heading_size": "h1"
+          }
+        },
+        "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Purchase a seat and handlebars as a combo and save 5%<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "product": "shotgun-child-bike-seat-handlebars-combo",
+            "atc_type": "ajax",
+            "button_toggle": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-heading-1",
+        "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-text-1",
+        "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-button-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/KidsRideShotgun_ShotgunProCombo_Studio1.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "scheme-036afa03-d5ab-4c5a-9bac-3aad9e4e6cc7",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "d5f87ff4-bc76-41b9-87c3-b055459de40c": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".cloud-search-filter {display: none;}",
+        ".cloud-search-filters-mobile-classic {display: none;}"
+      ],
+      "settings": {
+        "title": "DESIGN YOUR EXPERIENCE",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "seats-only",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 100,
+        "padding_bottom": 16,
+        "button_toggle": true
+      }
+    },
+    "652cffc6-4a39-45af-aefd-3adc911d3a82": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "handlebars-only",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 100,
+        "button_toggle": true
+      }
+    },
+    "9ff8835c-a0ea-448a-ac08-52da2fe6d6a0": {
+      "type": "rich-text",
+      "blocks": {
+        "7977c5f9-127d-468b-9ef7-803476e680dc": {
+          "type": "heading",
+          "settings": {
+            "heading": "JOIN THOUSANDS GETTING OUT THERE",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "7977c5f9-127d-468b-9ef7-803476e680dc"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 60
+      }
+    },
+    "1688078656b90c3621": {
+      "type": "apps",
+      "blocks": {
+        "ae0f93b4-3bcb-4296-bb21-3d9debd32a8f": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "asiento-para-ninos-shotgun-pro-mtb",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "ae0f93b4-3bcb-4296-bb21-3d9debd32a8f"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "619cae11-7e87-4ce5-bb99-9a62fabedfe8": {
+      "type": "rich-text",
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 0
+      }
+    },
+    "1a579df8-c859-4fe1-b0b0-1851a4542970": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "video_link": ""
+          }
+        },
+        "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "video_link": ""
+          }
+        },
+        "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "video_link": ""
+          }
+        },
+        "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "video_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-1",
+        "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-2",
+        "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-3",
+        "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-4"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "CATH'S SEO SECTION",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "b0ec386c-1010-4319-b050-9af9c9565561": {
+      "type": "rich-text",
+      "blocks": {
+        "2df19834-16ea-481d-8689-87cf220c3aa6": {
+          "type": "heading",
+          "settings": {
+            "heading": "FOLLOW US ON INSTAGRAM",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "2df19834-16ea-481d-8689-87cf220c3aa6"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 64
+      }
+    },
+    "16884380759e7ce7b8": {
+      "type": "apps",
+      "blocks": {
+        "2a9f0935-f2cf-4bd2-b6e2-0c1a7a23a7ac": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "2a9f0935-f2cf-4bd2-b6e2-0c1a7a23a7ac"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "27d73539-01a4-4974-9b9f-3fe3d99e798f": {
+      "type": "rich-text",
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
+    "1e698311-db95-4d2d-a273-9ff553e11a0a": {
+      "type": "featured-blog-modified",
+      "settings": {
+        "heading": "THE LATEST FROM OUR BLOG",
+        "heading_size": "h2",
+        "blog": "news",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
+        "show_image": true,
+        "show_date": false,
+        "show_author": true,
+        "show_view_all": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "main-collection-banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "main-collection-product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 20,
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 68,
+        "button_toggle": false
+      }
+    }
+  },
+  "order": [
+    "1fbe2ef4-7f2b-45b9-99c3-314570df5274",
+    "4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80",
+    "19d069c6-6ef8-4b77-9e7c-6b8027636d51",
+    "5db3ad43-09b4-4905-85ee-36f1798c3966",
+    "7f96a391-6b55-45ea-bdec-c7ebae4914a7",
+    "b090af9f-d513-4991-aef2-f890298945a5",
+    "d5f87ff4-bc76-41b9-87c3-b055459de40c",
+    "652cffc6-4a39-45af-aefd-3adc911d3a82",
+    "9ff8835c-a0ea-448a-ac08-52da2fe6d6a0",
+    "1688078656b90c3621",
+    "619cae11-7e87-4ce5-bb99-9a62fabedfe8",
+    "1a579df8-c859-4fe1-b0b0-1851a4542970",
+    "b0ec386c-1010-4319-b050-9af9c9565561",
+    "16884380759e7ce7b8",
+    "27d73539-01a4-4974-9b9f-3fe3d99e798f",
+    "1e698311-db95-4d2d-a273-9ff553e11a0a",
+    "main-collection-banner",
+    "main-collection-product-grid"
+  ]
+}
