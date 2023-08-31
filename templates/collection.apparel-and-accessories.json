@@ -169,6 +169,46 @@
         "padding_bottom": 100
       }
     },
+    "72201984-a4fd-4f3e-9758-8dbddf32579b": {
+      "type": "Collection-Hover-Tiles",
+      "blocks": {
+        "template--16079573221526__72201984-a4fd-4f3e-9758-8dbddf32579b-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "handlebars"
+          }
+        },
+        "template--16079573221526__72201984-a4fd-4f3e-9758-8dbddf32579b-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "apparel-accessories"
+          }
+        },
+        "template--16079573221526__72201984-a4fd-4f3e-9758-8dbddf32579b-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "offroad-balance-bikes"
+          }
+        }
+      },
+      "block_order": [
+        "template--16079573221526__72201984-a4fd-4f3e-9758-8dbddf32579b-featured_collection-1",
+        "template--16079573221526__72201984-a4fd-4f3e-9758-8dbddf32579b-featured_collection-2",
+        "template--16079573221526__72201984-a4fd-4f3e-9758-8dbddf32579b-featured_collection-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "7f96a391-6b55-45ea-bdec-c7ebae4914a7": {
       "type": "slideshow",
       "blocks": {
@@ -608,6 +648,7 @@
     "4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80",
     "19d069c6-6ef8-4b77-9e7c-6b8027636d51",
     "5db3ad43-09b4-4905-85ee-36f1798c3966",
+    "72201984-a4fd-4f3e-9758-8dbddf32579b",
     "7f96a391-6b55-45ea-bdec-c7ebae4914a7",
     "b090af9f-d513-4991-aef2-f890298945a5",
     "d5f87ff4-bc76-41b9-87c3-b055459de40c",
