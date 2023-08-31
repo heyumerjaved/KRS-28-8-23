@@ -219,10 +219,10 @@
         "db48a301-2f6a-4226-93f3-140a735ae899"
       ],
       "custom_css": [
-        "@media only screen and (min-width: 1284.9px) {.image-with-text {display: none; } p {width: 100%; color: #ff6b00; }}",
+        "@media only screen and (min-width: 1284.9px) {.image-with-text {display: none; }}",
         ".image-with-text .content-container {box-shadow: none;}",
         ".image-with-text p {width: 120%; margin: 0px; margin-left: -25px; margin-bottom: -40px;}",
-        "@media only screen and (max-width: 1284.9px) {p {width: 100%; color: #212121; }}",
+        " p {width: 100%; color: #212121; }",
         ".image-with-text__heading {font-size: 20px; margin-top: 40px;}"
       ],
       "settings": {
