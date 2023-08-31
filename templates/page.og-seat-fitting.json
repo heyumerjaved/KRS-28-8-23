@@ -94,7 +94,7 @@
         "template--16080135520406__c14d38e9-e69b-41e1-9b9d-5dc01c1d5d80-image-1"
       ],
       "custom_css": [
-        ".card-wrapper {margin-left: auto; margin-right: auto; width: 70%;}"
+        "@media only screen and (min-width: 992px) {.card-wrapper {margin-left: auto; margin-right: auto; width: 70%;}}"
       ],
       "settings": {
         "heading": "",
@@ -144,6 +144,9 @@
     },
     "13308d88-c8cb-4ebc-affc-3c3d247cc8ce": {
       "type": "video",
+      "custom_css": [
+        ".deferred-media {margin-left: auto; margin-right: auto;}"
+      ],
       "settings": {
         "heading": "",
         "heading_size": "h1",
