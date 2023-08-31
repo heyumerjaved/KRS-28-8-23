@@ -101,7 +101,56 @@
         "card_styles": "product-card-wrapper",
         "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
         "padding_top": 52,
-        "padding_bottom": 100
+        "padding_bottom": 48
+      }
+    },
+    "21660d44-c568-4d8e-a0d6-b3d10e90bb4a": {
+      "type": "rich-text",
+      "blocks": {
+        "d9c3d465-7cd1-483b-9c50-12d979e76530": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "SHOTGUN SEAT FITTING",
+            "heading_size": "h2"
+          }
+        },
+        "2e39d75c-2920-4dcc-9710-8e7100662efc": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>SHOTGUN 2.0 SEAT INSTALLATION VIDEO: <\/h3><p>This video is a helpful guide for setting up the shotgun 2.0 seat, which may help clarify some of the above points. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "d9c3d465-7cd1-483b-9c50-12d979e76530",
+        "2e39d75c-2920-4dcc-9710-8e7100662efc"
+      ],
+      "custom_css": [
+        "a {color: #212121;}",
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 48
+      }
+    },
+    "13308d88-c8cb-4ebc-affc-3c3d247cc8ce": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=TeuyhasN4yc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 52,
+        "padding_bottom": 48
       }
     }
   },
@@ -109,6 +158,8 @@
     "main",
     "4809ba0a-7302-4339-bf08-0ffe1db82c7d",
     "3c043d80-5f8e-4bfb-86e8-731fee26fbf4",
-    "c14d38e9-e69b-41e1-9b9d-5dc01c1d5d80"
+    "c14d38e9-e69b-41e1-9b9d-5dc01c1d5d80",
+    "21660d44-c568-4d8e-a0d6-b3d10e90bb4a",
+    "13308d88-c8cb-4ebc-affc-3c3d247cc8ce"
   ]
 }
