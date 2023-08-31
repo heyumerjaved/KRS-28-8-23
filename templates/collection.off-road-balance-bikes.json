@@ -9,7 +9,7 @@
             "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-22_copy.jpg",
             "heading": "OFF-ROAD BALANCE BIKES",
             "heading_size": "h1",
-            "subheading": "The ultimate upfront experience for your little one",
+            "subheading": "No pedals? No problem.",
             "smallimage_width": 150,
             "button_label": "",
             "link": "",
@@ -289,7 +289,7 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/KidsRideShotgun_ShotgunProCombo_Studio1.jpg",
+        "image": "shopify:\/\/shop_images\/221121_9889_Grey_BG_bb47fdf4-c686-49be-9d0c-639397f98fdb.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -300,6 +300,53 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 100,
+        "padding_bottom": 16
+      }
+    },
+    "edaf9d75-c54d-4be8-9d8f-28378937c008": {
+      "type": "image-with-text",
+      "blocks": {
+        "a13a6636-2031-480a-a4b8-c48c51e379a6": {
+          "type": "heading",
+          "settings": {
+            "heading": "BUNDLE & SAVE",
+            "heading_size": "h1"
+          }
+        },
+        "9a251d0c-468e-4020-a307-5790201e481c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Purchase a seat and handlebars as a combo and save 5%<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "ebd53739-fe9d-4b2c-92ad-3ce65039f5fb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "product": "shotgun-child-bike-seat-handlebars-combo",
+            "atc_type": "ajax",
+            "button_toggle": false
+          }
+        }
+      },
+      "block_order": [
+        "a13a6636-2031-480a-a4b8-c48c51e379a6",
+        "9a251d0c-468e-4020-a307-5790201e481c",
+        "ebd53739-fe9d-4b2c-92ad-3ce65039f5fb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/221121_9889_Grey_BG_bb47fdf4-c686-49be-9d0c-639397f98fdb.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "scheme-036afa03-d5ab-4c5a-9bac-3aad9e4e6cc7",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 16,
         "padding_bottom": 100
       }
     },
@@ -608,6 +655,7 @@
     "5db3ad43-09b4-4905-85ee-36f1798c3966",
     "7f96a391-6b55-45ea-bdec-c7ebae4914a7",
     "b090af9f-d513-4991-aef2-f890298945a5",
+    "edaf9d75-c54d-4be8-9d8f-28378937c008",
     "d5f87ff4-bc76-41b9-87c3-b055459de40c",
     "652cffc6-4a39-45af-aefd-3adc911d3a82",
     "9ff8835c-a0ea-448a-ac08-52da2fe6d6a0",
