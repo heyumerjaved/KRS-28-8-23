@@ -219,11 +219,12 @@
         "db48a301-2f6a-4226-93f3-140a735ae899"
       ],
       "custom_css": [
-        "@media only screen and (min-width: 1284.9px) {.image-with-text {display: none; } p {color: #ff6b00;}}",
+        "@media only screen and (min-width: 1284.9px) {.image-with-text {display: none; } p {color: #ff6b00; }}",
         ".image-with-text .content-container {box-shadow: none;}",
         ".image-with-text p {width: 120%; margin: 0px; margin-left: -25px; margin-bottom: -40px;}",
         "p {width: 100%; color: #212121;}",
-        ".image-with-text__heading {font-size: 20px; margin-top: 40px;}"
+        ".image-with-text__heading {font-size: 20px; margin-top: 40px;}",
+        "@media only screen and (min-width: 1284.9px) {.image-with-text p {color: #ff6b00; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/A7301766_copy_2_0eb705d7-bf77-4628-b2f5-86ac25758c7b.jpg",
