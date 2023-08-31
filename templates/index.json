@@ -220,9 +220,10 @@
       ],
       "custom_css": [
         "@media only screen and (min-width: 1284.9px) {.image-with-text {display: none; }}",
+        ".image-with-text {margin-bottom: -10px;}",
         ".image-with-text .content-container {box-shadow: none;}",
-        ".image-with-text p {width: 120%; margin: 0px; margin-left: -25px; margin-bottom: -40px;}",
-        " p {width: 100%; color: #212121; }",
+        ".image-with-text p {width: 120%; margin-left: -22px; margin-bottom: -40px;}",
+        "p {width: 100%; color: #212121;}",
         ".image-with-text__heading {font-size: 20px; margin-top: 40px;}"
       ],
       "settings": {
