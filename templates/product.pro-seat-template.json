@@ -15,6 +15,7 @@
         },
         "0a75fbf8-7f73-4360-9060-f43714b1530c": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Starting from...",
             "text_style": "uppercase"
@@ -435,7 +436,7 @@
         "template--16039832944790__c3900cb3-25d1-4846-8af6-062209ae0070-1688422403b8037bbd-0": {
           "type": "heading",
           "settings": {
-            "heading": "INTRODUCING THE SHOTGUN® PRO",
+            "heading": "SEE THE SHOTGUN® PRO IN ACTION",
             "heading_size": "h2"
           }
         }
