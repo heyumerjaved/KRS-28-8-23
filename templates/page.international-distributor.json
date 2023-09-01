@@ -43,7 +43,7 @@
         "template--16080229957782__ea63cd79-04cf-4de4-82e4-274f3573987b-column-1": {
           "type": "column",
           "settings": {
-            "title": "USA 🇺🇸",
+            "title": "USA",
             "text": "<p>HLC<br\/>1181 South Lake Drive<br\/>Lexington, SC 29073-7744<br\/>USA<\/p><p>phone +1 888 522 2453<br\/><a href=\"http:\/\/www.hlc.bike\/us\/\">www.hlc.bike\/us\/<\/a><\/p>",
             "link_label": "",
             "link": ""
@@ -242,6 +242,9 @@
         "38696835-672e-485d-a645-eba4b1ffb70f",
         "b44eaf54-1797-4ff0-a9df-694a94e18b7e",
         "c5d9790d-7778-4adb-a497-f5b0875c0b87"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "title": "",
