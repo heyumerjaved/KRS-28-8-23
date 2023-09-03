@@ -46,7 +46,8 @@
             "title": "USA 🇺🇸",
             "text": "<p>HLC<br\/>1181 South Lake Drive<br\/>Lexington, SC 29073-7744<br\/>USA<\/p><p>phone +1 888 522 2453<br\/><\/p>",
             "link_label": "Webiste",
-            "link": "https:\/\/www.hlc.bike\/us\/"
+            "link": "https:\/\/www.hlc.bike\/us\/",
+            "outlinebtncheck": true
           }
         },
         "template--16080229957782__ea63cd79-04cf-4de4-82e4-274f3573987b-column-2": {
@@ -55,7 +56,8 @@
             "title": "<strong>CANADA 🇨🇦<\/strong>",
             "text": "<p>HLC<br\/>1000, Rue des Riveurs<br\/>Lévis, QC G6Y 9G2<br\/>Canada<\/p><p>phone +1 888 522 2453<br\/><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.hlc.bike\/ca\/"
+            "link": "https:\/\/www.hlc.bike\/ca\/",
+            "outlinebtncheck": true
           }
         },
         "template--16080229957782__ea63cd79-04cf-4de4-82e4-274f3573987b-column-3": {
@@ -64,7 +66,8 @@
             "title": "<strong>SOUTH AFRICA 🇿🇦<\/strong>",
             "text": "<p>Get Stoked Distribution<br\/>Block D, Unit 4<br\/>Sure Store Storage & Business Park<br\/>70 Carmine Drive<br\/>Burgundy Estate<br\/>Cape Town<br\/>7441<br\/>South Africa <\/p><p><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/getstokedonline.co.za\/ "
+            "link": "https:\/\/getstokedonline.co.za\/ ",
+            "outlinebtncheck": true
           }
         },
         "a86ec789-68c1-4283-aecb-707cf9f98156": {
@@ -73,7 +76,8 @@
             "title": "<strong>UNITED KINGDOM 🇬🇧<\/strong>",
             "text": "<p>Extra (UK) Ltd<br\/>Domino House<br\/>Morris Close<br\/>Park Farm Industrial Estate<br\/>Wellingborough NN8 6XF<br\/>United Kingdom<\/p><p>Phone: +44 1933 672170<br\/><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.extrauk.co.uk"
+            "link": "https:\/\/www.extrauk.co.uk",
+            "outlinebtncheck": true
           }
         },
         "711e9296-2993-47be-a8bb-d2ef1066ef48": {
@@ -82,7 +86,8 @@
             "title": "GERMANY 🇩🇪, AUSTRIA 🇦🇹, NETHERLANDS 🇳🇱, BELGIUM 🇧🇪 & LUXEMBOURG 🇱🇺",
             "text": "<p>Cosmic Sports GmbH<br\/>Leyher Str. 47<br\/>90763 Fürth<br\/>Germany<\/p><p>Phone: +49 911 3107550 <\/p>",
             "link_label": "Website",
-            "link": "https:\/\/cosmicsports.com\/"
+            "link": "https:\/\/cosmicsports.com\/",
+            "outlinebtncheck": true
           }
         },
         "849484a5-29d7-4c9c-a05e-3044a364b144": {
@@ -91,7 +96,8 @@
             "title": "FRANCE 🇫🇷",
             "text": "<p>Tribe Sport Group<br\/>4 rue Condorcet<br\/>83310 Cogolin<br\/>France<\/p><p>Phone : +33 494 54 19 50 <\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.tribesportgroup.com"
+            "link": "https:\/\/www.tribesportgroup.com",
+            "outlinebtncheck": true
           }
         },
         "3f7f30d5-b18c-4e8f-9ebf-7fa30c45f842": {
@@ -100,7 +106,8 @@
             "title": "SPAIN 🇪🇸",
             "text": "<p>Mycro Sport<\/p><p>Carrer Justa Goicoechea n 6<\/p><p>Hospitalet del Llobregat<\/p><p>08902<\/p><p>Phone: + 34 93 411 95 58<\/p><p><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.myrcosport.com"
+            "link": "https:\/\/www.myrcosport.com",
+            "outlinebtncheck": true
           }
         },
         "ac0890ab-14e5-4546-9896-ad7c8afae4a1": {
@@ -109,7 +116,8 @@
             "title": "PORTUGAL 🇵🇹",
             "text": "<p>GEONATLIFE<\/p><p>RANGEL Logistics Solutions - Terminal 4<\/p><p>Rua dos Tratores, 647<\/p><p>Alto Estanqueiro – Jardia<\/p><p>2870-607 Montijo, Portugal<\/p><p>Phone: +351 914 936 495<\/p><p>E-mail: <a href=\"mailto:info@geonatlife.com\" target=\"_blank\">info@geonatlife.com<br\/><\/a><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.geonatlife.com"
+            "link": "https:\/\/www.geonatlife.com",
+            "outlinebtncheck": true
           }
         },
         "3ed4205e-45cd-4491-a375-7e88d05d7a0f": {
@@ -118,7 +126,8 @@
             "title": "<strong>ITALY 🇮🇹<\/strong>",
             "text": "<p>4Guimp Srl<br\/>Via Pillea 17<br\/>16153 Genoa<br\/>Phone: +39 0108935035<br\/><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.4guimp.it"
+            "link": "https:\/\/www.4guimp.it",
+            "outlinebtncheck": true
           }
         },
         "5e1f9096-6322-4936-8acb-923e0258c789": {
@@ -127,7 +136,8 @@
             "title": "NORWAY 🇳🇴",
             "text": "<p>Deler AS<br\/>Postboks 1004<br\/>1442 Drøbak<br\/>Norway<\/p><p>Phone: +47 64 98 99 50<br\/><a href=\"mailto:post@deler.no\">post@deler.no<br\/><\/a><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.deler.no\/"
+            "link": "https:\/\/www.deler.no\/",
+            "outlinebtncheck": true
           }
         },
         "9e98ff11-00bf-4381-9fb2-bae1902efc47": {
@@ -136,7 +146,8 @@
             "title": "BULGARIA 🇧🇬, CZECH REPUBLIC 🇨🇿, ROMANIA 🇷🇴, SLOVAKIA 🇸🇰, SLOVENIA 🇸🇮",
             "text": "<p>Origos Group, s.r.o.<br\/>Za školou I. 398\/1<br\/>911 05 Zamarovce<br\/>Slovakia<\/p><p>Phone: +42 1905314243<br\/>E-mail: <a href=\"mailto:lukas.losonszky@origos.sk\" target=\"_blank\">lukas.losonszky@origos.sk<br\/><\/a><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.origos.eu\/"
+            "link": "https:\/\/www.origos.eu\/",
+            "outlinebtncheck": true
           }
         },
         "9401754d-37fd-46d2-949c-325e431b59d6": {
@@ -145,7 +156,8 @@
             "title": "POLAND 🇵🇱",
             "text": "<p>YOTA SP. Z O.O.<br\/>ul. Rzepakowa 2a<br\/>40-541 Katowice<br\/>Poland<\/p><p>phone +48 32 661 04 00<\/p><p><a>yota@yota.com.pl<\/a><\/p><p><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.yota.com.pl"
+            "link": "https:\/\/www.yota.com.pl",
+            "outlinebtncheck": true
           }
         },
         "e5fd4400-c163-4d8c-a28d-3ea3a0cf3e44": {
@@ -154,7 +166,8 @@
             "title": "SWITZERLAND 🇨🇭",
             "text": "<p>Chris Sports AG<br\/><\/p><p>Murgtalstrasse 18<br\/>CH - 9542 Münchwilen<br\/>Switzerland<\/p><p>phone +41 71 969 66 66 <a href=\"mailto:chrissports@chrissports.ch\">chrissports@chrissports.ch<\/a> <\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.chrissports.ch\/"
+            "link": "https:\/\/www.chrissports.ch\/",
+            "outlinebtncheck": true
           }
         },
         "29a71efa-6084-459e-b7a2-2cc952c23666": {
@@ -163,7 +176,8 @@
             "title": "HUNGARY 🇭🇺",
             "text": "<p>Bringaland Kft.<br\/>78 Dozsa Gyorgy ut,<br\/>Budapest, 1071, Hungary<\/p><p>Phone: +36 70 434 3291<br\/><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/bringaland.hu\/"
+            "link": "https:\/\/bringaland.hu\/",
+            "outlinebtncheck": true
           }
         },
         "c47d090d-03d9-407e-9abb-a7affd7b78ff": {
@@ -172,7 +186,8 @@
             "title": "ICELAND 🇮🇸",
             "text": "<p>Hobby & Sport<br\/>Glerareyrar 1 - Glerartorg, 600<br\/>Akureyri, Iceland<\/p><p>Phone: +354 553 0015<br\/><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/hobbyogsport.is\/"
+            "link": "https:\/\/hobbyogsport.is\/",
+            "outlinebtncheck": true
           }
         },
         "3635bec6-e1f8-4135-ae44-80a6ee403b39": {
@@ -181,7 +196,8 @@
             "title": "<strong>AUSTRALIA 🇦🇺<\/strong>",
             "text": "<p>Lusty Industries Pty Ltd<br\/>26 Railway Street<br\/>Wickham, NSW 2293<br\/>Australia<\/p><p>Phone: +61 2 4962 3511<br\/><br\/><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.lustyindustries.com"
+            "link": "https:\/\/www.lustyindustries.com",
+            "outlinebtncheck": true
           }
         },
         "3d7b3832-b17c-4229-92bc-addec359f9a3": {
@@ -190,7 +206,8 @@
             "title": "<strong>NEW ZEALAND 🇳🇿<\/strong>",
             "text": "<p>Marleen Wholesalers Limited<br\/>53 Treffers Road<br\/>Wigram, Christchurch<br\/>New Zealand<\/p><p>Phone: +64 3 348 4150<br\/><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.marleen.co.nz"
+            "link": "https:\/\/www.marleen.co.nz",
+            "outlinebtncheck": true
           }
         },
         "38696835-672e-485d-a645-eba4b1ffb70f": {
@@ -199,7 +216,8 @@
             "title": "<strong>CHILE 🇨🇱<\/strong>",
             "text": "<p>Niko.cl<br\/>Malaga 89<br\/>Las Condes, Santiago<br\/>Región Metropolitana<\/p><p>Phone: +56 9 3372 9702<br\/><\/p>",
             "link_label": "Website",
-            "link": "https:\/\/www.niko.cl"
+            "link": "https:\/\/www.niko.cl",
+            "outlinebtncheck": true
           }
         },
         "b44eaf54-1797-4ff0-a9df-694a94e18b7e": {
@@ -208,7 +226,8 @@
             "title": "<strong>EUROPE 🇪🇺<\/strong>",
             "text": "<p>For wholesale and international distribution enquiries, please contact us.<\/p>",
             "link_label": "Contact us",
-            "link": "https:\/\/kidsrideshotgun.co.uk\/pages\/contact"
+            "link": "https:\/\/kidsrideshotgun.co.uk\/pages\/contact",
+            "outlinebtncheck": true
           }
         },
         "c5d9790d-7778-4adb-a497-f5b0875c0b87": {
@@ -217,7 +236,8 @@
             "title": "<strong>JAPAN 🇯🇵<\/strong>",
             "text": "<p>Love Bikes<\/p><p>Phone: 0266-75-5991<\/p><p><\/p>",
             "link_label": "Website",
-            "link": "http:\/\/www.lovebikes.net\/home.html"
+            "link": "http:\/\/www.lovebikes.net\/home.html",
+            "outlinebtncheck": true
           }
         }
       },
