@@ -273,7 +273,7 @@
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Button",
             "product": "shotgun-child-bike-seat-handlebars-combo",
             "atc_type": "ajax",
             "button_toggle": false
