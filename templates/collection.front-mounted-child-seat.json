@@ -115,7 +115,7 @@
         "template--16039832420502__19d069c6-6ef8-4b77-9e7c-6b8027636d51-168843814006b026e2-1": {
           "type": "text",
           "settings": {
-            "text": "<p>For more information on how to find the perfect seat for your little one read our online guide to choosing the perfect front mounted child seat  here.<\/p>"
+            "text": "<p><strong>Not sure if your little one is ready to ride shotgun?  <\/strong><\/p><p><a href=\"\/blogs\/news\/kids-ride-shotgun-presents-sam-indie-blenkinsop\" target=\"_blank\" title=\"Kids Ride Shotgun presenta: Sam y Indie Blenkinsop\">Check out our in depth sizing guide here to ensure the perfect fit for your family.<\/a> <\/p>"
           }
         }
       },
@@ -131,7 +131,7 @@
         "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 100
+        "padding_bottom": 32
       }
     },
     "5db3ad43-09b4-4905-85ee-36f1798c3966": {
