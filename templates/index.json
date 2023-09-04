@@ -386,6 +386,7 @@
         "0d76a74a-0f75-4099-9d5b-a94c60f99020",
         "6e095b4f-bc10-4b39-8c07-731dfe8d6853"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
