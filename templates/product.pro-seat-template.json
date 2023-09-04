@@ -376,7 +376,7 @@
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "BUNDLE & SAVE",
+            "heading": "NOT SURE ON A COMBO?",
             "heading_size": "h1"
           }
         },
@@ -412,6 +412,7 @@
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1",
         "7db668c7-b812-4028-8882-22973cfcbd6d"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -494,6 +495,39 @@
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "c26ae100-d5a5-4403-9dc7-53fe124f112d": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".button {outline-width: 1px; outline-style: solid; outline-color: #ff6b00; background-color: transparent; color: #ff6b00; border-radius: 6px; padding: 10px 20px; \/* Adjust padding as needed *\/ transition: color 0.3s, background-color 0.3s; cursor: pointer; text-align: center; text-decoration: none;}",
+        ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
+      ],
+      "settings": {
+        "title": "AMPLIFY THE EXPERIENCE",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "handlebars-only",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "button_toggle": false
       }
     },
     "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e": {
@@ -710,39 +744,6 @@
         "hide_controls": true
       }
     },
-    "c26ae100-d5a5-4403-9dc7-53fe124f112d": {
-      "type": "featured-collection",
-      "custom_css": [
-        ".button {outline-width: 1px; outline-style: solid; outline-color: #ff6b00; background-color: transparent; color: #ff6b00; border-radius: 6px; padding: 10px 20px; \/* Adjust padding as needed *\/ transition: color 0.3s, background-color 0.3s; cursor: pointer; text-align: center; text-decoration: none;}",
-        ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
-      ],
-      "settings": {
-        "title": "AMPLIFY THE EXPERIENCE",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "most-popular",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "button_toggle": false
-      }
-    },
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d": {
       "type": "rich-text",
       "blocks": {
@@ -853,12 +854,12 @@
     "c3900cb3-25d1-4846-8af6-062209ae0070",
     "ec8d4414-d91b-47ed-be23-12f897619257",
     "cd2df96a-1516-4ef8-a67e-077495db249d",
+    "c26ae100-d5a5-4403-9dc7-53fe124f112d",
     "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e",
     "e2855d62-ce8e-422b-9231-27be2d827176",
     "16873073199d82bfd2",
     "a2034ce1-6470-41ba-a894-6e7301faa85d",
     "f8bc5375-bc65-4712-86f1-5fd751d0ed64",
-    "c26ae100-d5a5-4403-9dc7-53fe124f112d",
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d",
     "1687992408aa7441fa",
     "5132e1e2-9ef2-45bf-b6e2-b204ee99cb3e",
