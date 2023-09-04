@@ -51,9 +51,9 @@
         "template--16055924981910__4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-07-19_at_12.54.35_PM.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-09-05_at_9.48.14_AM.png",
             "title": "SHOTGUN®",
-            "text": "<h5>$135 USD<\/h5><h5>On\/off – 2 minutes<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted <\/h5><h5>Fixed leg length<\/h5><h5>No bike modification<\/h5><h5>Kids 2-5 years <\/h5><h5><\/h5>",
+            "text": "<h5>$100 USD<\/h5><h5>On\/off – 2 minutes<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted <\/h5><h5>Fixed leg length<\/h5><h5>No bike modification<\/h5><h5>Kids 2-5 years <\/h5><h5><\/h5>",
             "link_label": "Learn More",
             "link": "#",
             "button_toggle": true
@@ -62,9 +62,9 @@
         "template--16055924981910__4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-07-19_at_12.55.45_PM.png",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-09-05_at_9.49.18_AM.png",
             "title": "SHOTGUN® 2.0",
-            "text": "<h5>$205 USD<\/h5><h5>On\/off – 30 seconds<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted<\/h5><h5>2 leg lengths <\/h5><h5>No bike modification<\/h5><h5>Kids 18 mo-5 years<\/h5><h5><\/h5>",
+            "text": "<h5>$170 USD<\/h5><h5>On\/off – 30 seconds<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted<\/h5><h5>2 leg lengths <\/h5><h5>No bike modification<\/h5><h5>Kids 18 mo-5 years<\/h5><h5><\/h5>",
             "link_label": "Learn More",
             "link": "#",
             "button_toggle": true
@@ -73,9 +73,9 @@
         "template--16055924981910__4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/KRS_Combo_Grey_1_1-1.jpg",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-09-05_at_9.50.18_AM.png",
             "title": "SHOTGUN® PRO",
-            "text": "<h5>$310 USD<\/h5><h5>On\/off – 15 seconds<\/h5><h5>E-bike compatible<\/h5><h5>Zero frame contact <\/h5><h5>7 leg lengths<\/h5><h5>Stem spacer required <\/h5><h5>Kids 18 mo-5 years<\/h5><h5><\/h5>",
+            "text": "<h5>$250 USD<\/h5><h5>On\/off – 15 seconds<\/h5><h5>E-bike compatible<\/h5><h5>Zero frame contact <\/h5><h5>7 leg lengths<\/h5><h5>Stem spacer required <\/h5><h5>Kids 18 mo-5 years<\/h5><h5><\/h5>",
             "link_label": "Learn more",
             "link": "shopify:\/\/products\/asiento-para-ninos-shotgun-pro-mtb",
             "button_toggle": true
@@ -259,7 +259,7 @@
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "BUNDLE & SAVE",
+            "heading": "MAKE IT COMBO",
             "heading_size": "h1"
           }
         },
