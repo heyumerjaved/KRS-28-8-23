@@ -305,12 +305,13 @@
     },
     "d5f87ff4-bc76-41b9-87c3-b055459de40c": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".cloud-search-filter {display: none;}",
         ".cloud-search-filters-mobile-classic {display: none;}"
       ],
       "settings": {
-        "title": "DESIGN YOUR EXPERIENCE",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -338,6 +339,9 @@
     },
     "652cffc6-4a39-45af-aefd-3adc911d3a82": {
       "type": "featured-collection",
+      "custom_css": [
+        ".cloud-search-filter {display: none;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -360,7 +364,7 @@
         "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 16,
+        "padding_top": 100,
         "padding_bottom": 100,
         "button_toggle": true
       }
