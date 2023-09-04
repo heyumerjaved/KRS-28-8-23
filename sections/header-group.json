@@ -1,1 +1,87 @@
-{"name":"t:sections.header.name","type":"header","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{"text":"This is a demo site. You cannot place orders 🚚 *T&C's apply","link":""}}},"block_order":["announcement-bar-0"],"custom_css":[".h5 {color: #ffffff; font-size: 9px !important; font-weight: 500; font-style: normal;}"],"settings":{"color_scheme":"accent-1","show_line_separator":true,"auto_rotate":false,"change_slides_speed":5}},"header":{"type":"header","blocks":{"205adf02-eba9-40ff-ae69-fff1cf393e8b":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Copy_of_Kids-Ride-Shotgun-Pro-Seat-57_copy.jpg","title":"Child bike seats"}},"62f86cb3-1451-40e8-8375-6ee3d285f16c":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/DSC09789.jpg","title":"Off-road balance bikes"}},"0238ba93-af3e-4d7a-843b-e1adf8d109f0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/HTD00397-2.jpg","title":"Apparel & accessories"}}},"block_order":["205adf02-eba9-40ff-ae69-fff1cf393e8b","62f86cb3-1451-40e8-8375-6ee3d285f16c","0238ba93-af3e-4d7a-843b-e1adf8d109f0"],"custom_css":[".header--middle-left {grid-template-areas: ; grid-template-columns: 1fr auto 1fr; column-gap: rem;}",".header {box-shadow: 0 4px 5px -5px rgba(0, 0, 0, 0.2); width: 100%;}",".header {width: 100%; max-width: 100%;}","@media only screen and (max-width: 992px) {.list-menu__item {font-size: 20px; }}"],"settings":{"logo_position":"middle-left","menu":"header-menu","menu_type_desktop":"dropdown","sticky_header_type":"on-scroll-up","show_line_separator":false,"color_scheme":"background-1","enable_country_selector":false,"enable_language_selector":false,"mobile_logo_position":"center","margin_bottom":0,"padding_top":20,"padding_bottom":20}}},"order":["announcement-bar","header"]}
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "This is a demo site. You cannot place orders 🚚 *T&C's apply",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0"
+      ],
+      "custom_css": [
+        ".h5 {color: #ffffff; font-size: 9px !important; font-weight: 500; font-style: normal;}"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "show_line_separator": true,
+        "auto_rotate": false,
+        "change_slides_speed": 5
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "205adf02-eba9-40ff-ae69-fff1cf393e8b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Copy_of_Kids-Ride-Shotgun-Pro-Seat-57_copy.jpg",
+            "title": "Child bike seats"
+          }
+        },
+        "62f86cb3-1451-40e8-8375-6ee3d285f16c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC09789.jpg",
+            "title": "Off-road balance bikes"
+          }
+        },
+        "0238ba93-af3e-4d7a-843b-e1adf8d109f0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HTD00397-2.jpg",
+            "title": "Apparel & accessories"
+          }
+        }
+      },
+      "block_order": [
+        "205adf02-eba9-40ff-ae69-fff1cf393e8b",
+        "62f86cb3-1451-40e8-8375-6ee3d285f16c",
+        "0238ba93-af3e-4d7a-843b-e1adf8d109f0"
+      ],
+      "custom_css": [
+        ".header--middle-left {grid-template-areas: ; grid-template-columns: 1fr auto 1fr; column-gap: rem;}",
+        ".header {box-shadow: 0 4px 5px -5px rgba(0, 0, 0, 0.2); width: 100%;}",
+        ".header {width: 100%; max-width: 100%;}",
+        "@media only screen and (max-width: 992px) {.list-menu__item {font-size: 20px; }}",
+        ".header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce {margin-left: 200px;}",
+        ".header__inline-menu #Details-HeaderMenu-2 ul.header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce {margin-left: -1px;}"
+      ],
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "header-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": false,
+        "color_scheme": "background-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
