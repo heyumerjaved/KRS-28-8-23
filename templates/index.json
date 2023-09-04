@@ -9,7 +9,7 @@
             "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_9c4346d9-85b0-4f54-a0e2-f03fe25ac754.jpg",
             "heading": "MEMORIES THAT LAST A LIFETIME",
             "heading_size": "h1",
-            "subheading": "Experience the joy of mountian biking as a family with our range of MTB products for kids 0-5 years. ",
+            "subheading": "Experience the joy of mountain biking as a family with our range of MTB products for kids 0-5 years. ",
             "smallimage_width": 150,
             "button_label": "Explore",
             "link": "https:\/\/kids-ride-shotgun-es.myshopify.com\/collections\/all",
@@ -600,7 +600,8 @@
             "title": "<strong>STOKE THE FIRE<\/strong>",
             "text": "<p>Getting excited about mountain biking starts from their very first story. Make MTB relatable and foster a love for riding bikes through our Stoke Club books, apparel & more.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "outlinebtncheck": false
           }
         },
         "c0b300ca-370d-48fe-8cf4-b32f756da310": {
@@ -610,7 +611,8 @@
             "title": "THEIR FIRST RIDE",
             "text": "<p>Make their first MTB experience one they’ll never forget with our range of Shotgun seats. Riding up front introduces the joy of mountain biking from the safety of between your arms. <\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "outlinebtncheck": false
           }
         },
         "ac065d96-270f-4468-a021-5cb631fbe880": {
@@ -620,7 +622,8 @@
             "title": "<strong>FINDING FREEDOM<\/strong>",
             "text": "<p>Start your kids on their own mountain biking journey with our Kiduro range. From off-road balance bikes to tow ropes, we've got everything you need to enjoy hitting the trails together. <\/p>",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "outlinebtncheck": false
           }
         }
       },
