@@ -466,7 +466,18 @@
     color: currentColor;
   }
 }
-.banner__box {
-  text-align: center;
-  background-color: #ff6b00; /* Add this line to set the background color */
+.banner__media {
+  opacity: 0%;
+  color: #f1f1f1;
+}
+strong {
+  color: #f1f1f1;
+}
+.banner {
+  background: #ff6b00;
+}
+@media only screen and (max-width: 992px) {
+  .banner {
+    height: 450px;
+  }
 }
