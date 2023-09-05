@@ -874,8 +874,8 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
+        "color_scheme": "scheme-5725e380-b1a4-4751-b81c-37cb9387465a",
+        "full_width": false,
         "padding_top": 100,
         "padding_bottom": 72
       }
