@@ -3506,14 +3506,13 @@ body p{
   min-width: 150px;
 }
 
+.sublist-container{
+  sublist-container
+}
 
 .header__inline-menu ul.header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce{
   display: flex;
   padding: 2.4rem 1.5rem;
-  position: fixed;
-  left: 0;
-  right: 0;
-  justify-content: center;
 }
 
 .mobile-ul-products li a{
