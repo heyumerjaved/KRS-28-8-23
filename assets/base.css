@@ -3513,11 +3513,6 @@ body p{
   left: -500px;
 }
 
-.header__inline-menu #Details-HeaderMenu-2 ul.header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce{
-    left: -380px;
-    width: auto;
-}
-
 .mobile-ul-products li a{
     flex-direction: column;
     position: relative;
