@@ -3510,7 +3510,6 @@ body p{
 .header__inline-menu ul.header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce{
   display: flex;
   padding: 2.4rem 1.5rem;
-  left: -500px;
 }
 
 .mobile-ul-products li a{
