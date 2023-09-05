@@ -115,7 +115,7 @@
         "template--16039832420502__19d069c6-6ef8-4b77-9e7c-6b8027636d51-168843814006b026e2-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Not sure if your little one is ready to ride shotgun?  <\/strong><\/p><p>Check out our in depth sizing guide<a href=\"\/blogs\/news\/kids-ride-shotgun-presents-sam-indie-blenkinsop\" target=\"_blank\" title=\"Kids Ride Shotgun presenta: Sam y Indie Blenkinsop\"> here<\/a> to ensure the perfect fit for your family. <\/p>"
+            "text": "<p><strong>Not sure if your little one is ready to ride shotgun?  <\/strong><\/p><p>Check out our in depth sizing guide <a href=\"\/blogs\/news\/kids-ride-shotgun-presents-sam-indie-blenkinsop\" target=\"_blank\" title=\"Kids Ride Shotgun presenta: Sam y Indie Blenkinsop\"><strong>here<\/strong><\/a> to ensure the perfect fit for your family. <\/p>"
           }
         }
       },
@@ -123,7 +123,8 @@
         "template--16039832420502__19d069c6-6ef8-4b77-9e7c-6b8027636d51-168843814006b026e2-1"
       ],
       "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
+        ".content-container:after {box-shadow: none !important;}",
+        "a {color: #212121;}"
       ],
       "settings": {
         "desktop_content_position": "center",
