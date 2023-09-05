@@ -466,3 +466,7 @@
     color: currentColor;
   }
 }
+.banner__box {
+  text-align: center;
+  background-color: #ff6b00; /* Add this line to set the background color */
+}
