@@ -378,6 +378,8 @@
 
 .footer-block-image {
   display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .footer-block-image.left {
