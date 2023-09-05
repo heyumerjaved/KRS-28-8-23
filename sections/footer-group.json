@@ -69,6 +69,7 @@
         "d266f6f2-09da-438a-bc88-4d133780d595": {
           "type": "image",
           "settings": {
+            "textheading": "Desgined in New Zealand",
             "image": "shopify:\/\/shop_images\/fern_mark.png",
             "image_width": 100,
             "alignment": "center"
