@@ -1,1 +1,91 @@
-{"sections":{"1710a3f7-17f0-4973-b0bf-54cae633410d":{"type":"slideshow","blocks":{"template--16039832453270__1710a3f7-17f0-4973-b0bf-54cae633410d-1688080627a8177843-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Copy_of_Kids-Ride-Shotgun-Pro-Seat-58.jpg","heading":"SHOP EVERYTHING","heading_size":"h1","subheading":"Our products are designed for mountain bike families with kids 0-5 years. Helping you get out on the trails together as a family and foster a passion for mountain biking and being in nature.","smallimage_width":140,"button_label":"","link":"","button_toggle":false,"box_align":"middle-left","show_text_box":false,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"inverse","text_alignment_mobile":"left"}}},"block_order":["template--16039832453270__1710a3f7-17f0-4973-b0bf-54cae633410d-1688080627a8177843-0"],"custom_css":[".gradient {display: flex; width: 100%; height: 100%; background: linear-gradient(to right, black -100%, rgba(0, 0, 0, 0) 200%);}","@media only screen and (min-width: 540px) {.gradient {background: none; }}","@media only screen and (max-width: 540px) {h2 {font-size: 20px; max-width: 60%; } p {max-width: 60%; font-size: 10px; }}","@media screen and (max-width: 750px) {slideshow-component .slideshow.banner {flex-direction: row; flex-wrap: nowrap; margin: 0; gap: 0; height: 600px; } h2 {margin-top: 300px; }}"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":false,"accessibility_info":"","hide_arrows_play":true,"hide_controls":true}},"main-collection-banner":{"type":"main-collection-banner","disabled":true,"custom_css":[],"settings":{"show_collection_description":true,"show_collection_image":true,"color_scheme":"background-1"}},"main-collection-product-grid":{"type":"main-collection-product-grid","custom_css":[".cloud-search-filters-pane {display: block !important; margin-block: block !important;}",".cloud-search-filter__name {font-weight: 900; font-size: 10px; margin-bottom: 0px;}",".cloud-search-filters-column .cloud-search-filter__name {font-weight: 900 !important;}"],"settings":{"products_per_page":24,"columns_desktop":3,"image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":true,"enable_quick_add":true,"enable_filtering":false,"filter_type":"vertical","enable_sorting":false,"columns_mobile":"2","padding_top":24,"padding_bottom":100,"button_toggle":true}},"b240ffb9-08f7-4b16-b932-8bd349387c50":{"type":"featured-collection","disabled":true,"settings":{"title":"Featured collection","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"","products_to_show":4,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36,"button_toggle":false}}},"order":["1710a3f7-17f0-4973-b0bf-54cae633410d","main-collection-banner","main-collection-product-grid","b240ffb9-08f7-4b16-b932-8bd349387c50"]}
+{
+  "sections": {
+    "1710a3f7-17f0-4973-b0bf-54cae633410d": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16039832453270__1710a3f7-17f0-4973-b0bf-54cae633410d-1688080627a8177843-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Copy_of_Kids-Ride-Shotgun-Pro-Seat-58.jpg",
+            "heading": "SHOP EVERYTHING",
+            "heading_size": "h1",
+            "subheading": "Our products are designed for mountain bike families with kids 0-5 years. Helping you get out on the trails together as a family and foster a passion for mountain biking and being in nature.",
+            "smallimage_width": 140,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16039832453270__1710a3f7-17f0-4973-b0bf-54cae633410d-1688080627a8177843-0"
+      ],
+      "custom_css": [
+        ".gradient {display: flex; width: 100%; height: 100%; background: linear-gradient(to right, black -100%, rgba(0, 0, 0, 0) 200%);}",
+        "@media only screen and (min-width: 540px) {.gradient {background: none; }}",
+        "@media only screen and (max-width: 540px) {h2 {font-size: 20px; max-width: 60%; } p {max-width: 60%; font-size: 10px; }}",
+        "@media screen and (max-width: 750px) {slideshow-component .slideshow.banner {flex-direction: row; flex-wrap: nowrap; margin: 0; gap: 0; height: 600px; } h2 {margin-top: 300px; }}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "",
+        "hide_arrows_play": true,
+        "hide_controls": true
+      }
+    },
+    "main-collection-banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
+    "main-collection-product-grid": {
+      "type": "main-collection-product-grid",
+      "custom_css": [
+        ".cloud-search-filters-pane {display: block !important; margin-block: block !important;}",
+        ".cloud-search-filter__name {font-weight: 900; font-size: 10px; margin-bottom: 0px;}",
+        ".cloud-search-filters-column .cloud-search-filter__name {font-weight: 900 !important;}"
+      ],
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "enable_filtering": false,
+        "filter_type": "vertical",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 24,
+        "padding_bottom": 100,
+        "button_toggle": true
+      }
+    }
+  },
+  "order": [
+    "1710a3f7-17f0-4973-b0bf-54cae633410d",
+    "main-collection-banner",
+    "main-collection-product-grid"
+  ]
+}
