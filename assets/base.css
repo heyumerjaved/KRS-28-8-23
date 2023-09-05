@@ -3507,7 +3507,12 @@ body p{
 }
 
 .sublist-container{
-  sublist-container
+    position: fixed;
+    left: 0;
+    right: 0;
+    display: block;
+    display: flex;
+    justify-content: center;
 }
 
 .header__inline-menu ul.header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce{
