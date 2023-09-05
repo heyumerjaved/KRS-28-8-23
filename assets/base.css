@@ -3518,7 +3518,7 @@ body p{
 .header__inline-menu ul.header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce{
   display: flex;
   padding: 2.4rem 1.5rem;
-  max-width: 900px;
+  max-width: 1000px;
 }
 
 .mobile-ul-products li a{
