@@ -784,6 +784,46 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "a18cc939-d8e8-411d-8046-5ce1db3ab2fe": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"Moving your child to the front of the bike helps keep them safer, but it also keeps them more engaged on the bike. You can talk to your kid while riding, checking in to make sure they're still having fun.\"",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_10-100.jpg",
+            "smallimage_width": 250,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "e7bc1331-a9ef-4fee-a541-8ce49449400a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"It has transformed my life as a parent who craves outdoor adventures with my child. The Shotgun enabled us to go on long rides that span hours, and take us far away from the parking lot and trailhead. My daughter loves riding in the front of the bicycle due to the vantage point it gives her.\"",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_11-100.jpg",
+            "smallimage_width": 250,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
@@ -791,7 +831,9 @@
         "8d7e93dc-2c8b-4533-8cd7-b6b555229053",
         "86a5ef19-6e84-4345-bca0-5d65319ea2e6",
         "044c2675-92e2-4e82-8fb3-cac34f707954",
-        "fcf04baa-3b08-4104-9680-e8a8fa9e4f63"
+        "fcf04baa-3b08-4104-9680-e8a8fa9e4f63",
+        "a18cc939-d8e8-411d-8046-5ce1db3ab2fe",
+        "e7bc1331-a9ef-4fee-a541-8ce49449400a"
       ],
       "custom_css": [
         ".banner__media {opacity: 0%; color: #f1f1f1;}",
