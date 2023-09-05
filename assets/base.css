@@ -3513,6 +3513,7 @@ body p{
   position: fixed;
   left: 0;
   right: 0;
+  justify-content: center;
 }
 
 .mobile-ul-products li a{
