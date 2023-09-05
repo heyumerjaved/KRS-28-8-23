@@ -73,21 +73,13 @@
             "image_width": 100,
             "alignment": "center"
           }
-        },
-        "f3d70cdd-2412-4992-8b13-d2a80a68a528": {
-          "type": "text",
-          "settings": {
-            "heading": "Heading",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-          }
         }
       },
       "block_order": [
         "9b8b686b-de95-43fd-a62a-f9e40777ffb2",
         "3a63325b-a45c-4609-81ee-5d80798e62b3",
         "2cb7f3fd-e520-4c23-9f23-225ec507a952",
-        "d266f6f2-09da-438a-bc88-4d133780d595",
-        "f3d70cdd-2412-4992-8b13-d2a80a68a528"
+        "d266f6f2-09da-438a-bc88-4d133780d595"
       ],
       "custom_css": [
         "a {font-size: 11px !important; height: 20px !important; font-weight: 500; color: #212121;}",
