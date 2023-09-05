@@ -359,7 +359,7 @@
         "c4f28833-6aff-4881-9a36-e4067d063731": {
           "type": "heading",
           "settings": {
-            "heading": "JOIN OUR COMMUNITY ON INSTAGRAM",
+            "heading": "JOIN THOUSANDS OF HAPPY MTB FAMILIES",
             "heading_size": "h2"
           }
         },
@@ -386,7 +386,6 @@
         "0d76a74a-0f75-4099-9d5b-a94c60f99020",
         "6e095b4f-bc10-4b39-8c07-731dfe8d6853"
       ],
-      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -413,7 +412,6 @@
       "block_order": [
         "965ae6bc-033d-41aa-afc2-f48c152f0f4b"
       ],
-      "disabled": true,
       "custom_css": [
 
       ],
