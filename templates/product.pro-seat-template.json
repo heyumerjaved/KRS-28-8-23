@@ -196,7 +196,6 @@
         },
         "e6c0d10e-d9b2-4147-9326-1e4bc6ed1d4b": {
           "type": "icon-with-text",
-          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -211,7 +210,6 @@
         },
         "4376e36b-7ce2-4190-b3d9-6ccd8077c4fc": {
           "type": "icon-with-text",
-          "disabled": true,
           "settings": {
             "layout": "vertical",
             "icon_1": "apple",
@@ -225,7 +223,6 @@
         },
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
           "type": "icon-with-text",
-          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
