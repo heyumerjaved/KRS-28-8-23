@@ -62,7 +62,7 @@
         ".header {width: 100%; max-width: 100%;}",
         "@media only screen and (max-width: 992px) {.list-menu__item {font-size: 20px; }}",
         ".header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce {margin-left: 200px;}",
-        ".header__inline-menu #Details-HeaderMenu-2 ul.header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce {margin-left: -1px;}"
+        ".header__inline-menu #Details-HeaderMenu-2 .list-menu.list-menu--disclosure.caption-large.motion-reduce {margin-left: -1px;}"
       ],
       "settings": {
         "logo_position": "middle-left",
