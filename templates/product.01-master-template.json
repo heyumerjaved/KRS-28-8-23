@@ -836,10 +836,7 @@
         "e7bc1331-a9ef-4fee-a541-8ce49449400a"
       ],
       "custom_css": [
-        ".banner__media {opacity: 0%; color: #f1f1f1;}",
-        "strong {color: #f1f1f1;}",
-        ".banner {background: #ff6b00;}",
-        "@media only screen and (max-width: 992px) {.banner {height: 450px; }}"
+        ".banner__media {opacity: 0%;}"
       ],
       "settings": {
         "layout": "full_bleed",
