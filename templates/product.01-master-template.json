@@ -688,11 +688,12 @@
         "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WARREN_THERES_RASCAL_RIDES_3b6e7c34-0f5b-4703-a597-d6e5292ee262.jpg",
+            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
             "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "smallimage_width": 150,
+            "heading_size": "h2",
+            "subheading": "\"The kids ride shotgun seat is the best kids seat for taking your child mountain biking, and is a great way to bond with your child and introduce them to a sport you love\"",
+            "smallimage": "shopify:\/\/shop_images\/image_10_2_copy.jpg",
+            "smallimage_width": 200,
             "button_label": "",
             "link": "",
             "button_toggle": false,
@@ -704,14 +705,15 @@
             "text_alignment_mobile": "center"
           }
         },
-        "acf15011-97c3-489e-96da-177c8cc3edc1": {
+        "8d7e93dc-2c8b-4533-8cd7-b6b555229053": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WARREN_THERES_RASCAL_RIDES_3b6e7c34-0f5b-4703-a597-d6e5292ee262.jpg",
+            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
             "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "smallimage_width": 150,
+            "heading_size": "h2",
+            "subheading": "\"Kids Ride Shotgun are out to reset your expectations for fun and ease-of-use when you want to bring your child along for the ride.\"",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_2-100.jpg",
+            "smallimage_width": 300,
             "button_label": "",
             "link": "",
             "button_toggle": false,
@@ -723,14 +725,55 @@
             "text_alignment_mobile": "center"
           }
         },
-        "9ee53a6f-6382-4644-bf40-945980a74ac8": {
+        "86a5ef19-6e84-4345-bca0-5d65319ea2e6": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WARREN_THERES_RASCAL_RIDES_3b6e7c34-0f5b-4703-a597-d6e5292ee262.jpg",
+            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
             "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "smallimage_width": 150,
+            "heading_size": "h2",
+            "subheading": "\"It's lightning fast to mount, quick release up front, quick release at the back. Literally flick it onto one bike and off as you need it. This is one seat to fit all bikes.\"",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_4-100.jpg",
+            "smallimage_width": 300,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "044c2675-92e2-4e82-8fb3-cac34f707954": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"What better way to spend time with your little one than by going for a bike ride? The Kids Ride Shotgun seat mounts to the top tube of your MTB so you can still enjoy the trails if your kids is not old enough to ride themselves!\"",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_5-100.jpg",
+            "smallimage_width": 250,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "fcf04baa-3b08-4104-9680-e8a8fa9e4f63": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"Combining simplicity with a rugged design, the beauty of the shotgun is the saddle's adjustability. Aboard the shotgun, the tiny passengers can see ahead and begin to learn how to interact with the trail.\"",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_3-100.jpg",
+            "smallimage_width": 250,
             "button_label": "",
             "link": "",
             "button_toggle": false,
@@ -745,11 +788,15 @@
       },
       "block_order": [
         "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0",
-        "acf15011-97c3-489e-96da-177c8cc3edc1",
-        "9ee53a6f-6382-4644-bf40-945980a74ac8"
+        "8d7e93dc-2c8b-4533-8cd7-b6b555229053",
+        "86a5ef19-6e84-4345-bca0-5d65319ea2e6",
+        "044c2675-92e2-4e82-8fb3-cac34f707954",
+        "fcf04baa-3b08-4104-9680-e8a8fa9e4f63"
       ],
       "custom_css": [
-        ".slideshow__controls {display: none !important;}"
+        ".banner__media {opacity: 0%; color: #f1f1f1;}",
+        "strong {color: #f1f1f1;}",
+        ".banner {background: #ff6b00;}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -761,7 +808,7 @@
         "show_text_below": false,
         "accessibility_info": "",
         "hide_arrows_play": true,
-        "hide_controls": true
+        "hide_controls": false
       }
     },
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d": {
