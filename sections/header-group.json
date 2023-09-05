@@ -60,9 +60,7 @@
         ".header--middle-left {grid-template-areas: ; grid-template-columns: 1fr auto 1fr; column-gap: rem;}",
         ".header {box-shadow: 0 4px 5px -5px rgba(0, 0, 0, 0.2); width: 100%;}",
         ".header {width: 100%; max-width: 100%;}",
-        "@media only screen and (max-width: 992px) {.list-menu__item {font-size: 20px; }}",
-        ".header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce {margin-left: 200px;}",
-        ".header__inline-menu #Details-HeaderMenu-2 .list-menu.list-menu--disclosure.caption-large.motion-reduce {margin-left: -1px;}"
+        "@media only screen and (max-width: 992px) {.list-menu__item {font-size: 20px; }}"
       ],
       "settings": {
         "logo_position": "middle-left",
