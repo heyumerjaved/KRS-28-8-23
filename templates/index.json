@@ -619,9 +619,7 @@
         "0af16d2a-d3de-4a3e-84c6-c127bcc90f08"
       ],
       "custom_css": [
-        ".banner__media {opacity: 0%; color: #f1f1f1;}",
-        "strong {color: #f1f1f1;}",
-        ".banner {background: #ff6b00;}"
+        ".banner__media {opacity: 0%;}"
       ],
       "settings": {
         "layout": "full_bleed",
