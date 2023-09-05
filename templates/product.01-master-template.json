@@ -525,6 +525,32 @@
         "button_toggle": false
       }
     },
+    "005e6450-4803-4f24-afeb-7d76cf703c87": {
+      "type": "rich-text",
+      "blocks": {
+        "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c": {
+          "type": "heading",
+          "settings": {
+            "heading": "ADD A SLICK AS HEADING HERE",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 48
+      }
+    },
     "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e": {
       "type": "multirow",
       "blocks": {
@@ -594,7 +620,7 @@
         "section_color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 100,
+        "padding_top": 52,
         "padding_bottom": 100
       }
     },
@@ -849,6 +875,7 @@
     "ec8d4414-d91b-47ed-be23-12f897619257",
     "cd2df96a-1516-4ef8-a67e-077495db249d",
     "c26ae100-d5a5-4403-9dc7-53fe124f112d",
+    "005e6450-4803-4f24-afeb-7d76cf703c87",
     "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e",
     "e2855d62-ce8e-422b-9231-27be2d827176",
     "16873073199d82bfd2",
