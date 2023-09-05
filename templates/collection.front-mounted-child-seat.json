@@ -53,7 +53,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-09-05_at_9.48.14_AM.png",
             "title": "SHOTGUN®",
-            "text": "<h5>$100 USD<\/h5><h5>On\/off – 2 minutes<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted <\/h5><h5>Fixed leg length<\/h5><h5>Kids 2-5 years* <\/h5><h5><\/h5>",
+            "text": "<h5>$100 USD<\/h5><h5>On\/off – 2 minutes<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted <\/h5><h5>Fixed footpeg height<\/h5><h5>Kids 2-5 years* <\/h5><h5><\/h5>",
             "link_label": "Learn More",
             "link": "#",
             "button_toggle": true
@@ -64,7 +64,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-09-05_at_9.49.18_AM.png",
             "title": "SHOTGUN® 2.0",
-            "text": "<h5>$170 USD<\/h5><h5>On\/off – 30 seconds<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted<\/h5><h5>2 leg lengths<\/h5><h5>Kids 18 mo-5 years*<\/h5><h5><\/h5>",
+            "text": "<h5>$170 USD<\/h5><h5>On\/off – 30 seconds<\/h5><h5>Regular MTB only<\/h5><h5>Frame mounted<\/h5><h5>2 footpeg heights<\/h5><h5>Kids 18 mo-5 years*<\/h5><h5><\/h5>",
             "link_label": "Learn More",
             "link": "#",
             "button_toggle": true
@@ -75,7 +75,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-09-05_at_9.51.57_AM.png",
             "title": "SHOTGUN® PRO",
-            "text": "<h5>$250 USD<\/h5><h5>On\/off – 15 seconds<\/h5><h5>E-bike compatible<\/h5><h5>Zero frame contact <\/h5><h5>7 leg lengths<\/h5><h5>Kids 18 mo-5 years*<\/h5><h5><\/h5>",
+            "text": "<h5>$250 USD<\/h5><h5>On\/off – 15 seconds<\/h5><h5>E-bike compatible<\/h5><h5>Zero frame contact <\/h5><h5>7 leg lengths<\/h5><h5>7 footpeg heights<\/h5><h5>Kids 18 mo-5 years*<\/h5><h5><\/h5>",
             "link_label": "Learn more",
             "link": "shopify:\/\/products\/asiento-para-ninos-shotgun-pro-mtb",
             "button_toggle": true
