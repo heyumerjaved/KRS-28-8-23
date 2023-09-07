@@ -60,6 +60,7 @@
     },
     "main-collection-product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "custom_css": [
 
       ],
