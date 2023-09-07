@@ -273,7 +273,7 @@
       ],
       "custom_css": [
         ".price {color: #515151;}",
-        "a,p,li, strong {color: #212121;}",
+        "a,p,li,strong {color: #212121;}",
         "h1 {font-size: 30px; align-items: left; justify-content: left;}",
         ".accordion__title {font-size: 13.5px;}",
         ".accordion__title {color: #606060;}",
@@ -687,7 +687,7 @@
         "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "\"The kids ride shotgun seat is the best kids seat for taking your child mountain biking, and is a great way to bond with your child and introduce them to a sport you love\"",
@@ -699,7 +699,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 50,
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
@@ -707,7 +707,7 @@
         "8d7e93dc-2c8b-4533-8cd7-b6b555229053": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_copy.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "\"Kids Ride Shotgun are out to reset your expectations for fun and ease-of-use when you want to bring your child along for the ride.\"",
@@ -719,7 +719,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 50,
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
@@ -727,7 +727,7 @@
         "86a5ef19-6e84-4345-bca0-5d65319ea2e6": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "\"It's lightning fast to mount, quick release up front, quick release at the back. Literally flick it onto one bike and off as you need it. This is one seat to fit all bikes.\"",
@@ -739,7 +739,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 50,
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
@@ -747,7 +747,7 @@
         "044c2675-92e2-4e82-8fb3-cac34f707954": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "\"What better way to spend time with your little one than by going for a bike ride? The Kids Ride Shotgun seat mounts to the top tube of your MTB so you can still enjoy the trails if your kids is not old enough to ride themselves!\"",
@@ -759,7 +759,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 50,
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
@@ -767,7 +767,7 @@
         "fcf04baa-3b08-4104-9680-e8a8fa9e4f63": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "\"Combining simplicity with a rugged design, the beauty of the shotgun is the saddle's adjustability. Aboard the shotgun, the tiny passengers can see ahead and begin to learn how to interact with the trail.\"",
@@ -779,7 +779,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 50,
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
@@ -787,7 +787,7 @@
         "a18cc939-d8e8-411d-8046-5ce1db3ab2fe": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_copy.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "\"Moving your child to the front of the bike helps keep them safer, but it also keeps them more engaged on the bike. You can talk to your kid while riding, checking in to make sure they're still having fun.\"",
@@ -799,7 +799,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 50,
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
@@ -807,7 +807,7 @@
         "e7bc1331-a9ef-4fee-a541-8ce49449400a": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "\"It has transformed my life as a parent who craves outdoor adventures with my child. The Shotgun enabled us to go on long rides that span hours, and take us far away from the parking lot and trailhead. My daughter loves riding in the front of the bicycle due to the vantage point it gives her.\"",
@@ -819,7 +819,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 50,
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
@@ -835,7 +835,7 @@
         "e7bc1331-a9ef-4fee-a541-8ce49449400a"
       ],
       "custom_css": [
-        ".banner__media {opacity: 0%;}"
+        ".banner__media {opacity: 100%;}"
       ],
       "settings": {
         "layout": "full_bleed",
