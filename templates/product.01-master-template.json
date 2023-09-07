@@ -46,6 +46,12 @@
             "text_style": "uppercase"
           }
         },
+        "ca6708f9-007d-4c71-816a-a41b062e2636": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -250,6 +256,7 @@
         "4dbe2f6d-e323-4214-91e1-f7c0fa88b24f",
         "e56f95ed-65d5-4f30-af39-e58ffd39a784",
         "155fc692-b43b-4946-9169-72d18dfff111",
+        "ca6708f9-007d-4c71-816a-a41b062e2636",
         "buy_buttons",
         "32ddbc5d-1d1d-428b-9c49-221c120aae13",
         "41b29148-65fd-4648-9a0e-86e00e677000",
