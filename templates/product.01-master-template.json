@@ -273,8 +273,7 @@
       ],
       "custom_css": [
         ".price {color: #515151;}",
-        "a {color: #212121;}",
-        "p {color: #212121;}",
+        "a,p,li, strong {color: #212121;}",
         "h1 {font-size: 30px; align-items: left; justify-content: left;}",
         ".accordion__title {font-size: 13.5px;}",
         ".accordion__title {color: #606060;}",
