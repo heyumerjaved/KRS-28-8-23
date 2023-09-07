@@ -60,10 +60,9 @@
     },
     "main-collection-product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "custom_css": [
-        ".cloud-search-filters-pane {display: block !important; margin-block: block !important;}",
-        ".cloud-search-filter__name {font-weight: 900; font-size: 10px; margin-bottom: 0px;}",
-        ".cloud-search-filters-column .cloud-search-filter__name {font-weight: 900 !important;}"
+
       ],
       "settings": {
         "products_per_page": 24,
@@ -82,11 +81,46 @@
         "padding_bottom": 100,
         "button_toggle": true
       }
+    },
+    "16f37927-f108-4b7c-8b6f-375ae9b0ff97": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".cloud-search-filters-pane {display: block !important; margin-block: block !important;}",
+        ".cloud-search-filter__name {font-weight: 900; font-size: 10px; margin-bottom: 0px;}",
+        ".cloud-search-filters-column .cloud-search-filter__name {font-weight: 900 !important;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 25,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 100,
+        "button_toggle": false
+      }
     }
   },
   "order": [
     "1710a3f7-17f0-4973-b0bf-54cae633410d",
     "main-collection-banner",
-    "main-collection-product-grid"
+    "main-collection-product-grid",
+    "16f37927-f108-4b7c-8b6f-375ae9b0ff97"
   ]
 }
