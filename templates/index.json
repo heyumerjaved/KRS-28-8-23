@@ -471,7 +471,7 @@
         "8d6e6110-9ffc-4a78-ad8f-29680a33e070": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/media_review_template4_forbes_3666ff1e-5afb-47bc-be97-ee49ada34c1a.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "\"The kids ride shotgun seat is the best kids seat for taking your child mountain biking, and is a great way to bond with your child and introduce them to a sport you love\"",
@@ -491,7 +491,7 @@
         "7e4867df-9699-4492-b42a-f64f2f56f984": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_copy.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "\"Kids Ride Shotgun are out to reset your expectations for fun and ease-of-use when you want to bring your child along for the ride.\"",
@@ -619,7 +619,7 @@
         "0af16d2a-d3de-4a3e-84c6-c127bcc90f08"
       ],
       "custom_css": [
-        ".banner__media {opacity: 0%;}"
+        ".banner__media {opacity: 100%;}"
       ],
       "settings": {
         "layout": "full_bleed",
