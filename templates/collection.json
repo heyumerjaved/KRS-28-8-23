@@ -61,7 +61,7 @@
     "main-collection-product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-
+        ".cloud-search {display: block; font-size: 10px; font-weight: 900;}"
       ],
       "settings": {
         "products_per_page": 24,
