@@ -12,7 +12,7 @@
     "spacing_grid_horizontal": 32,
     "spacing_grid_vertical": 32,
     "animations_reveal_on_scroll": true,
-    "animations_hover_elements": "none",
+    "animations_hover_elements": "default",
     "buttons_border_thickness": 0,
     "buttons_border_opacity": 100,
     "buttons_radius": 6,
@@ -100,6 +100,7 @@
     "sold_out_badge_color_scheme": "accent-2",
     "brand_headline": "",
     "brand_description": "<p><\/p>",
+    "brand_image": "shopify:\/\/shop_images\/Artboard_1_12cf0ad2-2819-41b0-b943-8cdf53d26cd2.png",
     "brand_image_width": 100,
     "social_facebook_link": "https:\/\/www.facebook.com\/KidsRideShotgun",
     "social_instagram_link": "https:\/\/www.instagram.com\/kidsrideshotgun\/",
@@ -117,7 +118,7 @@
     "cart_type": "notification",
     "show_vendor": true,
     "show_cart_note": false,
-    "cart_drawer_collection": "",
+    "cart_drawer_collection": "pro-range",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
