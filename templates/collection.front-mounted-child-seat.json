@@ -169,16 +169,16 @@
         "padding_bottom": 100
       }
     },
-    "7f96a391-6b55-45ea-bdec-c7ebae4914a7": {
+    "f8bc5375-bc65-4712-86f1-5fd751d0ed64": {
       "type": "slideshow",
       "blocks": {
-        "bd8cc940-1067-475a-9ad3-b9e78f7410e7": {
+        "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "<strong>\"The kids ride shotgun seat is the best kids seat for taking your child mountain biking, and is a great way to bond with your child and introduce them to a sport you love\"<\/strong>",
+            "subheading": "\"The kids ride shotgun seat is the best kids seat for taking your child mountain biking, and is a great way to bond with your child and introduce them to a sport you love\"",
             "smallimage": "shopify:\/\/shop_images\/image_10_2_copy.jpg",
             "smallimage_width": 200,
             "button_label": "",
@@ -188,19 +188,19 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 30,
-            "color_scheme": "background-2",
+            "color_scheme": "",
             "text_alignment_mobile": "center"
           }
         },
-        "b0d59a11-3c9d-401d-8aca-a44edfd2683a": {
+        "8d7e93dc-2c8b-4533-8cd7-b6b555229053": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_copy.png",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "<strong>\"Kids Ride Shotgun are out to reset your expectations for fun and ease-of-use when you want to bring your child along for the ride.\"<\/strong>",
+            "subheading": "\"Kids Ride Shotgun are out to reset your expectations for fun and ease-of-use when you want to bring your child along for the ride.\"",
             "smallimage": "shopify:\/\/shop_images\/Artboard_2-100.jpg",
-            "smallimage_width": 310,
+            "smallimage_width": 300,
             "button_label": "",
             "link": "",
             "button_toggle": false,
@@ -208,18 +208,38 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 30,
-            "color_scheme": "background-2",
+            "color_scheme": "",
             "text_alignment_mobile": "center"
           }
         },
-        "5134bd4a-cce0-4287-bd98-ab794dc58421": {
+        "86a5ef19-6e84-4345-bca0-5d65319ea2e6": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "<strong>\"It's lightning fast to mount, quick release up front, quick release at the back. Literally flick it onto one bike and off as you need it. This is one seat to fit all bikes.\"<\/strong>",
+            "subheading": "\"It's lightning fast to mount, quick release up front, quick release at the back. Literally flick it onto one bike and off as you need it. This is one seat to fit all bikes.\"",
             "smallimage": "shopify:\/\/shop_images\/Artboard_4-100.jpg",
+            "smallimage_width": 300,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "044c2675-92e2-4e82-8fb3-cac34f707954": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"What better way to spend time with your little one than by going for a bike ride? The Kids Ride Shotgun seat mounts to the top tube of your MTB so you can still enjoy the trails if your kids is not old enough to ride themselves!\"",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_5-100.jpg",
             "smallimage_width": 250,
             "button_label": "",
             "link": "",
@@ -228,26 +248,89 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 30,
-            "color_scheme": "background-2",
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "fcf04baa-3b08-4104-9680-e8a8fa9e4f63": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"Combining simplicity with a rugged design, the beauty of the shotgun is the saddle's adjustability. Aboard the shotgun, the tiny passengers can see ahead and begin to learn how to interact with the trail.\"",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_3-100.jpg",
+            "smallimage_width": 250,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a18cc939-d8e8-411d-8046-5ce1db3ab2fe": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_copy.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"Moving your child to the front of the bike helps keep them safer, but it also keeps them more engaged on the bike. You can talk to your kid while riding, checking in to make sure they're still having fun.\"",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_10-100.jpg",
+            "smallimage_width": 250,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "e7bc1331-a9ef-4fee-a541-8ce49449400a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"It has transformed my life as a parent who craves outdoor adventures with my child. The Shotgun enabled us to go on long rides that span hours, and take us far away from the parking lot and trailhead. My daughter loves riding in the front of the bicycle due to the vantage point it gives her.\"",
+            "smallimage": "shopify:\/\/shop_images\/Artboard_11-100.jpg",
+            "smallimage_width": 250,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "bd8cc940-1067-475a-9ad3-b9e78f7410e7",
-        "b0d59a11-3c9d-401d-8aca-a44edfd2683a",
-        "5134bd4a-cce0-4287-bd98-ab794dc58421"
+        "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0",
+        "8d7e93dc-2c8b-4533-8cd7-b6b555229053",
+        "86a5ef19-6e84-4345-bca0-5d65319ea2e6",
+        "044c2675-92e2-4e82-8fb3-cac34f707954",
+        "fcf04baa-3b08-4104-9680-e8a8fa9e4f63",
+        "a18cc939-d8e8-411d-8046-5ce1db3ab2fe",
+        "e7bc1331-a9ef-4fee-a541-8ce49449400a"
       ],
       "custom_css": [
-        ".banner__media {opacity: 100%; color: #f1f1f1;}",
-        "strong {color: #f1f1f1;}"
+        ".banner__media {opacity: 100%;}"
       ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
         "slider_visual": "dots",
         "auto_rotate": true,
-        "change_slides_speed": 3,
+        "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "",
@@ -601,7 +684,7 @@
     "4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80",
     "19d069c6-6ef8-4b77-9e7c-6b8027636d51",
     "5db3ad43-09b4-4905-85ee-36f1798c3966",
-    "7f96a391-6b55-45ea-bdec-c7ebae4914a7",
+    "f8bc5375-bc65-4712-86f1-5fd751d0ed64",
     "b090af9f-d513-4991-aef2-f890298945a5",
     "d5f87ff4-bc76-41b9-87c3-b055459de40c",
     "652cffc6-4a39-45af-aefd-3adc911d3a82",
