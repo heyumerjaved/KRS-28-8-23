@@ -466,8 +466,3 @@
     color: currentColor;
   }
 }
-@media only screen and (max-width: 992px) {
-  .banner {
-    height: 450px;
-  }
-}
