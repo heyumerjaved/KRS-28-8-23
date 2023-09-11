@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [
         "h1 {display: flex; justify-content: center; align-items: center; height: 140px; font-size: 23px;}"
       ],
@@ -9,9 +10,84 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "c0bf9329-bb19-4a14-a161-fee38933b542": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16084405616790__c0bf9329-bb19-4a14-a161-fee38933b542-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "SPARE PARTS",
+            "heading_size": "h1"
+          }
+        },
+        "template--16084405616790__c0bf9329-bb19-4a14-a161-fee38933b542-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>SPARE PARTS MY G, NOT SURE IF WE WANT ANYTHING HERE. BUT NOW IT'S HERE.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16084405616790__c0bf9329-bb19-4a14-a161-fee38933b542-heading-1",
+        "template--16084405616790__c0bf9329-bb19-4a14-a161-fee38933b542-text-1"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "573b9dd9-ce3c-42fa-83e4-207ed9f5cdc8": {
+      "type": "Collection-Hover-Tiles",
+      "blocks": {
+        "template--16084405616790__573b9dd9-ce3c-42fa-83e4-207ed9f5cdc8-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "front-mounted-child-seats"
+          }
+        },
+        "template--16084405616790__573b9dd9-ce3c-42fa-83e4-207ed9f5cdc8-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "offroad-balance-bikes"
+          }
+        },
+        "template--16084405616790__573b9dd9-ce3c-42fa-83e4-207ed9f5cdc8-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "apparel-accessories"
+          }
+        }
+      },
+      "block_order": [
+        "template--16084405616790__573b9dd9-ce3c-42fa-83e4-207ed9f5cdc8-featured_collection-1",
+        "template--16084405616790__573b9dd9-ce3c-42fa-83e4-207ed9f5cdc8-featured_collection-2",
+        "template--16084405616790__573b9dd9-ce3c-42fa-83e4-207ed9f5cdc8-featured_collection-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "c0bf9329-bb19-4a14-a161-fee38933b542",
+    "573b9dd9-ce3c-42fa-83e4-207ed9f5cdc8"
   ]
 }
