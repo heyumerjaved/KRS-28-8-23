@@ -8,14 +8,6 @@
           "settings": {
           }
         },
-        "vendor": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "",
-            "text_style": "uppercase"
-          }
-        },
         "ae8310f1-9cf0-4d5f-b029-930044155eca": {
           "type": "rating",
           "settings": {
@@ -32,12 +24,6 @@
             "picker_type": "button"
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -50,25 +36,15 @@
           "type": "description",
           "settings": {
           }
-        },
-        "share": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
         "title",
-        "vendor",
         "ae8310f1-9cf0-4d5f-b029-930044155eca",
         "price",
         "variant_picker",
-        "quantity_selector",
         "buy_buttons",
-        "description",
-        "share"
+        "description"
       ],
       "custom_css": [
         ".price {color: #515151;}",
@@ -78,7 +54,7 @@
         ".subtitle {font-weight: 900; color: #515151; margin-bottom: -15px;}",
         ".rating-count {display: inline-block; margin-left: -1px; vertical-align: 2.5px;}",
         ".product__tax {margin-top: -25px;}",
-        ".badge {margin-top: 3px}"
+        ".badge {margin-top: 3px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
