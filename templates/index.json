@@ -634,70 +634,6 @@
         "hide_controls": false
       }
     },
-    "6cdb2265-39a0-457d-89dd-4093f6df87fc": {
-      "type": "multicolumn",
-      "blocks": {
-        "476f7f23-d2d0-407d-bfdf-578b04aa9b4f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shred_til_bed.jpg",
-            "title": "<strong>STOKE THE FIRE<\/strong>",
-            "text": "<p>Getting excited about mountain biking starts from their very first story. Make MTB relatable and foster a love for riding bikes through our Stoke Club books, apparel & more.<\/p>",
-            "link_label": "",
-            "link": "",
-            "outlinebtncheck": false
-          }
-        },
-        "c0b300ca-370d-48fe-8cf4-b32f756da310": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1.jpg",
-            "title": "THEIR FIRST RIDE",
-            "text": "<p>Make their first MTB experience one they’ll never forget with our range of Shotgun seats. Riding up front introduces the joy of mountain biking from the safety of between your arms. <\/p>",
-            "link_label": "",
-            "link": "",
-            "outlinebtncheck": false
-          }
-        },
-        "ac065d96-270f-4468-a021-5cb631fbe880": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/HTD00770.jpg",
-            "title": "<strong>FINDING FREEDOM<\/strong>",
-            "text": "<p>Start your kids on their own mountain biking journey with our Kiduro range. From off-road balance bikes to tow ropes, we've got everything you need to enjoy hitting the trails together. <\/p>",
-            "link_label": "",
-            "link": "",
-            "outlinebtncheck": false
-          }
-        }
-      },
-      "block_order": [
-        "476f7f23-d2d0-407d-bfdf-578b04aa9b4f",
-        "c0b300ca-370d-48fe-8cf4-b32f756da310",
-        "ac065d96-270f-4468-a021-5cb631fbe880"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".multicolumn [class^=\"title\"] {align-items: center; justify-content: center !important; margin-bottom: 50px;}",
-        ".h2 {text-align: center;}"
-      ],
-      "settings": {
-        "title": "EVERYTHING YOU NEED",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
     "20bcc3cd-52c8-4a27-a85f-1a5ffd06b27e": {
       "type": "rich-text",
       "blocks": {
@@ -844,7 +780,6 @@
     "1687917424a14dea46",
     "92a9e953-4948-4209-adcb-f36d24ac972e",
     "82011a91-8a40-4c91-b208-6b452936fa31",
-    "6cdb2265-39a0-457d-89dd-4093f6df87fc",
     "20bcc3cd-52c8-4a27-a85f-1a5ffd06b27e",
     "168714602302433599",
     "0ab8e846-10fb-43aa-9cf4-0d788e146d07",
