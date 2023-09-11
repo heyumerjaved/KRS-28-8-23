@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [
         "h1 {display: flex; justify-content: center; align-items: center; height: 140px; font-size: 23px;}"
       ],
@@ -9,9 +10,53 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "049d3904-369f-48a7-aa15-f079bb4fcbba": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16084900544662__049d3904-369f-48a7-aa15-f079bb4fcbba-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "FIND YOUR LOCAL STOCKIST",
+            "heading_size": "h1"
+          }
+        },
+        "template--16084900544662__049d3904-369f-48a7-aa15-f079bb4fcbba-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16084900544662__049d3904-369f-48a7-aa15-f079bb4fcbba-heading-1",
+        "template--16084900544662__049d3904-369f-48a7-aa15-f079bb4fcbba-text-1"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "562c1709-01a7-4d4b-85ab-aa0656b87b1e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "049d3904-369f-48a7-aa15-f079bb4fcbba",
+    "562c1709-01a7-4d4b-85ab-aa0656b87b1e"
   ]
 }
