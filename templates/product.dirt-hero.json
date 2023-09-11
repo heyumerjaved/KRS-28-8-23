@@ -288,8 +288,7 @@
         ".rating-count {display: inline-block; margin-left: -1px; vertical-align: 2.5px;}",
         ".caption-with-letter-spacing {margin-top: -1px; margin-bottom: 1px;}",
         ".product__tax {margin-top: -25px;}",
-        ".form__label {display: none; font-weight: 900;}",
-        ".product-image {display: none}"
+        ".form__label {display: none; font-weight: 900;}"
       ],
       "settings": {
         "enable_sticky_info": true,
