@@ -287,8 +287,7 @@
         ".subtitle {font-weight: 900; color: #515151; margin-bottom: -15px;}",
         ".rating-count {display: inline-block; margin-left: -1px; vertical-align: 2.5px;}",
         ".caption-with-letter-spacing {margin-top: -1px; margin-bottom: 1px;}",
-        ".product__tax {margin-top: -25px;}",
-        ".product-image {display: none;}"
+        ".product__tax {margin-top: -25px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
