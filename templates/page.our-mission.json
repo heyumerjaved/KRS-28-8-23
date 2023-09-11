@@ -206,69 +206,6 @@
         "padding_bottom": 100
       }
     },
-    "e5d6bbbd-4f19-4398-a81f-8b7211bcf5bb": {
-      "type": "multicolumn-brand-identity",
-      "blocks": {
-        "template--16066259779734__e5d6bbbd-4f19-4398-a81f-8b7211bcf5bb-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DFD_without_text.png",
-            "title": "<strong>DESIGNED FOR DIRT<\/strong>",
-            "text": "<p>Our products are designed specifically for mountain biking, crafted for life on the trails and built to last.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16066259779734__e5d6bbbd-4f19-4398-a81f-8b7211bcf5bb-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ZYTG_without_text_cd9c58ad-d34d-4b74-8969-30c3e08c6d2a.png",
-            "title": "<strong>ZERO YEARS TO GEARS<\/strong>",
-            "text": "<p>From birth to bike, we have everything you need to raise your mini mountain biker.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16066259779734__e5d6bbbd-4f19-4398-a81f-8b7211bcf5bb-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/dby_af267a31-fc66-479c-884a-cd8583e71331.png",
-            "title": "<strong>DRIVEN BY EXPERIENCE<\/strong>",
-            "text": "<p>Our products are designed specifically for mountain biking, crafted for life on the trails and built to last.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16066259779734__e5d6bbbd-4f19-4398-a81f-8b7211bcf5bb-column-1",
-        "template--16066259779734__e5d6bbbd-4f19-4398-a81f-8b7211bcf5bb-column-2",
-        "template--16066259779734__e5d6bbbd-4f19-4398-a81f-8b7211bcf5bb-column-3"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".content-container {background: none;}",
-        "p {font-size: 11px;}",
-        "h3 {margin-top: -15px;}",
-        "@media only screen and (max-width: 992px) {.multicolumn {display: none; }}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
     "58762137-8fbb-45f7-9e7a-c38c022cb6b5": {
       "type": "multicolumn-sidebyside",
       "blocks": {
@@ -486,7 +423,6 @@
     "08a39fdf-ae12-4930-bb17-964a0e96d9dd",
     "c7577c43-1db5-4dc2-ad94-3f6604b0a2ec",
     "d074f53f-b812-4bfe-898b-f27bafd0dc7a",
-    "e5d6bbbd-4f19-4398-a81f-8b7211bcf5bb",
     "58762137-8fbb-45f7-9e7a-c38c022cb6b5",
     "139f0de3-8278-4868-8e89-fa6dc9e34809",
     "e13b622e-f8d9-47c9-a7ec-1d687d3f885a",
