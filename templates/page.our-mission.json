@@ -150,6 +150,24 @@
         "padding_bottom": 0
       }
     },
+    "c7577c43-1db5-4dc2-ad94-3f6604b0a2ec": {
+      "type": "video",
+      "custom_css": [
+        "@media only screen and (min-width: 1299px) {.video-section {display: none; }}"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=sFsh92e0810",
+        "cover_image": "shopify:\/\/shop_images\/Shotgun_bike_rides_in_Scotland.jpg",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "d074f53f-b812-4bfe-898b-f27bafd0dc7a": {
       "type": "rich-text",
       "blocks": {
@@ -466,6 +484,7 @@
     "1691371931fdb06143",
     "a0c5ea50-3e19-4501-9051-49a322c718c8",
     "08a39fdf-ae12-4930-bb17-964a0e96d9dd",
+    "c7577c43-1db5-4dc2-ad94-3f6604b0a2ec",
     "d074f53f-b812-4bfe-898b-f27bafd0dc7a",
     "e5d6bbbd-4f19-4398-a81f-8b7211bcf5bb",
     "58762137-8fbb-45f7-9e7a-c38c022cb6b5",
