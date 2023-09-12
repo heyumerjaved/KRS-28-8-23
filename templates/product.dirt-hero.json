@@ -8,6 +8,13 @@
           "settings": {
           }
         },
+        "631e2d81-6922-4240-9cbe-6255f21ac200": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<style>\n  .custom-text {\n    color: #212121;\n    font-size: 30px;\n    font-weight: 900;\n    margin-top: 0px;\n    margin-bottom: 25px;\nline-height: 30px;\n  }\n<\/style>\n\n<div class=\"custom-text\">\nDIRT HERO OFF-ROAD BALANCE BIKE\n<\/div>"
+          }
+        },
         "79382d15-6d15-44a4-ac3b-97351d855d83": {
           "type": "rating",
           "settings": {
@@ -18,6 +25,13 @@
           "settings": {
             "text": "Starting from...",
             "text_style": "uppercase"
+          }
+        },
+        "721f745c-66d0-4ec5-830f-732d846ab3db": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<style>\n  .custom-text {\n    color: #515151;\n    font-size: 20px;\n    font-weight: 900;\n    margin-top: -8px;\n    margin-bottom: 0px;\n  }\n<\/style>\n\n<div class=\"custom-text\">\n€439,00 EUR\n<\/div>"
           }
         },
         "price": {
@@ -250,8 +264,10 @@
       },
       "block_order": [
         "title",
+        "631e2d81-6922-4240-9cbe-6255f21ac200",
         "79382d15-6d15-44a4-ac3b-97351d855d83",
         "0a75fbf8-7f73-4360-9060-f43714b1530c",
+        "721f745c-66d0-4ec5-830f-732d846ab3db",
         "price",
         "4dbe2f6d-e323-4214-91e1-f7c0fa88b24f",
         "e56f95ed-65d5-4f30-af39-e58ffd39a784",
