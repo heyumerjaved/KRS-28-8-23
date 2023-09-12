@@ -1592,11 +1592,29 @@ a.product__text {
     margin-bottom: 1rem;
 }
 
+.product-container.outline-meta{
+  border: 2px solid #ff6b00
+}
+
+.product-container.outline-meta .product-title{
+  color: #ff6b00
+}
+
+
+.product-container.outline-meta:hover {
+  background-color: #ff6b00;
+  border: 2px solid #ff6b00;
+}
+
 .product-container:hover{
   background-color: #7d7d7d;
   border: 2px solid #7d7d7d;
   opacity: 0.5;
   transition: opacity 0.3s ease;
+}
+
+.product-container.outline-meta .original-price .fakest{
+  background-color: #ff6b00;
 }
 
 .product-container:hover .product-title, .product-container:hover .product-price{
@@ -1638,7 +1656,7 @@ a.product__text {
 .original-price .fakest{
     width: 100%;
     position: absolute;
-    height: 2px;
+    height: 1px;
     top: 50%;
     left: 0;
     transform: translateY(-50%);

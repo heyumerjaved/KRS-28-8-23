@@ -107,12 +107,15 @@
           {% assign bundleObject1 = product.metafields.custom.bundle_product_object_1.value %}
           {% assign bundleObject2 = product.metafields.custom.bundle_product_object_2.value %}
           {% assign bundleObject3 = product.metafields.custom.bundle_product_object_3.value %}
+          {% assign metaoutlinebtns = product.metafields.custom.show_meta_oultine_buttons %}
 
           {% if bundleObject != blank %}
-            <div class="product-container" id="fakeform">
+          <div class="product-container{% if metaoutlinebtns == true %} outline-meta{% endif %}" id="fakeform">
+              {% if bundleObject.image != blank %}
               <div class="product-image">
                   <img src="{{ bundleObject.image | img_url: '64px' }}" alt="Product Image" loading=lazy width=64 height=auto>
               </div>
+              {% endif %}
               <div class="product-details">
                   <div class="product-title">
                       {{ bundleObject.text }}
@@ -130,10 +133,12 @@
             </div>
           {% endif %}
           {% if bundleObject1 != blank %}
-            <div class="product-container" id="fakeform1">
+            <div class="product-container{% if metaoutlinebtns == true %} outline-meta{% endif %}" id="fakeform1">
+              {% if bundleObject1.image != blank %}
               <div class="product-image">
                   <img src="{{ bundleObject1.image | img_url: '64px' }}" alt="Product Image" loading=lazy width=64 height=auto>
               </div>
+              {% endif %}
               <div class="product-details">
                   <div class="product-title">
                       {{ bundleObject1.text }}
@@ -151,10 +156,12 @@
             </div>
           {% endif %}
           {% if bundleObject2 != blank %}
-            <div class="product-container" id="fakeform2">
+            <div class="product-container{% if metaoutlinebtns == true %} outline-meta{% endif %}" id="fakeform2">
+              {% if bundleObject2.image != blank %}
               <div class="product-image">
                   <img src="{{ bundleObject2.image | img_url: '64px' }}" alt="Product Image" loading=lazy width=64 height=auto>
               </div>
+              {% endif %}
               <div class="product-details">
                   <div class="product-title">
                       {{ bundleObject2.text }}
@@ -172,10 +179,12 @@
             </div>
           {% endif %}
           {% if bundleObject3 != blank %}
-            <div class="product-container" id="fakeform3">
+            <div class="product-container{% if metaoutlinebtns == true %} outline-meta{% endif %}" id="fakeform3">
+              {% if bundleObject3.image != blank %}
               <div class="product-image">
                   <img src="{{ bundleObject3.image | img_url: '64px' }}" alt="Product Image" loading=lazy width=64 height=auto>
               </div>
+              {% endif %}
               <div class="product-details">
                   <div class="product-title">
                       {{ bundleObject3.text }}
