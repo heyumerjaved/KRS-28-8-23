@@ -457,7 +457,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-
+      ".okeReviews[data-oke-container] .oke-w-navBar-item,div.okeReviews .oke-w-navBar-item {margin-top: 50px;}"
     ]
   }
 }
