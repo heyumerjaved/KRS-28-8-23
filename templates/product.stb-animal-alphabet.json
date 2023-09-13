@@ -89,7 +89,7 @@
         "7e842de0-e6df-4acc-90ed-735e1c44718b": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Making mountain biking relatable",
+            "heading": "Make mountain biking relatable",
             "icon": "none",
             "content": "<p>From dinosaurs to unicorns, bring mountain biking to life in a way kids can relate to with our rad Shred Til Bed characters. <\/p>",
             "page": ""
@@ -134,20 +134,6 @@
             "heading_1": "",
             "icon_2": "return",
             "heading_2": "",
-            "icon_3": "truck",
-            "heading_3": ""
-          }
-        },
-        "f976b21f-114f-48ad-8c82-42f536f85dae": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "apple",
-            "image_1": "shopify:\/\/shop_images\/award_2x_853aee2f-f468-476a-94b5-ba55d557ebfa.png",
-            "heading_1": "Award winning design",
-            "icon_2": "banana",
-            "image_2": "shopify:\/\/shop_images\/quality_2x_7e02532d-5eb3-46c6-8921-b1711590b389.png",
-            "heading_2": "Independent quality inspections",
             "icon_3": "truck",
             "heading_3": ""
           }
@@ -233,7 +219,6 @@
         "394f4dc4-c73a-4f86-ba11-5fa48b45d771",
         "b57ac794-075b-4a7a-ad08-e655d04448a7",
         "fe5a96d1-bee0-415c-9a07-63ded5df7c87",
-        "f976b21f-114f-48ad-8c82-42f536f85dae",
         "59ff94a8-9b5e-4fa0-b718-16d5e2a7895b",
         "e6c0d10e-d9b2-4147-9326-1e4bc6ed1d4b",
         "4376e36b-7ce2-4190-b3d9-6ccd8077c4fc",
@@ -469,7 +454,7 @@
         ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
       ],
       "settings": {
-        "title": "EXPLORE THE PRO RANGE",
+        "title": "EXPLORE THE SHRED TIL BED RANGE",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
