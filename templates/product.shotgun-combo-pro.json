@@ -13,13 +13,6 @@
           "settings": {
           }
         },
-        "0a75fbf8-7f73-4360-9060-f43714b1530c": {
-          "type": "text",
-          "settings": {
-            "text": "Starting from...",
-            "text_style": "uppercase"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -226,20 +219,6 @@
             "heading_3": ""
           }
         },
-        "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "apple",
-            "image_1": "shopify:\/\/shop_images\/stb_2x_6c30f86f-08a8-45fb-a988-9aaf22a70d3d.png",
-            "heading_1": "Shred Til Bed tattoos included ",
-            "icon_2": "banana",
-            "image_2": "shopify:\/\/shop_images\/stb_2x_33699d27-fbe9-4b0e-a332-ebf0caf71ade.png",
-            "heading_2": "Shred Til Bed stickers included ",
-            "icon_3": "truck",
-            "heading_3": ""
-          }
-        },
         "share": {
           "type": "share",
           "disabled": true,
@@ -251,7 +230,6 @@
       "block_order": [
         "title",
         "79382d15-6d15-44a4-ac3b-97351d855d83",
-        "0a75fbf8-7f73-4360-9060-f43714b1530c",
         "price",
         "4dbe2f6d-e323-4214-91e1-f7c0fa88b24f",
         "e56f95ed-65d5-4f30-af39-e58ffd39a784",
@@ -275,7 +253,6 @@
         "59ff94a8-9b5e-4fa0-b718-16d5e2a7895b",
         "e6c0d10e-d9b2-4147-9326-1e4bc6ed1d4b",
         "4376e36b-7ce2-4190-b3d9-6ccd8077c4fc",
-        "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601",
         "share"
       ],
       "custom_css": [
@@ -313,7 +290,7 @@
           "settings": {
             "heading": "Will the Shotgun Pro seat fit my bike?",
             "icon": "none",
-            "row_content": "<p>The Shotgun Pro seat fits almost all modern mountain bikes with standard 1 1\/8 inch steerers, including electric mountain bikes. <strong>Please watch our fitting video below or read our <\/strong><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><strong> to see if the Shotgun Pro seat will fit your bike.<\/strong><\/p>",
+            "row_content": "<p>The Shotgun Pro seat fits almost all modern mountain bikes with standard 1 1\/8 inch steerers, including electric mountain bikes. <strong>Please read our <\/strong><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><strong> to see if the Shotgun Pro seat will fit your bike.<\/strong><\/p>",
             "page": "",
             "video_link": ""
           }
