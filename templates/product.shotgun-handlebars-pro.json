@@ -495,105 +495,6 @@
         "button_toggle": false
       }
     },
-    "005e6450-4803-4f24-afeb-7d76cf703c87": {
-      "type": "rich-text",
-      "blocks": {
-        "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c": {
-          "type": "heading",
-          "settings": {
-            "heading": "ADD A SLICK AS HEADING HERE",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c"
-      ],
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 48
-      }
-    },
-    "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e": {
-      "type": "multirow",
-      "blocks": {
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-0": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_bike_in_1.gif",
-            "caption": "",
-            "heading": "2 BIKES IN 1",
-            "text": "<p>The Dirt Hero takes 12” and 14” wheel sizes, it's essentially 2 bikes in 1.<\/p><p>Transitioning from 12” to 14”, instead of rushing to a 16” pedal bike, gives your little one more time to develop key skills and build a love for riding off-road - so when that next step comes, they'll be ready for it with skills like braking already under their belt.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-1": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/HTD02086.jpg",
-            "caption": "",
-            "heading": "MTB tires for MTB kids",
-            "text": "<p>Pneumatic mtb tires are essential for off-road riding. The air filled tires with deep tread significantly increase grip, giving your little one the confidence they need to tackle the trails. Air filled tyres also act as suspension, dampening bumps and roots along the way for a smoother ride.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-2": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/HTD02064.jpg",
-            "caption": "",
-            "heading": "The perfect brake for balance bikes",
-            "text": "<p>Learning to brake before peddling is an important step in a kids mtb journey, and we believe that hydraulic disc brakes are the best option for balance bikes.<\/p><p>Not only do they provide more power, but require far less hand strength to operate than V brakes, making them ideal for little hands. We’ve also created the world’s first child safe rotor guard, for parent's peace of mind.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "b631a22c-2a2b-41a2-8f1a-609cf79a352e": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/magura_brake_comparison_left_2.jpg",
-            "caption": "",
-            "heading": "Easy reach brake lever",
-            "text": "<p>The Magura HC1 brake lever has some of the best reach adjustment on the market – meaning you can set the lever much closer to the handlebars than other brakes, a critical factor in usability for small hands with limited reach.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-0",
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-1",
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-2",
-        "b631a22c-2a2b-41a2-8f1a-609cf79a352e"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image_height": "adapt",
-        "desktop_image_width": "medium",
-        "heading_size": "h2",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
-        "row_color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 52,
-        "padding_bottom": 100
-      }
-    },
     "e2855d62-ce8e-422b-9231-27be2d827176": {
       "type": "rich-text",
       "blocks": {
@@ -932,8 +833,6 @@
     "ec8d4414-d91b-47ed-be23-12f897619257",
     "cd2df96a-1516-4ef8-a67e-077495db249d",
     "c26ae100-d5a5-4403-9dc7-53fe124f112d",
-    "005e6450-4803-4f24-afeb-7d76cf703c87",
-    "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e",
     "e2855d62-ce8e-422b-9231-27be2d827176",
     "16873073199d82bfd2",
     "a2034ce1-6470-41ba-a894-6e7301faa85d",
