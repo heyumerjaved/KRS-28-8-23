@@ -13,13 +13,6 @@
           "settings": {
           }
         },
-        "0a75fbf8-7f73-4360-9060-f43714b1530c": {
-          "type": "text",
-          "settings": {
-            "text": "Starting from...",
-            "text_style": "uppercase"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -96,45 +89,18 @@
         "7e842de0-e6df-4acc-90ed-735e1c44718b": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Zero frame contact",
+            "heading": "Making mountain biking relatable",
             "icon": "none",
-            "content": "<p>Mounts to your headset and seat post, meaning there's zero contact with your frame.<\/p>",
+            "content": "<p>Introduce your little one to mountain biking from an early age with the illustrated A-Z shredding animals and most common mountain biking terms. <\/p>",
             "page": ""
           }
         },
         "7e76a656-277f-49ed-a5bc-8551073e56d4": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Lightning fast fitting",
+            "heading": "High quality hardcover",
             "icon": "none",
-            "content": "<p>Quick release – 30 seconds to fit, remove and swap between bikes after initial installation. <\/p>",
-            "page": ""
-          }
-        },
-        "0c9e6846-1be9-4387-b0a8-9a189a67732d": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "E-MTB compatible",
-            "icon": "none",
-            "content": "<p>With adjustable leg width, the Shotgun Pro is suitable for use on electric bikes with wide down tubes. <\/p>",
-            "page": ""
-          }
-        },
-        "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "For kids 18 months - 5 years",
-            "icon": "none",
-            "content": "<p>Designed for children 18 months - 5 years, up to 60lb \/ 27kg, with adjustable leg length to grow with your child. <\/p>",
-            "page": ""
-          }
-        },
-        "528db60a-035c-439a-ba58-bef7b6b0b638": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Fully adjustable",
-            "icon": "none",
-            "content": "<p>Adjustable leg widths, saddle position, and leg lengths – making it simple to get the perfect fit, and adjust as your child grows. <\/p>",
+            "content": "<p>52 pages of MTB stoke in hardcover print – designed to withstand the rough & tumble of toddler life. <\/p>",
             "page": ""
           }
         },
@@ -251,7 +217,6 @@
       "block_order": [
         "title",
         "79382d15-6d15-44a4-ac3b-97351d855d83",
-        "0a75fbf8-7f73-4360-9060-f43714b1530c",
         "price",
         "4dbe2f6d-e323-4214-91e1-f7c0fa88b24f",
         "e56f95ed-65d5-4f30-af39-e58ffd39a784",
@@ -265,9 +230,6 @@
         "75c7a372-834b-4498-af43-55d62b407395",
         "7e842de0-e6df-4acc-90ed-735e1c44718b",
         "7e76a656-277f-49ed-a5bc-8551073e56d4",
-        "0c9e6846-1be9-4387-b0a8-9a189a67732d",
-        "b0990f17-118f-4c87-ba9e-1522276c0a8d",
-        "528db60a-035c-439a-ba58-bef7b6b0b638",
         "394f4dc4-c73a-4f86-ba11-5fa48b45d771",
         "b57ac794-075b-4a7a-ad08-e655d04448a7",
         "fe5a96d1-bee0-415c-9a07-63ded5df7c87",
