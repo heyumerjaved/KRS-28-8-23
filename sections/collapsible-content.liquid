@@ -98,24 +98,21 @@
   </div>
 {%- endfor -%}
 <style>
-.video-wrapper {
-  max-width: 650px;
-  border-radius: 10px;
-  overflow: hidden; /* Ensure the rounded corners are applied */
-  margin: 0 auto; /* Center the container horizontally */
-}
-
-.video-container {
-  max-height: 373.3333333px;
-  padding-top: -20px; /* Add padding above the video */
-  padding-bottom: -20px; /* Add padding below the video */
-  display: flex;
-  justify-content: center; /* Center the embedded iframe horizontally */
-}
+  .video-wrapper {
+    max-width: 650px;
+    max-height: 373.3333333px;
+    border-radius: 10px;
+    overflow: hidden; /* Ensure the rounded corners are applied */
+    margin: 0 auto; /* Center the container horizontally */
+    display: flex;
+    justify-content: center; /* Center the embedded iframe horizontally */
+  }
 
   .video-wrapper iframe {
     width: 100%;
     height: 373.333333px; /* Set the height to maintain the aspect ratio */
+    margin-top: 20px;
+    margin-bottom: 20px
   }
 
   .error-message {
