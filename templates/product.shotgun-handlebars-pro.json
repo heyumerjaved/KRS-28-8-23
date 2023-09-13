@@ -93,12 +93,12 @@
             "text_style": "subtitle"
           }
         },
-        "7e842de0-e6df-4acc-90ed-735e1c44718b": {
+        "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Warm and grippy",
+            "heading": "Lightning fast fitting",
             "icon": "none",
-            "content": "<p>The Shotgun Pro bars give your little one a warmer and grippier place to hold onto whilst riding shotgun as well as keeping them in a more upright riding position. <\/p>",
+            "content": "<p>Quick release – 30 seconds to fit, remove and swap between bikes.<\/p>",
             "page": ""
           }
         },
@@ -120,21 +120,21 @@
             "page": ""
           }
         },
-        "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Lightning fast fitting",
-            "icon": "none",
-            "content": "<p>Quick release – 30 seconds to fit, remove and swap between bikes.<\/p>",
-            "page": ""
-          }
-        },
         "528db60a-035c-439a-ba58-bef7b6b0b638": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Designed for little hands",
             "icon": "none",
             "content": "<p>355mm extra-wide bars and custom 19mm undersized grips for maximum comfort and stability.<\/p>",
+            "page": ""
+          }
+        },
+        "7e842de0-e6df-4acc-90ed-735e1c44718b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Warm and grippy",
+            "icon": "none",
+            "content": "<p>The Shotgun Pro bars give your little one a warmer and grippier place to hold onto whilst riding shotgun as well as keeping them in a more upright riding position. <\/p>",
             "page": ""
           }
         },
@@ -249,11 +249,11 @@
         "description",
         "e606f48f-9b8f-45c1-adf6-080d3f0ffea7",
         "75c7a372-834b-4498-af43-55d62b407395",
-        "7e842de0-e6df-4acc-90ed-735e1c44718b",
+        "b0990f17-118f-4c87-ba9e-1522276c0a8d",
         "7e76a656-277f-49ed-a5bc-8551073e56d4",
         "0c9e6846-1be9-4387-b0a8-9a189a67732d",
-        "b0990f17-118f-4c87-ba9e-1522276c0a8d",
         "528db60a-035c-439a-ba58-bef7b6b0b638",
+        "7e842de0-e6df-4acc-90ed-735e1c44718b",
         "394f4dc4-c73a-4f86-ba11-5fa48b45d771",
         "b57ac794-075b-4a7a-ad08-e655d04448a7",
         "fe5a96d1-bee0-415c-9a07-63ded5df7c87",
