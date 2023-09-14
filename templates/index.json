@@ -176,7 +176,7 @@
       ],
       "custom_css": [
         "p {color: #212121; width: 600px;}",
-        ".image-with-text .content-container {box-shadow: none; margin-left: -320px; margin-right: -400px; width: 700px;}",
+        ".image-with-text .content-container {box-shadow: none; margin-left: -355px; margin-right: -400px; width: 700px;}",
         ".image-with-text__heading {width: 600px;}",
         ".image-with-texta--overlap .image-with-text__content-text {}",
         "@media only screen and (max-width: 1285px) {.image-with-text {display: none; }}"
