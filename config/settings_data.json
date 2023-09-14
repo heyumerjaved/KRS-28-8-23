@@ -209,7 +209,7 @@
       },
       "scheme-0719dfdd-f25f-4099-a448-0ceeaad3b7d3": {
         "settings": {
-          "background": "rgba(0,0,0,0)",
+          "background": "#f1f1f1",
           "background_gradient": "",
           "text": "#ff6900",
           "button": "#ff6900",
@@ -460,7 +460,7 @@
       ".okeReviews[data-oke-container] .oke-w-navBar-item,div.okeReviews .oke-w-navBar-item {margin-top: 50px;}",
       "@media only screen and (max-width: 992px) {.okeReviews[data-oke-container] .oke-w-navBar-item, div.okeReviews .oke-w-navBar-item {margin-left: 2px; }}",
       ".okeReviews[data-oke-container] .oke-media-image,div.okeReviews .oke-media-image {border-radius: 10px;}",
-      ".okeReviews[data-oke-container] .oke-reviewContent-title, div.okeReviews .oke-reviewContent-title {font-weight: 900}"
+      ".okeReviews[data-oke-container] .oke-reviewContent-title,div.okeReviews .oke-reviewContent-title {font-weight: 900;}"
     ]
   }
 }
