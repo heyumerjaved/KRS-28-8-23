@@ -175,8 +175,8 @@
         "template--16061949411478__2fdbe6e3-0871-407f-bfdb-db0f061f4721-text-1"
       ],
       "custom_css": [
-        "p {color: #212121; width: 500px;}",
-        ".image-with-text .content-container {box-shadow: none; margin-left: -255px; margin-right: -400px; width: 600px;}",
+        "p {color: #212121; width: 600px;}",
+        ".image-with-text .content-container {box-shadow: none; margin-left: -320px; margin-right: -400px; width: 700px;}",
         ".image-with-text__heading {width: 600px;}",
         ".image-with-texta--overlap .image-with-text__content-text {}",
         "@media only screen and (max-width: 1285px) {.image-with-text {display: none; }}"
