@@ -457,9 +457,10 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".oke-media-image,div.okeReviews .oke-media-image {border-radius: 10px;}",
+      ".oke-media-image,div.okeReviews .oke-media-image {border-radius: 10px; transition: border-radius 0.3s ease; \/* Add a transition for a smoother effect *\/}",
+      ".oke-media-image:hover,div.okeReviews .oke-media-image:hover {border-radius: 20px; \/* Adjust the border-radius value for the hover effect *\/}",
       ".okeReviews[data-oke-container] .oke-reviewContent-title,div.okeReviews .oke-reviewContent-title {font-weight: 900;}",
-      ".oke-poweredBy-image {margin-left: 140px}"
+      ".oke-poweredBy-image {margin-left: 140px;}"
     ]
   }
 }
