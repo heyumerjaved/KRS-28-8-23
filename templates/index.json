@@ -176,7 +176,7 @@
       ],
       "custom_css": [
         "p {color: #ff6b00;}",
-        ".image-with-text .content-container {background: rgba(241, 241, 241, 0.3); box-shadow: none; margin-left: -320px; margin-right: -400px; width: 700px;}",
+        ".image-with-text .content-container {background: rgba(241, 241, 241, 1); box-shadow: none; margin-left: -320px; margin-right: -400px; width: 700px;}",
         "p {width: 600px;}",
         ".image-with-text__heading {width: 600px;}",
         ".image-with-texta--overlap .image-with-text__content-text {}",
