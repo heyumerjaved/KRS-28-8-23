@@ -457,7 +457,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".okeReviews[data-oke-container] .oke-w-navBar-item,div.okeReviews .oke-w-navBar-item {margin-top: 50px;}",
+      ".okeReviews[data-oke-container] .oke-w-navBar-item,div.okeReviews .oke-w-navBar-item {margin-top: 36px;}",
       "@media only screen and (max-width: 992px) {.okeReviews[data-oke-container] .oke-w-navBar-item, div.okeReviews .oke-w-navBar-item {margin-left: 2px; }}",
       ".okeReviews[data-oke-container] .oke-media-image,div.okeReviews .oke-media-image {border-radius: 10px;}",
       ".okeReviews[data-oke-container] .oke-reviewContent-title,div.okeReviews .oke-reviewContent-title {font-weight: 900;}"
