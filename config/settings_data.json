@@ -461,7 +461,7 @@
       "@media only screen and (max-width: 992px) {.okeReviews[data-oke-container] .oke-w-navBar-item, div.okeReviews .oke-w-navBar-item {margin-left: 2px; }}",
       ".okeReviews[data-oke-container] .oke-media-image,div.okeReviews .oke-media-image {border-radius: 10px;}",
       ".okeReviews[data-oke-container] .oke-reviewContent-title,div.okeReviews .oke-reviewContent-title {font-weight: 900;}",
-      ".okeReviews[data-oke-container] .oke-w-filters,div.okeReviews .oke-w-filters {margin-top: 20px;}"
+      ".okeReviews[data-oke-container] .oke-w-filters,div.okeReviews .oke-w-filters {margin-top: 20px; margin-left: 2px;}"
     ]
   }
 }
