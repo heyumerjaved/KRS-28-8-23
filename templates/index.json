@@ -396,7 +396,7 @@
         "color_scheme": "background-1",
         "full_width": false,
         "padding_top": 100,
-        "padding_bottom": 80
+        "padding_bottom": 0
       }
     },
     "1687917424a14dea46": {
@@ -420,51 +420,6 @@
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "92a9e953-4948-4209-adcb-f36d24ac972e": {
-      "type": "rich-text",
-      "blocks": {
-        "a91bf105-959a-4287-8456-e0ca5251e6c1": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h2"
-          }
-        },
-        "9982d6d8-6436-4492-a948-4f4b40980f85": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "0471a287-2511-4b53-989a-db8e9f83f639": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "https:\/\/www.instagram.com\/kidsrideshotgun\/",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "a91bf105-959a-4287-8456-e0ca5251e6c1",
-        "9982d6d8-6436-4492-a948-4f4b40980f85",
-        "0471a287-2511-4b53-989a-db8e9f83f639"
-      ],
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": false,
-        "padding_top": 100,
-        "padding_bottom": 0
       }
     },
     "82011a91-8a40-4c91-b208-6b452936fa31": {
@@ -780,7 +735,6 @@
     "featured-collection",
     "21ed03ed-8cb2-44b3-b07b-c5b002a75901",
     "1687917424a14dea46",
-    "92a9e953-4948-4209-adcb-f36d24ac972e",
     "82011a91-8a40-4c91-b208-6b452936fa31",
     "20bcc3cd-52c8-4a27-a85f-1a5ffd06b27e",
     "168714602302433599",
