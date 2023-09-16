@@ -103,6 +103,8 @@
           </button>
           {% endif %}
 
+
+        {% unless customer.b2b? %}
           {% assign bundleObject = product.metafields.custom.bundle_product_object.value %}
           {% assign bundleObject1 = product.metafields.custom.bundle_product_object_1.value %}
           {% assign bundleObject2 = product.metafields.custom.bundle_product_object_2.value %}
@@ -201,6 +203,7 @@
               </div>
             </div>
           {% endif %}
+        {% endunless %}
         
           {%- if show_dynamic_checkout -%}
             {{ form | payment_button }}
@@ -208,7 +211,8 @@
         </div>
       {%- endform -%}
     </product-form>
-    
+  
+  {% unless customer.b2b? %}
     {% assign bundleObject = product.metafields.custom.bundle_product_object.value %}
     {% assign bundleObject1 = product.metafields.custom.bundle_product_object_1.value %}
     {% assign bundleObject2 = product.metafields.custom.bundle_product_object_2.value %}
@@ -278,6 +282,7 @@
         </form>
       </product-form>
     {% endif %}
+  {% endunless %}
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {

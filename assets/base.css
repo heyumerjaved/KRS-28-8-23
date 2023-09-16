@@ -2802,6 +2802,7 @@ details[open] > .header__menu-item .icon-caret {
   background-color: rgba(var(--color-foreground), 0.03);
   padding: 0.5rem 0;
   margin: 0.5rem 0;
+  padding-top: 12px;
 }
 
 .header__submenu .header__menu-item:after {
@@ -2814,7 +2815,9 @@ details[open] > .header__menu-item .icon-caret {
 }
 
 .header__submenu .header__submenu .header__menu-item {
-  padding-left: 3.4rem;
+  padding-left: 20px;
+  margin-bottom: 6px;
+  padding-right: 20px;
 }
 
 .header__menu-item .icon-caret {
@@ -3513,6 +3516,7 @@ body p{
     display: block;
     display: flex;
     justify-content: center;
+    transform: translateY(-10px);
 }
 
 .header__inline-menu ul.header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce{
