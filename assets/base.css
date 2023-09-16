@@ -2832,7 +2832,7 @@ details[open] > .header__menu-item .icon-caret {
 
 header-menu > details,
 details-disclosure > details {
-  position: relative;
+  /* position: relative; */
 }
 
 @keyframes animateMenuOpen {
@@ -3510,13 +3510,13 @@ body p{
 }
 
 .sublist-container{
-    position: fixed;
     left: 0;
     right: 0;
     display: block;
     display: flex;
     justify-content: center;
-    transform: translateY(-10px);
+    position: absolute;
+    z-index: 9;
 }
 
 .header__inline-menu ul.header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce{
