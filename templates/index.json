@@ -652,7 +652,8 @@
         "5d99b43d-6183-467d-a2ad-d6a6a4cf5a1f"
       ],
       "custom_css": [
-        ".js-lazy-image {border-radius: 6px;}"
+        ".js-lazy-image {border-radius: 6px;}",
+        "#insta-feed .instafeed-overlay, .instafeed-shopify .instafeed-overlay {border-radius: 6px;}"
       ],
       "settings": {
         "include_margins": true
