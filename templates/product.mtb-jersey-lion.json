@@ -335,9 +335,9 @@
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Installation video",
+            "heading": "Care",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Cold machine wash with like colours. Dry in the shade. Do not tumble dry. Do not iron. Do not dry clean.<\/p>",
             "page": "",
             "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
           }
