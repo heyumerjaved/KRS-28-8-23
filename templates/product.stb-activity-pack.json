@@ -114,15 +114,17 @@
         },
         "0c9e6846-1be9-4387-b0a8-9a189a67732d": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
-            "heading": "E-MTB compatible",
+            "heading": "Shipping & returns",
             "icon": "none",
-            "content": "<p>With adjustable leg width, the Shotgun Pro is suitable for use on electric bikes with wide down tubes. <\/p>",
+            "content": "",
             "page": ""
           }
         },
         "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "For kids 18 months - 5 years",
             "icon": "none",
@@ -132,6 +134,7 @@
         },
         "528db60a-035c-439a-ba58-bef7b6b0b638": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Fully adjustable",
             "icon": "none",
@@ -175,6 +178,7 @@
         },
         "f976b21f-114f-48ad-8c82-42f536f85dae": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -304,390 +308,6 @@
         "enable_video_looping": true,
         "padding_top": 100,
         "padding_bottom": 100
-      }
-    },
-    "3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Will the Shotgun Pro seat fit my bike?",
-            "icon": "none",
-            "row_content": "<p>The Shotgun Pro seat fits almost all modern mountain bikes with standard 1 1\/8 inch steerers, including electric mountain bikes. <strong>Please watch our fitting video below or read our <\/strong><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><strong> to see if the Shotgun Pro seat will fit your bike.<\/strong><\/p>",
-            "page": "",
-            "video_link": ""
-          }
-        },
-        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Will my child fit the Shotgun Pro seat?",
-            "icon": "none",
-            "row_content": "<p>The Shotgun Pro is designed for children 18 months - 5 years, and up to 60lb \/ 27kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\"><strong>shotgun seat sizing page<\/strong><\/span><strong>. <\/strong><\/p>",
-            "page": "",
-            "video_link": ""
-          }
-        },
-        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Installation video",
-            "icon": "none",
-            "row_content": "",
-            "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
-          }
-        },
-        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Shipping, returns & warranty",
-            "icon": "none",
-            "row_content": "<p>This is just bunch of random text and it's only here as a placeholder to show what it'll all look like once the copy as been filled out.<\/p>",
-            "page": "",
-            "video_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0",
-        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1",
-        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2",
-        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3"
-      ],
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Specifications",
-        "heading_size": "h2",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-2",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "fa7a3ced-2c17-42a3-9cbc-045abf17a5c6": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "NOT SURE ON A COMBO? \/ MAKE IT A COMBO",
-            "heading_size": "h1"
-          }
-        },
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Purchase a seat and handlebars as a combo and save 5%<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Add to cart",
-            "product": "shotgun-child-bike-seat-handlebars-combo",
-            "atc_type": "ajax",
-            "button_toggle": false
-          }
-        },
-        "7db668c7-b812-4028-8882-22973cfcbd6d": {
-          "type": "caption",
-          "disabled": true,
-          "settings": {
-            "caption": "",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "small"
-          }
-        }
-      },
-      "block_order": [
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1",
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1",
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1",
-        "7db668c7-b812-4028-8882-22973cfcbd6d"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/KRS_Combo_Grey_1_1-1_858fb5e6-2803-4511-a476-c309b3020132.jpg",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "scheme-036afa03-d5ab-4c5a-9bac-3aad9e4e6cc7",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "c3900cb3-25d1-4846-8af6-062209ae0070": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16039832944790__c3900cb3-25d1-4846-8af6-062209ae0070-1688422403b8037bbd-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "SEE THE SHOTGUN® PRO IN ACTION",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "template--16039832944790__c3900cb3-25d1-4846-8af6-062209ae0070-1688422403b8037bbd-0"
-      ],
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "ec8d4414-d91b-47ed-be23-12f897619257": {
-      "type": "video",
-      "custom_css": [
-        ".video-section__poster {height: 750px; position: center; overflow: hidden; margin: 0 auto; margin-top: 0px; justify-content: center; align-items: center;}",
-        ".video-section {height: 750px; position: top; overflow: hidden; justify-content: center; align-items: center;}",
-        "iframe {max-width: 100%; width: 100%; height: 1080px; position: absolute; top: 8%; left: 50%; transform: translate(-50%, calc(-100% + 820px));}",
-        ".container {position: relative; padding-bottom: 100%; overflow: hidden;}",
-        "@media only screen and (max-width: 1300px) {.video-section {display: none; }}"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=74QII2CVjH4",
-        "cover_image": "shopify:\/\/shop_images\/Gets22-03637.jpg",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "cd2df96a-1516-4ef8-a67e-077495db249d": {
-      "type": "video",
-      "custom_css": [
-        "@media only screen and (min-width: 1299px) {.video-section {display: none; }}"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=74QII2CVjH4",
-        "cover_image": "shopify:\/\/shop_images\/Gets22-03637.jpg",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "c26ae100-d5a5-4403-9dc7-53fe124f112d": {
-      "type": "featured-collection",
-      "custom_css": [
-        ".button {outline-width: 1px; outline-style: solid; outline-color: #ff6b00; background-color: transparent; color: #ff6b00; border-radius: 6px; padding: 10px 20px; \/* Adjust padding as needed *\/ transition: color 0.3s, background-color 0.3s; cursor: pointer; text-align: center; text-decoration: none;}",
-        ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
-      ],
-      "settings": {
-        "title": "EXPLORE THE PRO RANGE",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "pro-range",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "button_toggle": false
-      }
-    },
-    "005e6450-4803-4f24-afeb-7d76cf703c87": {
-      "type": "rich-text",
-      "blocks": {
-        "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c": {
-          "type": "heading",
-          "settings": {
-            "heading": "ADD A SLICK AS HEADING HERE",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c"
-      ],
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 48
-      }
-    },
-    "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e": {
-      "type": "multirow",
-      "blocks": {
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-0": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_bike_in_1.gif",
-            "caption": "",
-            "heading": "2 BIKES IN 1",
-            "text": "<p>The Dirt Hero takes 12” and 14” wheel sizes, it's essentially 2 bikes in 1.<\/p><p>Transitioning from 12” to 14”, instead of rushing to a 16” pedal bike, gives your little one more time to develop key skills and build a love for riding off-road - so when that next step comes, they'll be ready for it with skills like braking already under their belt.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-1": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/HTD02086.jpg",
-            "caption": "",
-            "heading": "MTB tires for MTB kids",
-            "text": "<p>Pneumatic mtb tires are essential for off-road riding. The air filled tires with deep tread significantly increase grip, giving your little one the confidence they need to tackle the trails. Air filled tyres also act as suspension, dampening bumps and roots along the way for a smoother ride.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-2": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/HTD02064.jpg",
-            "caption": "",
-            "heading": "The perfect brake for balance bikes",
-            "text": "<p>Learning to brake before peddling is an important step in a kids mtb journey, and we believe that hydraulic disc brakes are the best option for balance bikes.<\/p><p>Not only do they provide more power, but require far less hand strength to operate than V brakes, making them ideal for little hands. We’ve also created the world’s first child safe rotor guard, for parent's peace of mind.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "b631a22c-2a2b-41a2-8f1a-609cf79a352e": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/magura_brake_comparison_left_2.jpg",
-            "caption": "",
-            "heading": "Easy reach brake lever",
-            "text": "<p>The Magura HC1 brake lever has some of the best reach adjustment on the market – meaning you can set the lever much closer to the handlebars than other brakes, a critical factor in usability for small hands with limited reach.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-0",
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-1",
-        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-2",
-        "b631a22c-2a2b-41a2-8f1a-609cf79a352e"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image_height": "adapt",
-        "desktop_image_width": "medium",
-        "heading_size": "h2",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
-        "row_color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 52,
-        "padding_bottom": 100
-      }
-    },
-    "e2855d62-ce8e-422b-9231-27be2d827176": {
-      "type": "rich-text",
-      "blocks": {
-        "93b97971-a8d9-4ff9-a159-6ff497e81490": {
-          "type": "heading",
-          "settings": {
-            "heading": "JOIN THOUSANDS OF STOKED MTB FAMILIES",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "93b97971-a8d9-4ff9-a159-6ff497e81490"
-      ],
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 36
-      }
-    },
-    "16873073199d82bfd2": {
-      "type": "apps",
-      "blocks": {
-        "b2580218-50d8-4279-9fa6-12288ec45cb7": {
-          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
-          "settings": {
-            "product": "asiento-para-ninos-shotgun-pro-mtb",
-            "widget_type": "reviews_widget"
-          }
-        }
-      },
-      "block_order": [
-        "b2580218-50d8-4279-9fa6-12288ec45cb7"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "a2034ce1-6470-41ba-a894-6e7301faa85d": {
-      "type": "rich-text",
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 0
       }
     },
     "f8bc5375-bc65-4712-86f1-5fd751d0ed64": {
@@ -859,6 +479,397 @@
         "hide_controls": false
       }
     },
+    "3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will the Shotgun Pro seat fit my bike?",
+            "icon": "none",
+            "row_content": "<p>The Shotgun Pro seat fits almost all modern mountain bikes with standard 1 1\/8 inch steerers, including electric mountain bikes. <strong>Please watch our fitting video below or read our <\/strong><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><strong> to see if the Shotgun Pro seat will fit your bike.<\/strong><\/p>",
+            "page": "",
+            "video_link": ""
+          }
+        },
+        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will my child fit the Shotgun Pro seat?",
+            "icon": "none",
+            "row_content": "<p>The Shotgun Pro is designed for children 18 months - 5 years, and up to 60lb \/ 27kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\"><strong>shotgun seat sizing page<\/strong><\/span><strong>. <\/strong><\/p>",
+            "page": "",
+            "video_link": ""
+          }
+        },
+        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Installation video",
+            "icon": "none",
+            "row_content": "",
+            "page": "",
+            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
+          }
+        },
+        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shipping, returns & warranty",
+            "icon": "none",
+            "row_content": "<p>This is just bunch of random text and it's only here as a placeholder to show what it'll all look like once the copy as been filled out.<\/p>",
+            "page": "",
+            "video_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0",
+        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1",
+        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2",
+        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Specifications",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-2",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "fa7a3ced-2c17-42a3-9cbc-045abf17a5c6": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "NOT SURE ON A COMBO? \/ MAKE IT A COMBO",
+            "heading_size": "h1"
+          }
+        },
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Purchase a seat and handlebars as a combo and save 5%<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Add to cart",
+            "product": "shotgun-child-bike-seat-handlebars-combo",
+            "atc_type": "ajax",
+            "button_toggle": false
+          }
+        },
+        "7db668c7-b812-4028-8882-22973cfcbd6d": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1",
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1",
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1",
+        "7db668c7-b812-4028-8882-22973cfcbd6d"
+      ],
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/KRS_Combo_Grey_1_1-1_858fb5e6-2803-4511-a476-c309b3020132.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "scheme-036afa03-d5ab-4c5a-9bac-3aad9e4e6cc7",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "c3900cb3-25d1-4846-8af6-062209ae0070": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16039832944790__c3900cb3-25d1-4846-8af6-062209ae0070-1688422403b8037bbd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "SEE THE SHOTGUN® PRO IN ACTION",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16039832944790__c3900cb3-25d1-4846-8af6-062209ae0070-1688422403b8037bbd-0"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "ec8d4414-d91b-47ed-be23-12f897619257": {
+      "type": "video",
+      "disabled": true,
+      "custom_css": [
+        ".video-section__poster {height: 750px; position: center; overflow: hidden; margin: 0 auto; margin-top: 0px; justify-content: center; align-items: center;}",
+        ".video-section {height: 750px; position: top; overflow: hidden; justify-content: center; align-items: center;}",
+        "iframe {max-width: 100%; width: 100%; height: 1080px; position: absolute; top: 8%; left: 50%; transform: translate(-50%, calc(-100% + 820px));}",
+        ".container {position: relative; padding-bottom: 100%; overflow: hidden;}",
+        "@media only screen and (max-width: 1300px) {.video-section {display: none; }}"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=74QII2CVjH4",
+        "cover_image": "shopify:\/\/shop_images\/Gets22-03637.jpg",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "cd2df96a-1516-4ef8-a67e-077495db249d": {
+      "type": "video",
+      "disabled": true,
+      "custom_css": [
+        "@media only screen and (min-width: 1299px) {.video-section {display: none; }}"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=74QII2CVjH4",
+        "cover_image": "shopify:\/\/shop_images\/Gets22-03637.jpg",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "005e6450-4803-4f24-afeb-7d76cf703c87": {
+      "type": "rich-text",
+      "blocks": {
+        "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c": {
+          "type": "heading",
+          "settings": {
+            "heading": "ADD A SLICK AS HEADING HERE",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 48
+      }
+    },
+    "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e": {
+      "type": "multirow",
+      "blocks": {
+        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_bike_in_1.gif",
+            "caption": "",
+            "heading": "2 BIKES IN 1",
+            "text": "<p>The Dirt Hero takes 12” and 14” wheel sizes, it's essentially 2 bikes in 1.<\/p><p>Transitioning from 12” to 14”, instead of rushing to a 16” pedal bike, gives your little one more time to develop key skills and build a love for riding off-road - so when that next step comes, they'll be ready for it with skills like braking already under their belt.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HTD02086.jpg",
+            "caption": "",
+            "heading": "MTB tires for MTB kids",
+            "text": "<p>Pneumatic mtb tires are essential for off-road riding. The air filled tires with deep tread significantly increase grip, giving your little one the confidence they need to tackle the trails. Air filled tyres also act as suspension, dampening bumps and roots along the way for a smoother ride.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HTD02064.jpg",
+            "caption": "",
+            "heading": "The perfect brake for balance bikes",
+            "text": "<p>Learning to brake before peddling is an important step in a kids mtb journey, and we believe that hydraulic disc brakes are the best option for balance bikes.<\/p><p>Not only do they provide more power, but require far less hand strength to operate than V brakes, making them ideal for little hands. We’ve also created the world’s first child safe rotor guard, for parent's peace of mind.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "b631a22c-2a2b-41a2-8f1a-609cf79a352e": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/magura_brake_comparison_left_2.jpg",
+            "caption": "",
+            "heading": "Easy reach brake lever",
+            "text": "<p>The Magura HC1 brake lever has some of the best reach adjustment on the market – meaning you can set the lever much closer to the handlebars than other brakes, a critical factor in usability for small hands with limited reach.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-0",
+        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-1",
+        "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-2",
+        "b631a22c-2a2b-41a2-8f1a-609cf79a352e"
+      ],
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 52,
+        "padding_bottom": 100
+      }
+    },
+    "e2855d62-ce8e-422b-9231-27be2d827176": {
+      "type": "rich-text",
+      "blocks": {
+        "93b97971-a8d9-4ff9-a159-6ff497e81490": {
+          "type": "heading",
+          "settings": {
+            "heading": "JOIN THOUSANDS OF STOKED MTB FAMILIES",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "93b97971-a8d9-4ff9-a159-6ff497e81490"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
+    "16873073199d82bfd2": {
+      "type": "apps",
+      "blocks": {
+        "b2580218-50d8-4279-9fa6-12288ec45cb7": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "asiento-para-ninos-shotgun-pro-mtb",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "b2580218-50d8-4279-9fa6-12288ec45cb7"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "a2034ce1-6470-41ba-a894-6e7301faa85d": {
+      "type": "rich-text",
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
+    "c26ae100-d5a5-4403-9dc7-53fe124f112d": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".button {outline-width: 1px; outline-style: solid; outline-color: #ff6b00; background-color: transparent; color: #ff6b00; border-radius: 6px; padding: 10px 20px; \/* Adjust padding as needed *\/ transition: color 0.3s, background-color 0.3s; cursor: pointer; text-align: center; text-decoration: none;}",
+        ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
+      ],
+      "settings": {
+        "title": "EXPLORE THE PRO RANGE",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "pro-range",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "button_toggle": false
+      }
+    },
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d": {
       "type": "rich-text",
       "blocks": {
@@ -964,18 +975,18 @@
   },
   "order": [
     "main",
+    "f8bc5375-bc65-4712-86f1-5fd751d0ed64",
     "3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a",
     "fa7a3ced-2c17-42a3-9cbc-045abf17a5c6",
     "c3900cb3-25d1-4846-8af6-062209ae0070",
     "ec8d4414-d91b-47ed-be23-12f897619257",
     "cd2df96a-1516-4ef8-a67e-077495db249d",
-    "c26ae100-d5a5-4403-9dc7-53fe124f112d",
     "005e6450-4803-4f24-afeb-7d76cf703c87",
     "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e",
     "e2855d62-ce8e-422b-9231-27be2d827176",
     "16873073199d82bfd2",
     "a2034ce1-6470-41ba-a894-6e7301faa85d",
-    "f8bc5375-bc65-4712-86f1-5fd751d0ed64",
+    "c26ae100-d5a5-4403-9dc7-53fe124f112d",
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d",
     "1687992408aa7441fa",
     "5132e1e2-9ef2-45bf-b6e2-b204ee99cb3e",
