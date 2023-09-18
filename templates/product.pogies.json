@@ -15,6 +15,7 @@
         },
         "0a75fbf8-7f73-4360-9060-f43714b1530c": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Starting from...",
             "text_style": "uppercase"
@@ -96,9 +97,9 @@
         "7e842de0-e6df-4acc-90ed-735e1c44718b": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Zero frame contact",
+            "heading": "Warm & waterproof",
             "icon": "none",
-            "content": "<p>Mounts to your headset and seat post, meaning there's zero contact with your frame.<\/p>",
+            "content": "<p>With 10,000mm waterproofing, 3M Thinsulate filling and fleece lining our pogies will keep your kids hands warm and dry, no matter the conditions.<\/p>",
             "page": ""
           }
         },
