@@ -858,6 +858,7 @@
     },
     "a2034ce1-6470-41ba-a894-6e7301faa85d": {
       "type": "rich-text",
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
