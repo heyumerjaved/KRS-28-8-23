@@ -128,6 +128,13 @@
   </div>
 </div>
 
+{%- if block.settings.row_image != blank -%}
+  <div class="collapsible-row-image">
+    <img src="{{ block.settings.row_image | img_url: 'original' }}" alt="{{ block.settings.heading | default: block.settings.page.title }}">
+  </div>
+{%- endif -%}
+
+
 {% schema %}
 {
   "name": "t:sections.collapsible_content.name",
@@ -512,7 +519,14 @@
       "type": "url",
       "id": "video_link",
       "label": "YouTube Video Link"
-    } 
+    },
+        {
+  "type": "image_picker",
+  "id": "row_image",
+  "label": "Image",
+  "info": "Upload an image for this collapsible row"
+}
+
       ]
     }
   ],
