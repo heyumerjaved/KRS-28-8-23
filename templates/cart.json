@@ -24,12 +24,6 @@
           "settings": {
           }
         },
-        "buttons": {
-          "type": "buttons",
-          "settings": {
-            "checkboxtext": "<p>I agree to the <strong>disclaimer something<\/strong><\/p>"
-          }
-        },
         "5029a5ae-e450-433d-8024-a6a530b6ae8d": {
           "type": "column",
           "settings": {
@@ -40,14 +34,14 @@
         "dca6b614-ca21-47de-b277-c126039ffcf9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/delivery.png",
+            "image": "shopify:\/\/shop_images\/Artboard_37_3081fcee-ce64-47d4-b89d-b092a0cd1f98.png",
             "title": "Free shipping!"
           }
         },
         "427bd253-1b26-4140-ab82-a3e2e9e03cbd": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
+            "image": "shopify:\/\/shop_images\/return.png",
             "title": "Free 60 day returns"
           }
         },
@@ -57,19 +51,25 @@
             "image": "shopify:\/\/shop_images\/delivery_2x_971aff3d-8247-4381-9768-21090a41c0ac.png",
             "title": "Delivery timeframes"
           }
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {
+            "checkboxtext": "<p>I agree to the <strong>disclaimer statement<\/strong><\/p>"
+          }
         }
       },
       "block_order": [
         "subtotal",
-        "buttons",
         "5029a5ae-e450-433d-8024-a6a530b6ae8d",
         "dca6b614-ca21-47de-b277-c126039ffcf9",
         "427bd253-1b26-4140-ab82-a3e2e9e03cbd",
-        "2a58c4f4-9912-48f8-a1ef-dee11882c04d"
+        "2a58c4f4-9912-48f8-a1ef-dee11882c04d",
+        "buttons"
       ],
       "custom_css": [
         "{color: #212121;}",
-        "@media only screen and (min-width: 992px) {.column-image {max-width: 100%; max-height: 50%; } .before__cart__blocks .icon-column .icon-title {font-size: 11px; } .before__cart__blocks{width: 55%; margin-left: 60px}}"
+        "@media only screen and (min-width: 992px) {.before__cart__blocks .icon-column .icon-title {font-size: 11px; } .before__cart__blocks {width: 55%; margin-left: 60px; }}"
       ],
       "settings": {
       }
