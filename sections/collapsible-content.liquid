@@ -128,44 +128,6 @@
   </div>
 </div>
 
-{% for block in section.blocks %}
-  <div class="accordion{% if section.settings.layout == 'row' %} content-container color-{{ section.settings.container_color_scheme }} gradient{% endif %}" {{ block.shopify_attributes }}>
-    <details id="Details-{{ block.id }}-{{ section.id }}" {% if section.settings.open_first_collapsible_row and forloop.first %} open {% endif %}>
-      <summary id="Summary-{{ block.id }}-{{ section.id }}">
-        {% render 'icon-accordion', icon: block.settings.icon %}
-        <h3 class="accordion__title inline-richtext h4">
-          {{ block.settings.heading | default: block.settings.page.title }}
-        </h3>
-        {% render 'icon-caret' %}
-      </summary>
-      <div class="accordion__content rte" id="CollapsibleAccordion-{{ block.id }}-{{ section.id }}" role="region" aria-labelledby="Summary-{{ block.id }}-{{ section.id }}">
-        {% if block.settings.row_image != blank %}
-          <div class="collapsible-image">
-            {{ block.settings.row_image | img_url: 'medium' | img_tag: alt: block.settings.heading }}
-          </div>
-        {% endif %}
-        {% if block.settings.row_content != blank %}
-          <div class="collapsible-text">
-            {{ block.settings.row_content }}
-          </div>
-        {% endif %}
-        {{ block.settings.page.content }}
-        {% if block.settings.video_link != blank %}
-          {% assign video_id = block.settings.video_link | split: "v=" | last %}
-          {% if video_id != block.settings.video_link %}
-            <div class="video-wrapper">
-              <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
-            </div>
-          {% else %}
-            <p class="error-message">Invalid YouTube video link. Please use the format: https://www.youtube.com/watch?v=VIDEO_ID</p>
-          {% endif %}
-        {% endif %}
-      </div>
-    </details>
-  </div>
-{% endfor %}
-
-
 {% schema %}
 {
   "name": "t:sections.collapsible_content.name",
@@ -550,13 +512,7 @@
       "type": "url",
       "id": "video_link",
       "label": "YouTube Video Link"
-    },
-        {
-  "type": "image_picker",
-  "id": "row_image",
-  "label": "Row Image"
-}
-
+    } 
       ]
     }
   ],
