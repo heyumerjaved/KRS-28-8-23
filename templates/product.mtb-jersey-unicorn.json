@@ -335,9 +335,9 @@
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Installation video",
+            "heading": "Care",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Cold machine wash with like colours. Dry in the shade. Do not tumble dry. Do not iron. Do not dry clean.<\/p>",
             "page": "",
             "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
           }
@@ -347,7 +347,7 @@
           "settings": {
             "heading": "Shipping, returns & warranty",
             "icon": "none",
-            "row_content": "<p>This is just bunch of random text and it's only here as a placeholder to show what it'll all look like once the copy as been filled out.<\/p>",
+            "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
             "page": "",
             "video_link": ""
           }
