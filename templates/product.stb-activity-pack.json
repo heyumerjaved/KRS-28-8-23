@@ -15,6 +15,7 @@
         },
         "0a75fbf8-7f73-4360-9060-f43714b1530c": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Starting from...",
             "text_style": "uppercase"
@@ -96,9 +97,9 @@
         "7e842de0-e6df-4acc-90ed-735e1c44718b": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Zero frame contact",
+            "heading": "60+ pages of MTB stoke",
             "icon": "none",
-            "content": "<p>Mounts to your headset and seat post, meaning there's zero contact with your frame.<\/p>",
+            "content": "<p>Hours of MTB themed fun, across 3 soft-cover books: <br\/>– Activity Book (20+ MTB themed activities)<br\/>– Sticker Book (100+ epic stickers)<br\/>Colouring Book (26 rad animals)<\/p>",
             "page": ""
           }
         },
