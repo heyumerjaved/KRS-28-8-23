@@ -22,6 +22,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
@@ -96,9 +97,9 @@
         "7e842de0-e6df-4acc-90ed-735e1c44718b": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Zero frame contact",
+            "heading": "Mini mountain biker style",
             "icon": "none",
-            "content": "<p>Mounts to your headset and seat post, meaning there's zero contact with your frame.<\/p>",
+            "content": "<p>Featuring a custom illustration by the artist behind our Shred Til Bed series – designed to get your little one stoked on mountain biking. <\/p>",
             "page": ""
           }
         },
