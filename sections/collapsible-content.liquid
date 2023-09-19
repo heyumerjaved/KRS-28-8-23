@@ -66,6 +66,14 @@
           <div class="grid__item">
             {%- for block in section.blocks -%}
             <div class="accordion{% if section.settings.layout == 'row' %} content-container color-{{ section.settings.container_color_scheme }} gradient{% endif %}" {{ block.shopify_attributes }}>
+  {% if block.settings.image_upload %}
+    <div class="collapsible-image">
+      <img src="{{ block.settings.image_upload | image_url }}" alt="{{ block.settings.heading | default: block.settings.page.title }}" class="collapsible-row-image">
+    </div>
+  {% endif %}
+  <details id="Details-{{ block.id }}-{{ section.id }}" {% if section.settings.open_first_collapsible_row and forloop.first %} open {% endif %}>
+    <!-- Rest of your existing code for the collapsible row -->
+  </details>
               <details id="Details-{{ block.id }}-{{ section.id }}" {% if section.settings.open_first_collapsible_row and forloop.first %} open {% endif %}>
                 <summary id="Summary-{{ block.id }}-{{ section.id }}">
                   {% render 'icon-accordion', icon: block.settings.icon %}
