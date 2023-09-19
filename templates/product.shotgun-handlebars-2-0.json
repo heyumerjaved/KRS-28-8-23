@@ -382,14 +382,14 @@
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "NOT SURE ON A COMBO? \/ MAKE IT A COMBO",
+            "heading": "MAKE IT A COMBO AND SAVE",
             "heading_size": "h1"
           }
         },
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Purchase a seat and handlebars as a combo and save 5%<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
+            "text": "<p>Purchase a seat and handlebars as a combo and save $10<\/p><p>With the 2.0 handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
             "text_style": "body"
           }
         },
@@ -397,7 +397,7 @@
           "type": "button",
           "settings": {
             "button_label": "Add to cart",
-            "product": "shotgun-child-bike-seat-handlebars-combo",
+            "product": "shotgun-2-0-child-bike-seat-handlebars-combo",
             "atc_type": "ajax",
             "button_toggle": false
           }
@@ -422,7 +422,7 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/KRS_Combo_Grey_1_1-1_858fb5e6-2803-4511-a476-c309b3020132.jpg",
+        "image": "shopify:\/\/shop_images\/221121_9873GreyBG_38cc2ece-264b-482b-a6e9-50c9459c97e6.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -540,6 +540,7 @@
       "blocks": {
         "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "ADD A SLICK AS HEADING HERE",
             "heading_size": "h2"
@@ -549,6 +550,7 @@
       "block_order": [
         "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -615,6 +617,7 @@
         "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-2",
         "b631a22c-2a2b-41a2-8f1a-609cf79a352e"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
