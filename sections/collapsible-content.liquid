@@ -97,44 +97,6 @@
     </details>
   </div>
 {%- endfor -%}
-{% for block in section.blocks %}
-  <div class="accordion{% if section.settings.layout == 'row' %} content-container color-{{ section.settings.container_color_scheme }} gradient{% endif %}" {{ block.shopify_attributes }}>
-    <details id="Details-{{ block.id }}-{{ section.id }}" {% if section.settings.open_first_collapsible_row and forloop.first %} open {% endif %}>
-      <summary id="Summary-{{ block.id }}-{{ section.id }}">
-        {% render 'icon-accordion', icon: block.settings.icon %}
-        <h3 class="accordion__title inline-richtext h4">
-          {{ block.settings.heading | default: block.settings.page.title }}
-        </h3>
-        {% render 'icon-caret' %}
-      </summary>
-      <div class="accordion__content rte" id="CollapsibleAccordion-{{ block.id }}-{{ section.id }}" role="region" aria-labelledby="Summary-{{ block.id }}-{{ section.id }}">
-        {{ block.settings.row_content }}
-        {{ block.settings.page.content }}
-
-        {% if block.settings.video_link != blank %}
-          {% assign video_id = block.settings.video_link | split: "v=" | last %}
-          {% if video_id != block.settings.video_link %}
-            <div class="video-wrapper">
-              <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
-            </div>
-          {% else %}
-            <p class="error-message">Invalid YouTube video link. Please use the format: https://www.youtube.com/watch?v=VIDEO_ID</p>
-          {% endif %}
-        {% endif %}
-
-        <!-- Image Upload Field -->
-        <div class="image-upload">
-          <label for="image-upload-{{ block.id }}-{{ section.id }}">Upload Image:</label>
-          <input type="file" id="image-upload-{{ block.id }}-{{ section.id }}" name="block_settings_image_{{ block.id }}" accept="image/*" />
-          {% if block.settings.image_url != blank %}
-            <img src="{{ block.settings.image_url | img_url: '100x100' }}" alt="Uploaded Image" />
-          {% endif %}
-        </div>
-      </div>
-    </details>
-  </div>
-{% endfor %}
-
 <style>
   .video-wrapper {
     max-width: 650px;
@@ -550,14 +512,7 @@
       "type": "url",
       "id": "video_link",
       "label": "YouTube Video Link"
-    },
-        {
-  "type": "image_picker",
-  "id": "image",
-  "label": "Upload an Image for the Collapsible Row",
-  "info": "Upload an image for this collapsible row."
-}
-
+    } 
       ]
     }
   ],
