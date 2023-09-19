@@ -72,56 +72,37 @@
 
           {% endif %}
           <div class="grid__item">
-  {%- for block in section.blocks -%}
-  <div class="accordion{% if section.settings.layout == 'row' %} content-container color-{{ section.settings.container_color_scheme }} gradient{% endif %}" {{ block.shopify_attributes }}>
-    <details id="Details-{{ block.id }}-{{ section.id }}" {% if section.settings.open_first_collapsible_row and forloop.first %} open {% endif %}>
-      <summary id="Summary-{{ block.id }}-{{ section.id }}">
-        {% render 'icon-accordion', icon: block.settings.icon %}
-        <h3 class="accordion__title inline-richtext h4">
-          {{ block.settings.heading | default: block.settings.page.title }}
-        </h3>
-        {% render 'icon-caret' %}
-      </summary>
-      <div class="accordion__content rte" id="CollapsibleAccordion-{{ block.id }}-{{ section.id }}" role="region" aria-labelledby="Summary-{{ block.id }}-{{ section.id }}">
-        {{ block.settings.row_content }}
-        {{ block.settings.page.content }}
-        {% if block.settings.video_link != blank %}
-          {% assign video_id = block.settings.video_link | split: "v=" | last %}
-          {% if video_id != block.settings.video_link %}
-            <div class="video-wrapper">
-              <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
-            </div>
-          {% else %}
-            <p class="error-message">Invalid YouTube video link. Please use the format: https://www.youtube.com/watch?v=VIDEO_ID</p>
-          {% endif %}
+{%- for block in section.blocks -%}
+<div class="accordion{% if section.settings.layout == 'row' %} content-container color-{{ section.settings.container_color_scheme }} gradient{% endif %}" {{ block.shopify_attributes }}>
+  <details id="Details-{{ block.id }}-{{ section.id }}" {% if section.settings.open_first_collapsible_row and forloop.first %} open {% endif %}>
+    <summary id="Summary-{{ block.id }}-{{ section.id }}">
+      {% render 'icon-accordion', icon: block.settings.icon %}
+      <h3 class="accordion__title inline-richtext h4">
+        {{ block.settings.heading | default: block.settings.page.title }}
+      </h3>
+      {% render 'icon-caret' %}
+    </summary>
+    <div class="accordion__content rte" id="CollapsibleAccordion-{{ block.id }}-{{ section.id }}" role="region" aria-labelledby="Summary-{{ block.id }}-{{ section.id }}">
+      {{ block.settings.row_content }}
+      {{ block.settings.page.content }}
+      {% if block.settings.video_link != blank %}
+        {% assign video_id = block.settings.video_link | split: "v=" | last %}
+        {% if video_id != block.settings.video_link %}
+          <div class="video-wrapper">
+            <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+          </div>
+        {% else %}
+          <p class="error-message">Invalid YouTube video link. Please use the format: https://www.youtube.com/watch?v=VIDEO_ID</p>
         {% endif %}
-<!-- BEGIN: Image Code -->
-{% if block.settings.image_upload %}
-  <div class="collapsible-content__media collapsible-content__media--{{ section.settings.image_ratio }} media global-media-settings gradient" {% if section.settings.image_ratio == 'adapt' %} style="padding-bottom: {{ 1 | divided_by: section.settings.image.aspect_ratio | times: 100 }}%;"{% endif %}>
-    {%- liquid
-      assign padding_multiplier = 1
-      if section.settings.layout == 'section'
-         assign padding_multiplier = 2
-      endif
-      assign desktop_tablet_padding = 100 | times: padding_multiplier | append: 'px'
-      assign mobile_padding = 30 | times: padding_multiplier | append: 'px'
-    -%}
-    {%- capture sizes -%}
-      (min-width: {{ settings.page_width }}px) calc(({{ settings.page_width }}px - {{ desktop_tablet_padding }}) / 2),
-      (min-width: 750px) calc((100vw - {{ desktop_tablet_padding }}) / 2),
-      calc(100vw - {{ mobile_padding }})
-    {%- endcapture -%}
-    {%- assign image_url = block.settings.image_upload | image_url: width: 3200 -%}
-    <img src="{{ image_url | escape }}" alt="{{ block.settings.heading }}" loading="lazy" sizes="{{ sizes }}" />
-  </div>
-{% endif %}
-<!-- END: Image Code -->
-
-
-      </div>
-    </details>
-  </div>
+      {% endif %}
+      {% if block.settings.image_upload %}
+        <img src="{{ block.settings.image_upload | img_url: '800x' }}" alt="{{ block.settings.heading }}" />
+      {% endif %}
+    </div>
+  </details>
+</div>
 {%- endfor -%}
+
 <style>
   .video-wrapper {
     max-width: 650px;
