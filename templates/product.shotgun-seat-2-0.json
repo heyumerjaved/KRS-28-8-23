@@ -326,7 +326,7 @@
           "settings": {
             "heading": "Will my child fit the Shotgun 2.0 seat?",
             "icon": "none",
-            "row_content": "<p>The Shotgun 2.0 seat is designed for kids 18 months - 5 years of age, and up to 60lb or 27kg. Find out if your child is ready to ride shotgun on our shotgun <span style=\"text-decoration:underline\">shotgun 2.0 seat sizing<\/span> page.<\/p>",
+            "row_content": "<p>The Shotgun 2.0 seat is designed for kids 18 months - 5 years of age, and up to 60lb or 27kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\">shotgun 2.0 seat sizing<\/span> page.<\/p>",
             "page": "",
             "video_link": ""
           }
