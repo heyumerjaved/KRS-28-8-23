@@ -95,6 +95,37 @@
             <p class="error-message">Invalid YouTube video link. Please use the format: https://www.youtube.com/watch?v=VIDEO_ID</p>
           {% endif %}
         {% endif %}
+      <!-- BEGIN: Image Code -->
+        {% if block.settings.image_upload %}
+        <div class="collapsible-content__media collapsible-content__media--{{ section.settings.image_ratio }} media global-media-settings gradient"
+           {% if section.settings.image_ratio == 'adapt' %}
+              style="padding-bottom: {{ 1 | divided_by: section.settings.image.aspect_ratio | times: 100 }}%;"
+           {% endif %}
+        >
+          {%- liquid
+              assign padding_multiplier = 1
+              if section.settings.layout == 'section'
+                 assign padding_multiplier = 2
+              endif
+              assign desktop_tablet_padding = 100 | times: padding_multiplier | append: 'px'
+              assign mobile_padding = 30 | times: padding_multiplier | append: 'px'
+           -%}
+           {%- capture sizes -%}
+              (min-width: {{ settings.page_width }}px) calc(({{ settings.page_width }}px - {{ desktop_tablet_padding }}) / 2),
+              (min-width: 750px) calc((100vw - {{ desktop_tablet_padding }}) / 2),
+              calc(100vw - {{ mobile_padding }})
+           {%- endcapture -%}
+           {{
+              block.settings.image_upload
+              | image_url: width: 3200
+              | image_tag:
+                 loading: 'lazy',
+                 sizes: sizes,
+                 widths: '50, 75, 100, 150, 200, 300, 400, 500, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750, 3000, 3200'
+           }}
+        </div>
+        {% endif %}
+        <!-- END: Image Code -->
       </div>
     </details>
   </div>
