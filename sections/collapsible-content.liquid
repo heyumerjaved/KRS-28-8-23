@@ -96,7 +96,7 @@
         {% endif %}
       {% endif %}
       {% if block.settings.image_upload %}
-        <img src="{{ block.settings.image_upload | img_url: '800x' }}" alt="{{ block.settings.heading }}" />
+        <img src="{{ block.settings.image_upload | asset_url }}" alt="{{ block.settings.heading }}" />
       {% endif %}
     </div>
   </details>
