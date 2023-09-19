@@ -86,6 +86,15 @@
             "custom_liquid": "<hr style=\"border: 1px solid #212121; border-radius: 5px;\">"
           }
         },
+        "7e842de0-e6df-4acc-90ed-735e1c44718b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Designed for kids 18 months - 5 years",
+            "icon": "none",
+            "content": "<p>Designed for children 18 months - 5 years, up to 60lb \/ 27kg, with 2 foot peg positions to grow with your child.<\/p>",
+            "page": ""
+          }
+        },
         "75c7a372-834b-4498-af43-55d62b407395": {
           "type": "text",
           "disabled": true,
@@ -94,21 +103,12 @@
             "text_style": "subtitle"
           }
         },
-        "7e842de0-e6df-4acc-90ed-735e1c44718b": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Zero frame contact",
-            "icon": "none",
-            "content": "<p>Mounts to your headset and seat post, meaning there's zero contact with your frame.<\/p>",
-            "page": ""
-          }
-        },
         "7e76a656-277f-49ed-a5bc-8551073e56d4": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Lightning fast fitting",
             "icon": "none",
-            "content": "<p>Quick release – 30 seconds to fit, remove and swap between bikes after initial installation. <\/p>",
+            "content": "<p>Designed for children 18 months - 5 years, up to 60lb \/ 27kg, with 2 foot peg positions to grow with your child.<\/p>",
             "page": ""
           }
         },
@@ -263,8 +263,8 @@
         "41b29148-65fd-4648-9a0e-86e00e677000",
         "description",
         "e606f48f-9b8f-45c1-adf6-080d3f0ffea7",
-        "75c7a372-834b-4498-af43-55d62b407395",
         "7e842de0-e6df-4acc-90ed-735e1c44718b",
+        "75c7a372-834b-4498-af43-55d62b407395",
         "7e76a656-277f-49ed-a5bc-8551073e56d4",
         "0c9e6846-1be9-4387-b0a8-9a189a67732d",
         "b0990f17-118f-4c87-ba9e-1522276c0a8d",
