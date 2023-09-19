@@ -311,6 +311,7 @@
       "blocks": {
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Will the Shotgun Pro seat fit my bike?",
             "icon": "none",
@@ -321,6 +322,7 @@
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Will my child fit the Shotgun Pro seat?",
             "icon": "none",
@@ -336,7 +338,7 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=TeuyhasN4yc&t=153s"
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
