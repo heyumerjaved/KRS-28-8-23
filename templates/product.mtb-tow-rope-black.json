@@ -114,14 +114,15 @@
         "0c9e6846-1be9-4387-b0a8-9a189a67732d": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "E-MTB compatible",
+            "heading": "One size fits all",
             "icon": "none",
-            "content": "<p>With adjustable leg width, the Shotgun Pro is suitable for use on electric bikes with wide down tubes. <\/p>",
+            "content": "<p>With a load rating of 500lb \/ 225kg, our tow rope is suitable for mini shredders and adults alike. <\/p>",
             "page": ""
           }
         },
         "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "For kids 18 months - 5 years",
             "icon": "none",
@@ -131,6 +132,7 @@
         },
         "528db60a-035c-439a-ba58-bef7b6b0b638": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Fully adjustable",
             "icon": "none",
@@ -174,6 +176,7 @@
         },
         "f976b21f-114f-48ad-8c82-42f536f85dae": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
