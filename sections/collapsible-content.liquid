@@ -95,8 +95,11 @@
           <p class="error-message">Invalid YouTube video link. Please use the format: https://www.youtube.com/watch?v=VIDEO_ID</p>
         {% endif %}
       {% endif %}
+  
       {% if block.settings.image_upload %}
+          <div class="collapsible-row-image">
         <img src="{{ block.settings.image_upload | asset_url }}" alt="{{ block.settings.heading }}" />
+             </div>
       {% endif %}
     </div>
   </details>
@@ -126,6 +129,12 @@
     color: red;
     text-align: center; /* Center the error message text horizontally */
   }
+  .collapsible-row-image img {
+  max-width: 100%; /* Ensure the image fits the content area */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Remove extra spacing */
+  margin: 0 auto; /* Center the image horizontally */
+}
 </style>
           </div>
         </div>
