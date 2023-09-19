@@ -397,7 +397,7 @@
           "type": "button",
           "settings": {
             "button_label": "Add to cart",
-            "product": "shotgun-child-bike-seat-handlebars-combo",
+            "product": "shotgun-2-0-child-bike-seat-handlebars-combo",
             "atc_type": "ajax",
             "button_toggle": false
           }
