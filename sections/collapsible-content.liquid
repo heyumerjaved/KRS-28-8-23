@@ -153,6 +153,24 @@
     color: red;
     text-align: center; /* Center the error message text horizontally */
   }
+  /* Styles for the uploaded image */
+.collapsible-content__media {
+    max-width: 100%; /* Ensure the image doesn't exceed its container */
+    height: auto; /* Maintain aspect ratio */
+    margin: 10px 0; /* Add some spacing around the image (adjust as needed) */
+}
+
+/* Styles for the image container (if necessary) */
+.collapsible-content__media-container {
+    /* Add any container styles here, e.g., padding, background color, border */
+}
+
+/* Styles for the uploaded image on larger screens (adjust as needed) */
+@media screen and (min-width: 750px) {
+    .collapsible-content__media {
+        /* Add styles for larger screens here */
+    }
+}
 </style>
           </div>
         </div>
