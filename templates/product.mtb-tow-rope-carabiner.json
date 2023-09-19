@@ -346,7 +346,7 @@
           "settings": {
             "heading": "Shipping, returns & warranty",
             "icon": "none",
-            "row_content": "<p>This is just bunch of random text and it's only here as a placeholder to show what it'll all look like once the copy as been filled out.<\/p>",
+            "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
             "page": "",
             "video_link": ""
           }
@@ -418,6 +418,7 @@
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1",
         "7db668c7-b812-4028-8882-22973cfcbd6d"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -475,8 +476,7 @@
         "heading": "",
         "heading_size": "h2",
         "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=74QII2CVjH4",
-        "cover_image": "shopify:\/\/shop_images\/Gets22-03637.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=MbUu3wuUy34",
         "description": "",
         "full_width": true,
         "color_scheme": "",
