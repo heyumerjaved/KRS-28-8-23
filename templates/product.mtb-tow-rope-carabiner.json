@@ -123,6 +123,7 @@
         },
         "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "For kids 18 months - 5 years",
             "icon": "none",
@@ -132,6 +133,7 @@
         },
         "528db60a-035c-439a-ba58-bef7b6b0b638": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Fully adjustable",
             "icon": "none",
@@ -312,19 +314,9 @@
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Will the Shotgun Pro seat fit my bike?",
+            "heading": "Product details",
             "icon": "none",
-            "row_content": "<p>The Shotgun Pro seat fits almost all modern mountain bikes with standard 1 1\/8 inch steerers, including electric mountain bikes. <strong>Please watch our fitting video below or read our <\/strong><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><strong> to see if the Shotgun Pro seat will fit your bike.<\/strong><\/p>",
-            "page": "",
-            "video_link": ""
-          }
-        },
-        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Will my child fit the Shotgun Pro seat?",
-            "icon": "none",
-            "row_content": "<p>The Shotgun Pro is designed for children 18 months - 5 years, and up to 60lb \/ 27kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\"><strong>shotgun seat sizing page<\/strong><\/span><strong>. <\/strong><\/p>",
+            "row_content": "<p>1.7m\/5.5 feet un-stretched – 3.3m \/ 10.8 feet stretched (polyester)<\/p><p>Load rated to 500lb \/ 225kg<\/p><p>Product weight: 0.25kgs.<\/p>",
             "page": "",
             "video_link": ""
           }
@@ -336,7 +328,17 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=-sHgxfueG5U"
+          }
+        },
+        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "FAQ's",
+            "icon": "none",
+            "row_content": "<p><strong>Is the tow rope safe for use on dropper posts?<br\/><\/strong>The majority of our customers use their tow rope on dropper posts and we aren’t aware of any issues. To minimise wear and tear on your seat post you should remain seated when towing.<\/p><p><strong>Is the tow rope safe to use with e-bikes? <br\/><\/strong>We’re aware of many customers using their tow ropes with Ebikes and we haven’t heard of any issue to date. To minimise load on the Ebike motor we recommend the person being towed is also pedalling.<\/p><p><strong>What age is the tow rope suitable for?<br\/><\/strong>The shotgun tow rope is designed with kids in mind, but it’s suitable for adults too – as it’s rated to 500lb \/ 225kg. For kids, we’ve found that the tow rope works best once they’re confidently riding a balance bike or pedal bike themselves. <\/p>",
+            "page": "",
+            "video_link": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -352,8 +354,8 @@
       },
       "block_order": [
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0",
-        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2",
+        "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3"
       ],
       "custom_css": [
