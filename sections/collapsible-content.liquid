@@ -139,9 +139,9 @@
         {% render 'icon-caret' %}
       </summary>
       <div class="accordion__content rte" id="CollapsibleAccordion-{{ block.id }}-{{ section.id }}" role="region" aria-labelledby="Summary-{{ block.id }}-{{ section.id }}">
-        {%- if block.settings.block_image != blank -%}
-          <div class="block-image">
-            {{ block.settings.block_image | img_url: 'large' | img_tag: alt: block.settings.heading }}
+        {%- if block.settings.row_image != blank -%}
+          <div class="row-image">
+            {{ block.settings.row_image | img_url: 'large' | img_tag: alt: block.settings.heading }}
           </div>
         {%- endif -%}
         {{ block.settings.row_content }}
@@ -159,18 +159,6 @@
       </div>
     </details>
   </div>
-  <style>
-  .block-image {
-    max-width: 100%;
-    margin-bottom: 20px; /* Adjust the margin as needed */
-  }
-
-  .block-image img {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-</style>
 {%- endfor -%}
 
 
@@ -561,10 +549,11 @@
     } ,
         {
   "type": "image_picker",
-  "id": "block_image",
+  "id": "row_image",
   "label": "Image",
-  "info": "Select an image for this collapsible block."
+  "info": "Select an image for this collapsible row."
 }
+
       ]
     }
   ],
