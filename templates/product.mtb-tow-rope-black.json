@@ -333,13 +333,12 @@
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
-            "heading": "Installation video",
+            "heading": "FAQ's",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p><strong>Is the tow rope safe for use on dropper posts?<br\/><\/strong>The majority of our customers use their tow rope on dropper posts and we aren’t aware of any issues. To minimise wear and tear on your seat post you should remain seated when towing.<\/p><p><strong>Is the tow rope safe to use with e-bikes? <br\/><\/strong>We’re aware of many customers using their tow ropes with Ebikes and we haven’t heard of any issue to date. To minimise load on the Ebike motor we recommend the person being towed is also pedalling.<\/p><p><strong>What age is the tow rope suitable for?<br\/><\/strong>The shotgun tow rope is designed with kids in mind, but it’s suitable for adults too – as it’s rated to 500lb \/ 225kg. For kids, we’ve found that the tow rope works best once they’re confidently riding a balance bike or pedal bike themselves. <\/p><p><strong>What’s the difference between this and the Quick Fit MTB Tow Rope?<br\/><\/strong>Both of our tow ropes are suitable for use with any kids bike, however our Quick Fit MTB Tow Rope is lightning fast to attach no matter the type of stem on your kids bike.<\/p>",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
+            "video_link": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -541,6 +540,7 @@
       "blocks": {
         "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "ADD A SLICK AS HEADING HERE",
             "heading_size": "h2"
@@ -550,6 +550,7 @@
       "block_order": [
         "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -616,6 +617,7 @@
         "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-2",
         "b631a22c-2a2b-41a2-8f1a-609cf79a352e"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
