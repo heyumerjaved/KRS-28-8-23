@@ -106,14 +106,15 @@
         "7e76a656-277f-49ed-a5bc-8551073e56d4": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Lightning fast fitting",
+            "heading": "Eco-fabric construction",
             "icon": "none",
-            "content": "<p>Quick release – 30 seconds to fit, remove and swap between bikes after initial installation. <\/p>",
+            "content": "<p>Made from heavyweight 180GSM 100% organic cotton – for comfort both on and off the trails. <\/p>",
             "page": ""
           }
         },
         "0c9e6846-1be9-4387-b0a8-9a189a67732d": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "E-MTB compatible",
             "icon": "none",
@@ -123,6 +124,7 @@
         },
         "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "For kids 18 months - 5 years",
             "icon": "none",
@@ -132,6 +134,7 @@
         },
         "528db60a-035c-439a-ba58-bef7b6b0b638": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Fully adjustable",
             "icon": "none",
