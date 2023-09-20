@@ -70,63 +70,78 @@
    {% endif %}
 </div>
 
+  {% endif %}
+
+  {% assign isfaq = section.settings.isfaq %}
+
+          {% if isfaq %}
+          <html itemscope itemtype="https://schema.org/FAQPage">
           {% endif %}
           <div class="grid__item">
-  {%- for block in section.blocks -%}
-  <div class="accordion{% if section.settings.layout == 'row' %} content-container color-{{ section.settings.container_color_scheme }} gradient{% endif %}" {{ block.shopify_attributes }}>
-    <details id="Details-{{ block.id }}-{{ section.id }}" {% if section.settings.open_first_collapsible_row and forloop.first %} open {% endif %}>
-      <summary id="Summary-{{ block.id }}-{{ section.id }}">
-        {% render 'icon-accordion', icon: block.settings.icon %}
-        <h3 class="accordion__title inline-richtext h4">
-          {{ block.settings.heading | default: block.settings.page.title }}
-        </h3>
-        {% render 'icon-caret' %}
-      </summary>
-      <div class="accordion__content rte" id="CollapsibleAccordion-{{ block.id }}-{{ section.id }}" role="region" aria-labelledby="Summary-{{ block.id }}-{{ section.id }}">
-        {{ block.settings.row_content }}
-        {{ block.settings.page.content }}
-        {% if block.settings.video_link != blank %}
-          {% assign video_id = block.settings.video_link | split: "v=" | last %}
-          {% if video_id != block.settings.video_link %}
-            <div class="video-wrapper">
-              <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+            {%- for block in section.blocks -%}
+            <div class="accordion{% if section.settings.layout == 'row' %} content-container color-{{ section.settings.container_color_scheme }} gradient{% endif %}" {{ block.shopify_attributes }}>
+              <details {% if isfaq %}itemscope itemprop="mainEntity" itemtype="https://schema.org/Question"{% endif %} id="Details-{{ block.id }}-{{ section.id }}" {% if section.settings.open_first_collapsible_row and forloop.first %} open {% endif %}>
+                <summary id="Summary-{{ block.id }}-{{ section.id }}">
+                  {% render 'icon-accordion', icon: block.settings.icon %}
+                  <h3 class="accordion__title inline-richtext h4" {% if isfaq %}itemprop="name"{% endif %}>
+                    {{ block.settings.heading | default: block.settings.page.title }}
+                  </h3>
+                  {% render 'icon-caret' %}
+                </summary>
+                <div class="accordion__content rte" id="CollapsibleAccordion-{{ block.id }}-{{ section.id }}" role="region" aria-labelledby="Summary-{{ block.id }}-{{ section.id }}" {% if isfaq %}itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer"{% endif %}>
+                  {% if isfaq %}
+                  <div itemprop="text">
+                  {{ block.settings.row_content }}
+                  </div>
+                  {% else %}
+                  {{ block.settings.row_content }}
+                  {% endif %}
+                  {{ block.settings.page.content }}
+                  {% if block.settings.video_link != blank %}
+                    {% assign video_id = block.settings.video_link | split: "v=" | last %}
+                    {% if video_id != block.settings.video_link %}
+                      <div class="video-wrapper">
+                        <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+                      </div>
+                    {% else %}
+                      <p class="error-message">Invalid YouTube video link. Please use the format: https://www.youtube.com/watch?v=VIDEO_ID</p>
+                    {% endif %}
+                  {% endif %}
+                  {% if block.settings.image_cr != blank %}
+                    <img src="{{ block.settings.image_cr | img_url: '500x'}}" alt="collapsible row image">
+                  {% endif %}
+                </div>
+              </details>
             </div>
-          {% else %}
-            <p class="error-message">Invalid YouTube video link. Please use the format: https://www.youtube.com/watch?v=VIDEO_ID</p>
-          {% endif %}
-        {% endif %}
-        {% if block.settings.image_cr != blank %}
-          <img src="{{ block.settings.image_cr | img_url: '500x'}}" alt="collapsible row image">
-        {% endif %}
-      </div>
-    </details>
-  </div>
-{%- endfor -%}
-<style>
-  .video-wrapper {
-    max-width: 650px;
-    max-height: 373.3333333px;
-    border-radius: 10px;
-    overflow: hidden; /* Ensure the rounded corners are applied */
-    margin: 0 auto; /* Center the container horizontally */
-    display: flex;
-    justify-content: center; /* Center the embedded iframe horizontally */
+          {%- endfor -%}
+          <style>
+            .video-wrapper {
+              max-width: 650px;
+              max-height: 373.3333333px;
+              border-radius: 10px;
+              overflow: hidden; /* Ensure the rounded corners are applied */
+              margin: 0 auto; /* Center the container horizontally */
+              display: flex;
+              justify-content: center; /* Center the embedded iframe horizontally */
 
-  }
+            }
 
-  .video-wrapper iframe {
-    width: 100%;
-    height: 373.333333px; /* Set the height to maintain the aspect ratio */
+            .video-wrapper iframe {
+              width: 100%;
+              height: 373.333333px; /* Set the height to maintain the aspect ratio */
 
- 
-  }
+          
+            }
 
-  .error-message {
-    color: red;
-    text-align: center; /* Center the error message text horizontally */
-  }
-</style>
+            .error-message {
+              color: red;
+              text-align: center; /* Center the error message text horizontally */
+            }
+          </style>
           </div>
+          {% if isfaq %}
+          </html>
+          {% endif %}
         </div>
       </div>
     </div>
@@ -143,11 +158,18 @@
   },
   "settings": [
     {
-   "type": "image_picker",
-   "id": "image_upload",
-   "label": "Upload Image",
-   "info": "Upload an image for the collapsible content."
-},
+      "type": "checkbox",
+      "id": "isfaq",
+      "label": "FAQ?",
+      "default": false,
+      "info": "This is for SEO purpose."
+    },
+    {
+      "type": "image_picker",
+      "id": "image_upload",
+      "label": "Upload Image",
+      "info": "Upload an image for the collapsible content."
+    },
     {
       "type": "text",
       "id": "caption",
