@@ -96,32 +96,33 @@
         "7e842de0-e6df-4acc-90ed-735e1c44718b": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Zero frame contact",
+            "heading": "Fits all bikes",
             "icon": "none",
-            "content": "<p>Mounts to your headset and seat post, meaning there's zero contact with your frame.<\/p>",
+            "content": "<p>With a stem loop included, you're good to go on any bike – by looping over or around the stem<\/p>",
             "page": ""
           }
         },
         "7e76a656-277f-49ed-a5bc-8551073e56d4": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Lightning fast fitting",
+            "heading": "Shock absorbing stretch",
             "icon": "none",
-            "content": "<p>Quick release – 30 seconds to fit, remove and swap between bikes after initial installation. <\/p>",
+            "content": "<p>The tow rope is designed to give a gentle pull, avoiding jerking on take-off, for a comfortable tow uphill. <\/p>",
             "page": ""
           }
         },
         "0c9e6846-1be9-4387-b0a8-9a189a67732d": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "E-MTB compatible",
+            "heading": "One size fits all",
             "icon": "none",
-            "content": "<p>With adjustable leg width, the Shotgun Pro is suitable for use on electric bikes with wide down tubes. <\/p>",
+            "content": "<p>With a load rating of 500lb \/ 225kg, our tow rope is suitable for mini shredders and adults too. <\/p>",
             "page": ""
           }
         },
         "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "For kids 18 months - 5 years",
             "icon": "none",
@@ -131,6 +132,7 @@
         },
         "528db60a-035c-439a-ba58-bef7b6b0b638": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Fully adjustable",
             "icon": "none",
@@ -177,8 +179,8 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
-            "image_1": "shopify:\/\/shop_images\/award_2x_853aee2f-f468-476a-94b5-ba55d557ebfa.png",
-            "heading_1": "Award winning design",
+            "image_1": "shopify:\/\/shop_images\/stb_2x_6c30f86f-08a8-45fb-a988-9aaf22a70d3d.png",
+            "heading_1": "Shred Til Bed stickers included",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/quality_2x_7e02532d-5eb3-46c6-8921-b1711590b389.png",
             "heading_2": "Independent quality inspections",
@@ -228,6 +230,7 @@
         },
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -311,9 +314,9 @@
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Will the Shotgun Pro seat fit my bike?",
+            "heading": "Product details",
             "icon": "none",
-            "row_content": "<p>The Shotgun Pro seat fits almost all modern mountain bikes with standard 1 1\/8 inch steerers, including electric mountain bikes. <strong>Please watch our fitting video below or read our <\/strong><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><strong> to see if the Shotgun Pro seat will fit your bike.<\/strong><\/p>",
+            "row_content": "<p>1.7m\/5.5 feet un-stretched – 3.3m\/10.8 feet stretched (polyester)<\/p><p>Load rated to 500lb \/ 225kg<\/p><p>Product weight: 0.25kgs. <\/p>",
             "page": "",
             "video_link": ""
           }
@@ -321,15 +324,16 @@
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Will my child fit the Shotgun Pro seat?",
+            "heading": "FAQ's",
             "icon": "none",
-            "row_content": "<p>The Shotgun Pro is designed for children 18 months - 5 years, and up to 60lb \/ 27kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\"><strong>shotgun seat sizing page<\/strong><\/span><strong>. <\/strong><\/p>",
+            "row_content": "<p><strong>Is the tow rope safe for use on dropper posts?<br\/><\/strong>The majority of our customers use their tow rope on dropper posts and we aren’t aware of any issues. To minimise wear and tear on your seat post you should remain seated when towing.<\/p><p><strong>Is the tow rope safe to use with e-bikes? <br\/><\/strong>We’re aware of many customers using their tow ropes with Ebikes and we haven’t heard of any issue to date. To minimise load on the Ebike motor we recommend the person being towed is also pedalling.<\/p><p><strong>What age is the tow rope suitable for?<br\/><\/strong>The shotgun tow rope is designed with kids in mind, but it’s suitable for adults too – as it’s rated to 500lb \/ 225kg. For kids, we’ve found that the tow rope works best once they’re confidently riding a balance bike or pedal bike themselves. <\/p><p><strong>What’s the difference between this and the Quick Fit MTB Tow Rope?<br\/><\/strong>Both of our tow ropes are suitable for use with any kids bike, however our Quick Fit MTB Tow Rope is lightning fast to attach no matter the type of stem on your kids bike.<\/p>",
             "page": "",
             "video_link": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Installation video",
             "icon": "none",
@@ -415,6 +419,7 @@
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1",
         "7db668c7-b812-4028-8882-22973cfcbd6d"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -447,6 +452,7 @@
       "block_order": [
         "template--16039832944790__c3900cb3-25d1-4846-8af6-062209ae0070-1688422403b8037bbd-0"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -461,6 +467,7 @@
     },
     "ec8d4414-d91b-47ed-be23-12f897619257": {
       "type": "video",
+      "disabled": true,
       "custom_css": [
         ".video-section__poster {height: 750px; position: center; overflow: hidden; margin: 0 auto; margin-top: 0px; justify-content: center; align-items: center;}",
         ".video-section {height: 750px; position: top; overflow: hidden; justify-content: center; align-items: center;}",
@@ -483,6 +490,7 @@
     },
     "cd2df96a-1516-4ef8-a67e-077495db249d": {
       "type": "video",
+      "disabled": true,
       "custom_css": [
         "@media only screen and (min-width: 1299px) {.video-section {display: none; }}"
       ],
@@ -499,39 +507,6 @@
         "padding_bottom": 0
       }
     },
-    "c26ae100-d5a5-4403-9dc7-53fe124f112d": {
-      "type": "featured-collection",
-      "custom_css": [
-        ".button {outline-width: 1px; outline-style: solid; outline-color: #ff6b00; background-color: transparent; color: #ff6b00; border-radius: 6px; padding: 10px 20px; \/* Adjust padding as needed *\/ transition: color 0.3s, background-color 0.3s; cursor: pointer; text-align: center; text-decoration: none;}",
-        ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
-      ],
-      "settings": {
-        "title": "EXPLORE THE PRO RANGE",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "pro-range",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "button_toggle": false
-      }
-    },
     "005e6450-4803-4f24-afeb-7d76cf703c87": {
       "type": "rich-text",
       "blocks": {
@@ -546,6 +521,7 @@
       "block_order": [
         "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -612,6 +588,7 @@
         "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-2",
         "b631a22c-2a2b-41a2-8f1a-609cf79a352e"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -673,20 +650,6 @@
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "a2034ce1-6470-41ba-a894-6e7301faa85d": {
-      "type": "rich-text",
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 0
       }
     },
     "f8bc5375-bc65-4712-86f1-5fd751d0ed64": {
@@ -858,6 +821,53 @@
         "hide_controls": false
       }
     },
+    "c26ae100-d5a5-4403-9dc7-53fe124f112d": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".button {outline-width: 1px; outline-style: solid; outline-color: #ff6b00; background-color: transparent; color: #ff6b00; border-radius: 6px; padding: 10px 20px; \/* Adjust padding as needed *\/ transition: color 0.3s, background-color 0.3s; cursor: pointer; text-align: center; text-decoration: none;}",
+        ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
+      ],
+      "settings": {
+        "title": "EXPLORE THE PRO RANGE",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "pro-range",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "button_toggle": false
+      }
+    },
+    "a2034ce1-6470-41ba-a894-6e7301faa85d": {
+      "type": "rich-text",
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d": {
       "type": "rich-text",
       "blocks": {
@@ -968,13 +978,13 @@
     "c3900cb3-25d1-4846-8af6-062209ae0070",
     "ec8d4414-d91b-47ed-be23-12f897619257",
     "cd2df96a-1516-4ef8-a67e-077495db249d",
-    "c26ae100-d5a5-4403-9dc7-53fe124f112d",
     "005e6450-4803-4f24-afeb-7d76cf703c87",
     "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e",
     "e2855d62-ce8e-422b-9231-27be2d827176",
     "16873073199d82bfd2",
-    "a2034ce1-6470-41ba-a894-6e7301faa85d",
     "f8bc5375-bc65-4712-86f1-5fd751d0ed64",
+    "c26ae100-d5a5-4403-9dc7-53fe124f112d",
+    "a2034ce1-6470-41ba-a894-6e7301faa85d",
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d",
     "1687992408aa7441fa",
     "5132e1e2-9ef2-45bf-b6e2-b204ee99cb3e",
