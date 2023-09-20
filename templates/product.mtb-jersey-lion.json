@@ -318,7 +318,6 @@
             "heading": "Size + fit",
             "icon": "none",
             "row_content": "<p>Our riding jersey is a relaxed unisex fit. If your child is in between years, we recommend sizing up. <\/p>",
-            "image": "shopify:\/\/shop_images\/A7301766_copy_4.jpg",
             "page": "",
             "video_link": ""
           }
@@ -364,6 +363,7 @@
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
+        "isfaq": true,
         "caption": "",
         "heading": "Specifications",
         "heading_size": "h2",
