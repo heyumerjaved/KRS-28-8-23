@@ -363,6 +363,7 @@
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
+        "isfaq": true,
         "caption": "",
         "heading": "Specifications",
         "heading_size": "h2",
