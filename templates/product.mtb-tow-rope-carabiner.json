@@ -332,6 +332,16 @@
             "video_link": "https:\/\/www.youtube.com\/watch?v=-sHgxfueG5U"
           }
         },
+        "aafac044-95c9-4a63-8c2b-51be3be1b02f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": "",
+            "video_link": ""
+          }
+        },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
           "type": "collapsible_row",
           "settings": {
@@ -356,6 +366,7 @@
       "block_order": [
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2",
+        "aafac044-95c9-4a63-8c2b-51be3be1b02f",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3"
       ],
