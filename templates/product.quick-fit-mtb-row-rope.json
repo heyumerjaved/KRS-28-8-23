@@ -15,6 +15,7 @@
         },
         "0a75fbf8-7f73-4360-9060-f43714b1530c": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Starting from...",
             "text_style": "uppercase"
@@ -346,7 +347,7 @@
           "settings": {
             "heading": "Shipping, returns & warranty",
             "icon": "none",
-            "row_content": "<p>This is just bunch of random text and it's only here as a placeholder to show what it'll all look like once the copy as been filled out.<\/p>",
+            "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
             "page": "",
             "video_link": ""
           }
@@ -362,6 +363,7 @@
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
+        "isfaq": false,
         "caption": "",
         "heading": "Specifications",
         "heading_size": "h2",
