@@ -95,7 +95,9 @@
             <p class="error-message">Invalid YouTube video link. Please use the format: https://www.youtube.com/watch?v=VIDEO_ID</p>
           {% endif %}
         {% endif %}
-
+        {% if block.settings.image_cr != blank %}
+          <img src="{{ block.settings.image_cr | img_url: '500x'}}" alt="collapsible row image">
+        {% endif %}
       </div>
     </details>
   </div>
@@ -519,10 +521,15 @@
           "label": "t:sections.collapsible_content.blocks.collapsible_row.settings.page.label"
         },
           {
-      "type": "url",
-      "id": "video_link",
-      "label": "YouTube Video Link"
-    } 
+          "type": "url",
+          "id": "video_link",
+          "label": "YouTube Video Link"
+        },
+        {
+          "type": "image_picker",
+          "id": "image_cr",
+          "label": "Image inside collapsible row"
+        }
       ]
     }
   ],
