@@ -3699,7 +3699,26 @@ body .article-template__hero-container{
   background-color: #e5e5e5;
   border-radius: 6px;
 }
-
+.cloud-search-filter-value {
+  font-weight: 900;
+  font-size: 10px !important;
+}
+.cloud-search-filter :hover {
+  color: #ff6b00;
+  transition: color 0.3s ease;
+}
+.cloud-search-filter__name:hover {
+  color: #ff6b00 !important;
+  transition: color 0.3s ease !important;
+}
+.cloud-search-filters-apply {
+  font-size: 10px;
+  font-weight: 900;
+}
+.cloud-search-clear-filters {
+  font-size: 10px;
+  font-weight: 900;
+}
 .link--text .menu-drawer__close-button {
   font-family: "Copyright Klim Type Foundry";
   font-size: 12px;
