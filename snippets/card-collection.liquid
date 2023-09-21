@@ -124,7 +124,9 @@
               {% endif %}
               class="full-unstyled-link"
             >
-              {%- if card_collection.title != blank -%}
+              {% if new_title != blank %}
+                {{ new_title }}
+              {%- elsif card_collection.title != blank -%}
                 {{- card_collection.title | escape -}}
               {%- else -%}
                 {{ 'onboarding.collection_title' | t }}

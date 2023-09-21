@@ -82,7 +82,8 @@
               card_collection: block.settings.collection,
               media_aspect_ratio: section.settings.image_ratio,
               columns: columns,
-              placeholder_image: placeholder_image
+              placeholder_image: placeholder_image,
+              new_title: block.settings.newtitle
             %}
           </li>
         {%- endfor -%}
@@ -274,6 +275,12 @@
           "type": "collection",
           "id": "collection",
           "label": "t:sections.collection-list.blocks.featured_collection.settings.collection.label"
+        },
+        {
+          "type": "text",
+          "id": "newtitle",
+          "label": "Title",
+          "info": "This title will override the collection title"
         }
       ]
     }
