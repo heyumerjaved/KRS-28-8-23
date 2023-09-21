@@ -442,7 +442,7 @@
         "template--16039832944790__c3900cb3-25d1-4846-8af6-062209ae0070-1688422403b8037bbd-0": {
           "type": "heading",
           "settings": {
-            "heading": "SEE THE SHOTGUN® PRO IN ACTION",
+            "heading": "SEE THE SHOTGUN® SEAT IN ACTION",
             "heading_size": "h2"
           }
         }
@@ -509,7 +509,7 @@
         ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
       ],
       "settings": {
-        "title": "EXPLORE THE PRO RANGE",
+        "title": "EXPLORE THE COLLECTION",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -540,6 +540,7 @@
       "blocks": {
         "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "ADD A SLICK AS HEADING HERE",
             "heading_size": "h2"
@@ -549,6 +550,7 @@
       "block_order": [
         "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -615,6 +617,7 @@
         "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-2",
         "b631a22c-2a2b-41a2-8f1a-609cf79a352e"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
