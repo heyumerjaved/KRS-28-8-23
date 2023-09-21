@@ -703,7 +703,8 @@
         "e7bc1331-a9ef-4fee-a541-8ce49449400a"
       ],
       "custom_css": [
-        ".banner__media {opacity: 100%;}"
+        ".banner__media {opacity: 100%;}",
+        ".slideshow-component {margin-bottom: 20px;}"
       ],
       "settings": {
         "layout": "full_bleed",
