@@ -571,10 +571,31 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "979d4af8-88db-4e04-86ee-82955629e66d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "The upgrades made to both the seat and handlebars makes this child seat one of the best ones on the market AND one of the most affordable ones.",
+            "smallimage": "shopify:\/\/shop_images\/rascal_rides.jpg",
+            "smallimage_width": 120,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0"
+        "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0",
+        "979d4af8-88db-4e04-86ee-82955629e66d"
       ],
       "custom_css": [
         ".banner__media {opacity: 100%;}"
