@@ -41,10 +41,10 @@
     "card_border_thickness": 0,
     "card_border_opacity": 0,
     "card_corner_radius": 6,
-    "card_shadow_opacity": 5,
+    "card_shadow_opacity": 15,
     "card_shadow_horizontal_offset": 0,
     "card_shadow_vertical_offset": 10,
-    "card_shadow_blur": 25,
+    "card_shadow_blur": 30,
     "collection_card_style": "standard",
     "collection_card_image_padding": 0,
     "collection_card_text_alignment": "center",
@@ -457,8 +457,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".oke-media-image,div.okeReviews .oke-media-image {border-radius: 10px; transition: border-radius 0.3s ease; }",
-      ".oke-media-image:hover,div.okeReviews .oke-media-image:hover {border-radius: 10px; }",
+      ".oke-media-image,div.okeReviews .oke-media-image {border-radius: 10px; transition: border-radius 0.3s ease;}",
+      ".oke-media-image:hover,div.okeReviews .oke-media-image:hover {border-radius: 10px;}",
       ".okeReviews[data-oke-container] .oke-reviewContent-title,div.okeReviews .oke-reviewContent-title {font-weight: 900;}",
       ".oke-poweredBy-image {margin-left: 140px;}"
     ]

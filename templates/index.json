@@ -325,7 +325,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".card__inner.color-background-1 {box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);}"
+
       ],
       "settings": {
         "title": "MOST POPULAR",
