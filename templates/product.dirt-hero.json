@@ -120,21 +120,22 @@
             "page": ""
           }
         },
-        "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "For kids 18 months - 5 years",
-            "icon": "none",
-            "content": "<p>Designed for children 18 months - 5 years, up to 60lb \/ 27kg, with adjustable leg length to grow with your child. <\/p>",
-            "page": ""
-          }
-        },
         "528db60a-035c-439a-ba58-bef7b6b0b638": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Braking powered by Magura",
             "icon": "none",
             "content": "<p>Providing more braking power & requiring less hand strength to use than v brakes – the Dirt Hero features a Magura MT4 hydraulic rear disc brake with the world’s first child safe rotor guard.<\/p>",
+            "page": ""
+          }
+        },
+        "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "For kids 2-5 years",
+            "icon": "none",
+            "content": "<p>Designed for children 18 months - 5 years, up to 60lb \/ 27kg, with adjustable leg length to grow with your child. <\/p>",
             "page": ""
           }
         },
@@ -266,8 +267,8 @@
         "7e842de0-e6df-4acc-90ed-735e1c44718b",
         "7e76a656-277f-49ed-a5bc-8551073e56d4",
         "0c9e6846-1be9-4387-b0a8-9a189a67732d",
-        "b0990f17-118f-4c87-ba9e-1522276c0a8d",
         "528db60a-035c-439a-ba58-bef7b6b0b638",
+        "b0990f17-118f-4c87-ba9e-1522276c0a8d",
         "394f4dc4-c73a-4f86-ba11-5fa48b45d771",
         "b57ac794-075b-4a7a-ad08-e655d04448a7",
         "fe5a96d1-bee0-415c-9a07-63ded5df7c87",
@@ -310,9 +311,9 @@
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Will the Shotgun Pro seat fit my bike?",
+            "heading": "Sizing",
             "icon": "none",
-            "row_content": "<p>The Shotgun Pro seat fits almost all modern mountain bikes with standard 1 1\/8 inch steerers, including electric mountain bikes. <strong>Please watch our fitting video below or read our <\/strong><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><strong> to see if the Shotgun Pro seat will fit your bike.<\/strong><\/p>",
+            "row_content": "",
             "page": "",
             "video_link": ""
           }
@@ -320,9 +321,9 @@
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Will my child fit the Shotgun Pro seat?",
+            "heading": "Specs",
             "icon": "none",
-            "row_content": "<p>The Shotgun Pro is designed for children 18 months - 5 years, and up to 60lb \/ 27kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\"><strong>shotgun seat sizing page<\/strong><\/span><strong>. <\/strong><\/p>",
+            "row_content": "",
             "page": "",
             "video_link": ""
           }
