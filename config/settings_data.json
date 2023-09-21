@@ -460,7 +460,8 @@
       ".oke-media-image,div.okeReviews .oke-media-image {border-radius: 10px; transition: border-radius 0.3s ease;}",
       ".oke-media-image:hover,div.okeReviews .oke-media-image:hover {border-radius: 10px;}",
       ".okeReviews[data-oke-container] .oke-reviewContent-title,div.okeReviews .oke-reviewContent-title {font-weight: 900;}",
-      ".oke-poweredBy-image {margin-left: 140px;}"
+      ".oke-poweredBy-image {margin-left: 140px;}",
+      ".cloud-search-clear-filters, .cloud-search-filter-value--selected .cloud-search-filter-value__name, .cloud-search-filter-value:hover .cloud-search-filter-value__name, .cloud-search-filter-value__name {font-weight: 900; font-size: 12px;"
     ]
   }
 }
