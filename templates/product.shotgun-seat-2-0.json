@@ -377,6 +377,110 @@
         "padding_bottom": 100
       }
     },
+    "e2855d62-ce8e-422b-9231-27be2d827176": {
+      "type": "rich-text",
+      "blocks": {
+        "93b97971-a8d9-4ff9-a159-6ff497e81490": {
+          "type": "heading",
+          "settings": {
+            "heading": "JOIN THOUSANDS OF STOKED MTB FAMILIES",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "93b97971-a8d9-4ff9-a159-6ff497e81490"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
+    "16873073199d82bfd2": {
+      "type": "apps",
+      "blocks": {
+        "b2580218-50d8-4279-9fa6-12288ec45cb7": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "asiento-para-ninos-shotgun-pro-mtb",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "b2580218-50d8-4279-9fa6-12288ec45cb7"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "fa7a3ced-2c17-42a3-9cbc-045abf17a5c6": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "ADD HANDLEBARS AND SAVE",
+            "heading_size": "h1"
+          }
+        },
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Purchase a seat and handlebars as a combo and save $10<\/p><p>With the 2.0 handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Add to cart",
+            "product": "shotgun-2-0-child-bike-seat-handlebars-combo",
+            "atc_type": "ajax",
+            "button_toggle": false
+          }
+        },
+        "7db668c7-b812-4028-8882-22973cfcbd6d": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1",
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1",
+        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1",
+        "7db668c7-b812-4028-8882-22973cfcbd6d"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/221121_9873GreyBG_38cc2ece-264b-482b-a6e9-50c9459c97e6.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "scheme-036afa03-d5ab-4c5a-9bac-3aad9e4e6cc7",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
     "f8bc5375-bc65-4712-86f1-5fd751d0ed64": {
       "type": "slideshow",
       "blocks": {
@@ -544,110 +648,6 @@
         "accessibility_info": "",
         "hide_arrows_play": true,
         "hide_controls": false
-      }
-    },
-    "fa7a3ced-2c17-42a3-9cbc-045abf17a5c6": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "ADD HANDLEBARS AND SAVE",
-            "heading_size": "h1"
-          }
-        },
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Purchase a seat and handlebars as a combo and save $10<\/p><p>With the 2.0 handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Add to cart",
-            "product": "shotgun-2-0-child-bike-seat-handlebars-combo",
-            "atc_type": "ajax",
-            "button_toggle": false
-          }
-        },
-        "7db668c7-b812-4028-8882-22973cfcbd6d": {
-          "type": "caption",
-          "disabled": true,
-          "settings": {
-            "caption": "",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "small"
-          }
-        }
-      },
-      "block_order": [
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1",
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1",
-        "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1",
-        "7db668c7-b812-4028-8882-22973cfcbd6d"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/221121_9873GreyBG_38cc2ece-264b-482b-a6e9-50c9459c97e6.jpg",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "scheme-036afa03-d5ab-4c5a-9bac-3aad9e4e6cc7",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "e2855d62-ce8e-422b-9231-27be2d827176": {
-      "type": "rich-text",
-      "blocks": {
-        "93b97971-a8d9-4ff9-a159-6ff497e81490": {
-          "type": "heading",
-          "settings": {
-            "heading": "JOIN THOUSANDS OF STOKED MTB FAMILIES",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "93b97971-a8d9-4ff9-a159-6ff497e81490"
-      ],
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 36
-      }
-    },
-    "16873073199d82bfd2": {
-      "type": "apps",
-      "blocks": {
-        "b2580218-50d8-4279-9fa6-12288ec45cb7": {
-          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
-          "settings": {
-            "product": "asiento-para-ninos-shotgun-pro-mtb",
-            "widget_type": "reviews_widget"
-          }
-        }
-      },
-      "block_order": [
-        "b2580218-50d8-4279-9fa6-12288ec45cb7"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "c3900cb3-25d1-4846-8af6-062209ae0070": {
@@ -960,10 +960,10 @@
   "order": [
     "main",
     "3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a",
-    "f8bc5375-bc65-4712-86f1-5fd751d0ed64",
-    "fa7a3ced-2c17-42a3-9cbc-045abf17a5c6",
     "e2855d62-ce8e-422b-9231-27be2d827176",
     "16873073199d82bfd2",
+    "fa7a3ced-2c17-42a3-9cbc-045abf17a5c6",
+    "f8bc5375-bc65-4712-86f1-5fd751d0ed64",
     "c3900cb3-25d1-4846-8af6-062209ae0070",
     "ec8d4414-d91b-47ed-be23-12f897619257",
     "cd2df96a-1516-4ef8-a67e-077495db249d",
