@@ -338,12 +338,22 @@
             "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
           }
         },
+        "481b3be1-3cf4-4cd6-ac79-3ddba60fa0ce": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Installation",
+            "icon": "none",
+            "row_content": "",
+            "page": "",
+            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
+          }
+        },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Shipping, returns & warranty",
             "icon": "none",
-            "row_content": "<p>This is just bunch of random text and it's only here as a placeholder to show what it'll all look like once the copy as been filled out.<\/p>",
+            "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<br\/><br\/>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>Warranty<\/p><p>Frame & Fork: 5 years<br\/>Parts & Components: 12 Months<br\/>3rd Party Brands: In the event of a warranty claim on third party products (e.g. Magura Disc Brake), the terms of those brands come into effect. Claims need to be taken up at the original point of purchase. If you purchased your product in a retail store, they can co-ordinate this return on your behalf. If you purchased online, our team will act as a intermediary between the original owner and technical service of the brand. If you need assistance contact our team at warranty@kidsrideshotgun.com<br\/><br\/>Tires and tubes are specifically excluded from the warranty statement.<br\/><br\/>For additional information see our <span style=\"text-decoration:underline\">warranty policy<\/span>.<\/p>",
             "page": "",
             "video_link": ""
           }
@@ -353,6 +363,7 @@
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2",
+        "481b3be1-3cf4-4cd6-ac79-3ddba60fa0ce",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3"
       ],
       "custom_css": [
