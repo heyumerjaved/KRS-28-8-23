@@ -382,14 +382,14 @@
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "NOT SURE ON A COMBO? \/ MAKE IT A COMBO",
+            "heading": "ADD HANDLEBARS AND SAVE",
             "heading_size": "h1"
           }
         },
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Purchase a seat and handlebars as a combo and save 5%<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
+            "text": "<p>Purchase a seat and handlebars as a combo and save $100<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
             "text_style": "body"
           }
         },
@@ -397,7 +397,7 @@
           "type": "button",
           "settings": {
             "button_label": "Add to cart",
-            "product": "shotgun-child-bike-seat-handlebars-combo",
+            "product": "shotgun-child-bike-seat-handlebars-combo-bundle",
             "atc_type": "ajax",
             "button_toggle": false
           }
