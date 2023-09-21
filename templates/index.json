@@ -248,19 +248,22 @@
         "template--16047763914902__4bfe395b-a372-41ca-9b52-df83aaa97b13-168852493194970328-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "front-mounted-child-seats"
+            "collection": "front-mounted-child-seats",
+            "newtitle": ""
           }
         },
         "template--16047763914902__4bfe395b-a372-41ca-9b52-df83aaa97b13-168852493194970328-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "offroad-balance-bikes"
+            "collection": "offroad-balance-bikes",
+            "newtitle": ""
           }
         },
         "template--16047763914902__4bfe395b-a372-41ca-9b52-df83aaa97b13-168852493194970328-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "apparel-accessories"
+            "collection": "apparel-accessories",
+            "newtitle": ""
           }
         }
       },

@@ -362,6 +362,7 @@
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
+        "isfaq": false,
         "caption": "",
         "heading": "Specifications",
         "heading_size": "h2",
@@ -450,6 +451,7 @@
       "block_order": [
         "template--16039832944790__c3900cb3-25d1-4846-8af6-062209ae0070-1688422403b8037bbd-0"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -464,6 +466,7 @@
     },
     "ec8d4414-d91b-47ed-be23-12f897619257": {
       "type": "video",
+      "disabled": true,
       "custom_css": [
         ".video-section__poster {height: 750px; position: center; overflow: hidden; margin: 0 auto; margin-top: 0px; justify-content: center; align-items: center;}",
         ".video-section {height: 750px; position: top; overflow: hidden; justify-content: center; align-items: center;}",
@@ -486,6 +489,7 @@
     },
     "cd2df96a-1516-4ef8-a67e-077495db249d": {
       "type": "video",
+      "disabled": true,
       "custom_css": [
         "@media only screen and (min-width: 1299px) {.video-section {display: none; }}"
       ],

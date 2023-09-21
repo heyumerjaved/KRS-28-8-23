@@ -115,15 +115,14 @@
         "0c9e6846-1be9-4387-b0a8-9a189a67732d": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "One size fits all",
+            "heading": "E-MTB compatible",
             "icon": "none",
-            "content": "<p>Designed for kids 3+ years, with adjustability to fit waists: 38cm \/ 15” (min) to 110cm \/ 43” (max)<\/p>",
+            "content": "<p>With adjustable leg width, the Shotgun Pro is suitable for use on electric bikes with wide down tubes. <\/p>",
             "page": ""
           }
         },
         "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "For kids 18 months - 5 years",
             "icon": "none",
@@ -133,7 +132,6 @@
         },
         "528db60a-035c-439a-ba58-bef7b6b0b638": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Fully adjustable",
             "icon": "none",
