@@ -117,7 +117,7 @@
           "settings": {
             "heading": "One size fits all",
             "icon": "none",
-            "content": "<p>With a load rating of 500lb \/ 225kg, our tow rope is suitable for mini shredders and adults alike. <\/p><p>Whilst our kids hip pack is designed for kids 3+ years, with adjustability to fit waists: 38cm \/ 15” (min) to 110cm \/ 43” (max).<\/p>",
+            "content": "<p>With a load rating of 500lb \/ 225kg, our tow rope is suitable for mini shredders and adults alike. And with adjustability to fit waists: 38cm \/ 15” (min) to 110cm \/ 43” (max), our hip pack is designed for kids aged 3+ years. <\/p>",
             "page": ""
           }
         },
@@ -132,6 +132,7 @@
         },
         "528db60a-035c-439a-ba58-bef7b6b0b638": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Fully adjustable",
             "icon": "none",
