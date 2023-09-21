@@ -348,7 +348,7 @@
           "settings": {
             "heading": "Shipping, returns & warranty",
             "icon": "none",
-            "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
+            "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy.<\/span><\/p><p>For warranty information please see our <span style=\"text-decoration:underline\">warranty policy.<\/span><\/p>",
             "page": "",
             "video_link": ""
           }
@@ -520,7 +520,7 @@
         ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
       ],
       "settings": {
-        "title": "EXPLORE THE SHRED TIL BED COLLECTION",
+        "title": "EXPLORE THE SHRED TIL BED C RANGE",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
