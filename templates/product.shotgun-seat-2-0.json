@@ -606,6 +606,32 @@
         "padding_bottom": 100
       }
     },
+    "e2855d62-ce8e-422b-9231-27be2d827176": {
+      "type": "rich-text",
+      "blocks": {
+        "93b97971-a8d9-4ff9-a159-6ff497e81490": {
+          "type": "heading",
+          "settings": {
+            "heading": "JOIN THOUSANDS OF STOKED MTB FAMILIES",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "93b97971-a8d9-4ff9-a159-6ff497e81490"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    },
     "16873073199d82bfd2": {
       "type": "apps",
       "blocks": {
@@ -828,46 +854,6 @@
         "padding_bottom": 100
       }
     },
-    "e2855d62-ce8e-422b-9231-27be2d827176": {
-      "type": "rich-text",
-      "blocks": {
-        "93b97971-a8d9-4ff9-a159-6ff497e81490": {
-          "type": "heading",
-          "settings": {
-            "heading": "JOIN THOUSANDS OF STOKED MTB FAMILIES",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "93b97971-a8d9-4ff9-a159-6ff497e81490"
-      ],
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 36
-      }
-    },
-    "a2034ce1-6470-41ba-a894-6e7301faa85d": {
-      "type": "rich-text",
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 0
-      }
-    },
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d": {
       "type": "rich-text",
       "blocks": {
@@ -976,6 +962,7 @@
     "3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a",
     "f8bc5375-bc65-4712-86f1-5fd751d0ed64",
     "fa7a3ced-2c17-42a3-9cbc-045abf17a5c6",
+    "e2855d62-ce8e-422b-9231-27be2d827176",
     "16873073199d82bfd2",
     "c3900cb3-25d1-4846-8af6-062209ae0070",
     "ec8d4414-d91b-47ed-be23-12f897619257",
@@ -983,8 +970,6 @@
     "c26ae100-d5a5-4403-9dc7-53fe124f112d",
     "005e6450-4803-4f24-afeb-7d76cf703c87",
     "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e",
-    "e2855d62-ce8e-422b-9231-27be2d827176",
-    "a2034ce1-6470-41ba-a894-6e7301faa85d",
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d",
     "1687992408aa7441fa",
     "5132e1e2-9ef2-45bf-b6e2-b204ee99cb3e",
