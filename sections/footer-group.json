@@ -33,7 +33,8 @@
         ".content-container:after {box-shadow: none !important;}",
         "p {line-height: 12px;}",
         "@media only screen and (max-width: 992px) {p {line-height: 7px; font-size: 8px; }}",
-        ".field__label {font-fmaily: Söhne Breit Fett; font-weight: 900; opacity: 30%;}"
+        ".field__label {font-fmaily: Söhne Breit Fett; font-weight: 900; opacity: 30%;}",
+        ".field__input, .select__select, .customer .field input, .customer select {background-color: #f1f1f1}"
       ],
       "settings": {
         "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
