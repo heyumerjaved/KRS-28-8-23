@@ -3767,6 +3767,7 @@ div.okeReviews .oke-reviewContent-title {
 .cloud-search-filter .cloud-search-filters-apply {
   font-weight: 900;
   font-size: 10px;
+  margin: 10px 10px 0;
 }
 slideshow-component.slider-mobile-gutter {
   overflow: hidden;
