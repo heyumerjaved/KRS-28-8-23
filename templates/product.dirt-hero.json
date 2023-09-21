@@ -358,7 +358,6 @@
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
-        "isfaq": false,
         "caption": "",
         "heading": "Specifications",
         "heading_size": "h2",
@@ -511,7 +510,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "most-popular-in-dirt-hero",
+        "collection": "pro-range",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
