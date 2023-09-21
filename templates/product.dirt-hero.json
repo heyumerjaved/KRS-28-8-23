@@ -96,9 +96,9 @@
         "7e842de0-e6df-4acc-90ed-735e1c44718b": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Zero frame contact",
+            "heading": "2 bikes in 1",
             "icon": "none",
-            "content": "<p>Mounts to your headset and seat post, meaning there's zero contact with your frame.<\/p>",
+            "content": "<p>The Dirt Hero takes 12” and 14” wheel sizes – growing alongside your little shredder. <\/p>",
             "page": ""
           }
         },
@@ -358,6 +358,7 @@
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
+        "isfaq": false,
         "caption": "",
         "heading": "Specifications",
         "heading_size": "h2",
