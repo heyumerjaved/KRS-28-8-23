@@ -731,7 +731,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "2-0-range",
+        "collection": "most-popular-in-2-0",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
