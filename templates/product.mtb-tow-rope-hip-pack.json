@@ -332,11 +332,10 @@
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
           "type": "collapsible_row",
-          "disabled": true,
           "settings": {
-            "heading": "Installation video",
+            "heading": "FAQ's",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p><strong>Is the tow rope safe for use on dropper posts?<br\/><\/strong>The majority of our customers use their tow rope on dropper posts and we aren’t aware of any issues. To minimise wear and tear on your seat post you should remain seated when towing.<\/p><p><strong>Is the tow rope safe to use with e-bikes? <br\/><\/strong>We’re aware of many customers using their tow ropes with Ebikes and we haven’t heard of any issue to date. To minimise load on the Ebike motor we recommend the person being towed is also pedalling.<\/p><p><strong>What age is the tow rope suitable for?<br\/><\/strong>The shotgun tow rope is designed with kids in mind, but it’s suitable for adults too – as it’s rated to 500lb \/ 225kg. For kids, we’ve found that the tow rope works best once they’re confidently riding a balance bike or pedal bike themselves. <\/p>",
             "page": "",
             "video_link": ""
           }
@@ -382,6 +381,7 @@
       "blocks": {
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "NOT SURE ON A COMBO? \/ MAKE IT A COMBO",
             "heading_size": "h1"
@@ -389,6 +389,7 @@
         },
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Purchase a seat and handlebars as a combo and save 5%<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
             "text_style": "body"
@@ -396,6 +397,7 @@
         },
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Add to cart",
             "product": "shotgun-child-bike-seat-handlebars-combo",
@@ -419,6 +421,7 @@
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1",
         "7db668c7-b812-4028-8882-22973cfcbd6d"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -510,7 +513,7 @@
         ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
       ],
       "settings": {
-        "title": "EXPLORE THE PRO RANGE",
+        "title": "EXPLORE THE SHRED TIL BED COLLECTION",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
