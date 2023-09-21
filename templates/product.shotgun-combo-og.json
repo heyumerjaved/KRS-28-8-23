@@ -382,6 +382,7 @@
       "blocks": {
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "NOT SURE ON A COMBO? \/ MAKE IT A COMBO",
             "heading_size": "h1"
@@ -389,6 +390,7 @@
         },
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-text-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Purchase a seat and handlebars as a combo and save 5%<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
             "text_style": "body"
@@ -396,6 +398,7 @@
         },
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Add to cart",
             "product": "shotgun-child-bike-seat-handlebars-combo",
@@ -419,6 +422,7 @@
         "template--16061949608086__fa7a3ced-2c17-42a3-9cbc-045abf17a5c6-button-1",
         "7db668c7-b812-4028-8882-22973cfcbd6d"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -443,7 +447,7 @@
         "template--16039832944790__c3900cb3-25d1-4846-8af6-062209ae0070-1688422403b8037bbd-0": {
           "type": "heading",
           "settings": {
-            "heading": "SEE THE SHOTGUN® PRO IN ACTION",
+            "heading": "SEE THE SHOTGUN® SEAT IN ACTION",
             "heading_size": "h2"
           }
         }
