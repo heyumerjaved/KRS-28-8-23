@@ -229,6 +229,7 @@
         },
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -493,8 +494,7 @@
         "heading": "",
         "heading_size": "h2",
         "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=74QII2CVjH4",
-        "cover_image": "shopify:\/\/shop_images\/Gets22-03637.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=OJ-1I8RsqXg",
         "description": "",
         "full_width": true,
         "color_scheme": "",
@@ -511,7 +511,7 @@
         "heading": "",
         "heading_size": "h2",
         "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=74QII2CVjH4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=OJ-1I8RsqXg",
         "cover_image": "shopify:\/\/shop_images\/Gets22-03637.jpg",
         "description": "",
         "full_width": true,
