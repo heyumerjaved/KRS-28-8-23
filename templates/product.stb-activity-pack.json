@@ -215,7 +215,6 @@
         },
         "e6c0d10e-d9b2-4147-9326-1e4bc6ed1d4b": {
           "type": "icon-with-text",
-          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -223,7 +222,7 @@
             "heading_1": "1-year warranty",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/stars_2x_2ce83a17-09da-499b-91e1-2357f6f78f67.png",
-            "heading_2": "100+ 5-star reviews ",
+            "heading_2": "5-star reviews ",
             "icon_3": "truck",
             "heading_3": ""
           }
@@ -243,6 +242,7 @@
         },
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
