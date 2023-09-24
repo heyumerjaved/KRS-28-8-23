@@ -232,6 +232,7 @@
         },
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -831,12 +832,12 @@
         ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
       ],
       "settings": {
-        "title": "EXPLORE THE SHRED TIL BED RANGE",
+        "title": "EXPLORE THE SHRED TIL BED COLLECTION",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "pro-range",
+        "collection": "shred-till-bed-line",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
