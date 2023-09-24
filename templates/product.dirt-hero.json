@@ -151,10 +151,10 @@
             "layout": "horizontal",
             "icon_1": "apple",
             "image_1": "shopify:\/\/shop_images\/delivery_2x_971aff3d-8247-4381-9768-21090a41c0ac.png",
-            "heading_1": "Free tracked shipping over $60",
+            "heading_1": "Free tracked shipping over $39",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
-            "heading_2": "30-day returns",
+            "heading_2": "60-day returns",
             "icon_3": "truck",
             "image_3": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
             "heading_3": ""
@@ -315,7 +315,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -325,7 +326,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
@@ -335,7 +337,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE",
+            "htmltable": ""
           }
         },
         "481b3be1-3cf4-4cd6-ac79-3ddba60fa0ce": {
@@ -345,7 +348,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -355,7 +359,8 @@
             "icon": "none",
             "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<br\/><br\/>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>Warranty<\/p><p>Frame & Fork: 5 years<br\/>Parts & Components: 12 Months<br\/>3rd Party Brands: In the event of a warranty claim on third party products (e.g. Magura Disc Brake), the terms of those brands come into effect. Claims need to be taken up at the original point of purchase. If you purchased your product in a retail store, they can co-ordinate this return on your behalf. If you purchased online, our team will act as a intermediary between the original owner and technical service of the brand. If you need assistance contact our team at warranty@kidsrideshotgun.com<br\/><br\/>Tires and tubes are specifically excluded from the warranty statement.<br\/><br\/>For additional information see our <span style=\"text-decoration:underline\">warranty policy<\/span>.<\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
