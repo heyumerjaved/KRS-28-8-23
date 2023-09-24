@@ -153,10 +153,10 @@
             "layout": "horizontal",
             "icon_1": "apple",
             "image_1": "shopify:\/\/shop_images\/delivery_2x_971aff3d-8247-4381-9768-21090a41c0ac.png",
-            "heading_1": "Free tracked shipping over $60",
+            "heading_1": "Free tracked shipping over $39",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
-            "heading_2": "30-day returns",
+            "heading_2": "60-day returns",
             "icon_3": "truck",
             "image_3": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
             "heading_3": ""
@@ -208,11 +208,11 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
-            "image_1": "shopify:\/\/shop_images\/warrenty_2x_5365b47c-c612-472d-bcfc-16e2ca4a64fb.png",
-            "heading_1": "1-year warranty",
+            "image_1": "shopify:\/\/shop_images\/stb_2x_33699d27-fbe9-4b0e-a332-ebf0caf71ade.png",
+            "heading_1": "Shred Til Bed tattoos included",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/stars_2x_2ce83a17-09da-499b-91e1-2357f6f78f67.png",
-            "heading_2": "100+ 5-star reviews ",
+            "heading_2": "5-star reviews ",
             "icon_3": "truck",
             "heading_3": ""
           }
@@ -232,6 +232,7 @@
         },
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -319,7 +320,8 @@
             "icon": "none",
             "row_content": "<p>Our riding jersey is a relaxed unisex fit. If your child is in between years, we recommend sizing up. <\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "image_cr": "shopify:\/\/shop_images\/Metric_600x600_1.jpg"
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -831,12 +833,12 @@
         ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
       ],
       "settings": {
-        "title": "EXPLORE THE SHRED TIL BED RANGE",
+        "title": "EXPLORE THE SHRED TIL BED COLLECTION",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "pro-range",
+        "collection": "shred-till-bed-line",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,

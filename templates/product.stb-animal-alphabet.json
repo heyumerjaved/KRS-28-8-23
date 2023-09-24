@@ -104,6 +104,15 @@
             "page": ""
           }
         },
+        "a5c02117-0817-4907-99ca-5674793127bd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping",
+            "icon": "none",
+            "content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p>",
+            "page": ""
+          }
+        },
         "394f4dc4-c73a-4f86-ba11-5fa48b45d771": {
           "type": "custom_liquid",
           "settings": {
@@ -116,10 +125,10 @@
             "layout": "horizontal",
             "icon_1": "apple",
             "image_1": "shopify:\/\/shop_images\/delivery_2x_971aff3d-8247-4381-9768-21090a41c0ac.png",
-            "heading_1": "Free tracked shipping over $60",
+            "heading_1": "Free tracked shipping over $39",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
-            "heading_2": "30-day returns",
+            "heading_2": "60-day returns",
             "icon_3": "truck",
             "image_3": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
             "heading_3": ""
@@ -156,8 +165,8 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
-            "image_1": "shopify:\/\/shop_images\/warrenty_2x_5365b47c-c612-472d-bcfc-16e2ca4a64fb.png",
-            "heading_1": "1-year warranty",
+            "image_1": "shopify:\/\/shop_images\/stb_2x_33699d27-fbe9-4b0e-a332-ebf0caf71ade.png",
+            "heading_1": "Shred Til Bed stickers included",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/stars_2x_2ce83a17-09da-499b-91e1-2357f6f78f67.png",
             "heading_2": "100+ 5-star reviews ",
@@ -180,6 +189,7 @@
         },
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -216,6 +226,7 @@
         "75c7a372-834b-4498-af43-55d62b407395",
         "7e842de0-e6df-4acc-90ed-735e1c44718b",
         "7e76a656-277f-49ed-a5bc-8551073e56d4",
+        "a5c02117-0817-4907-99ca-5674793127bd",
         "394f4dc4-c73a-4f86-ba11-5fa48b45d771",
         "b57ac794-075b-4a7a-ad08-e655d04448a7",
         "fe5a96d1-bee0-415c-9a07-63ded5df7c87",
@@ -694,7 +705,7 @@
         ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
       ],
       "settings": {
-        "title": "EXPLORE THE SHRED TIL BED RANGE",
+        "title": "EXPLORE THE SHRED TIL BED COLLECTION",
         "heading_size": "h2",
         "description": "",
         "show_description": false,

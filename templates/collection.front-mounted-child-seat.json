@@ -433,13 +433,13 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "handlebars-only",
+        "collection": "shotgun-range-1",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
         "image_ratio": "square",
         "image_shape": "default",
@@ -560,6 +560,7 @@
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
+        "isfaq": false,
         "caption": "",
         "heading": "FAQ's - DRAFT - DONT READ",
         "heading_size": "h2",

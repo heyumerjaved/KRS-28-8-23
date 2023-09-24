@@ -153,10 +153,10 @@
             "layout": "horizontal",
             "icon_1": "apple",
             "image_1": "shopify:\/\/shop_images\/delivery_2x_971aff3d-8247-4381-9768-21090a41c0ac.png",
-            "heading_1": "Free tracked shipping over $60",
+            "heading_1": "Free tracked shipping over $39",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
-            "heading_2": "30-day returns",
+            "heading_2": "60-day returns",
             "icon_3": "truck",
             "image_3": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
             "heading_3": ""
@@ -212,7 +212,7 @@
             "heading_1": "1-year warranty",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/stars_2x_2ce83a17-09da-499b-91e1-2357f6f78f67.png",
-            "heading_2": "100+ 5-star reviews ",
+            "heading_2": "50+ 5-star reviews ",
             "icon_3": "truck",
             "heading_3": ""
           }
@@ -365,6 +365,7 @@
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
+        "isfaq": false,
         "caption": "",
         "heading": "Specifications",
         "heading_size": "h2",
@@ -832,12 +833,12 @@
         ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
       ],
       "settings": {
-        "title": "EXPLORE THE PRO RANGE",
+        "title": "MTB FAMILIES ALSO LOVE",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "pro-range",
+        "collection": "most-popular-accessories-apparel",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
