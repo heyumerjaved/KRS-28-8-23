@@ -110,6 +110,11 @@
                   {% if block.settings.image_cr != blank %}
                     <img src="{{ block.settings.image_cr | img_url: '500x'}}" alt="collapsible row image">
                   {% endif %}
+                  {% if block.settings.htmltable != blank %}
+                    <div class="htmltablecolrow">
+                      {{ block.settings.htmltable }}
+                    </div>
+                  {% endif %}
                 </div>
               </details>
             </div>
@@ -551,6 +556,12 @@
           "type": "image_picker",
           "id": "image_cr",
           "label": "Image inside collapsible row"
+        },
+        {
+          "type": "html",
+          "id": "htmltable",
+          "label": "HTML Table",
+          "info": "Paste your table HTML here."
         }
       ]
     }
