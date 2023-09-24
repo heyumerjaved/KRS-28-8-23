@@ -215,6 +215,7 @@
         },
         "e6c0d10e-d9b2-4147-9326-1e4bc6ed1d4b": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -771,7 +772,7 @@
         ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
       ],
       "settings": {
-        "title": "EXPLORE THE SHRED TIL BED RANGE",
+        "title": "EXPLORE THE SHRED TIL BED COLLECTION",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
