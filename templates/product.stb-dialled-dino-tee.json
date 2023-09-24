@@ -209,11 +209,11 @@
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
-            "image_1": "shopify:\/\/shop_images\/warrenty_2x_5365b47c-c612-472d-bcfc-16e2ca4a64fb.png",
-            "heading_1": "1-year warranty",
+            "image_1": "shopify:\/\/shop_images\/stb_2x_33699d27-fbe9-4b0e-a332-ebf0caf71ade.png",
+            "heading_1": "Shred Til Bed tattoos included",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/stars_2x_2ce83a17-09da-499b-91e1-2357f6f78f67.png",
-            "heading_2": "100+ 5-star reviews ",
+            "heading_2": "5-star reviews ",
             "icon_3": "truck",
             "heading_3": ""
           }
@@ -233,6 +233,7 @@
         },
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
