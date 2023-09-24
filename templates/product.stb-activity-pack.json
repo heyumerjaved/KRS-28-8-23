@@ -112,6 +112,15 @@
             "page": ""
           }
         },
+        "f0003a9b-0e36-4c7f-94e3-1626502df835": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping",
+            "icon": "none",
+            "content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p>",
+            "page": ""
+          }
+        },
         "0c9e6846-1be9-4387-b0a8-9a189a67732d": {
           "type": "collapsible_tab",
           "disabled": true,
@@ -270,6 +279,7 @@
         "75c7a372-834b-4498-af43-55d62b407395",
         "7e842de0-e6df-4acc-90ed-735e1c44718b",
         "7e76a656-277f-49ed-a5bc-8551073e56d4",
+        "f0003a9b-0e36-4c7f-94e3-1626502df835",
         "0c9e6846-1be9-4387-b0a8-9a189a67732d",
         "b0990f17-118f-4c87-ba9e-1522276c0a8d",
         "528db60a-035c-439a-ba58-bef7b6b0b638",
