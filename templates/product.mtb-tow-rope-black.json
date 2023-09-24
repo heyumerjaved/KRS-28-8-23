@@ -729,12 +729,12 @@
         ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
       ],
       "settings": {
-        "title": "EXPLORE THE ORIGINAL RANGE",
+        "title": "MTB FAMILIES ALSO LOVE",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "shotgun-og-seat-accessories",
+        "collection": "most-popular-accessories-apparel",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
