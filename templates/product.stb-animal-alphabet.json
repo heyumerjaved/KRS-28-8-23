@@ -107,7 +107,7 @@
         "a5c02117-0817-4907-99ca-5674793127bd": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping, returns and warranty",
+            "heading": "Shipping",
             "icon": "none",
             "content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p>",
             "page": ""
