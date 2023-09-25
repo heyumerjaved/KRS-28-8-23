@@ -317,7 +317,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun seat fits almost all modern analogue mountain bikes (front suspension required) – including bikes with steep, sloping or tapered top tubes. It’s even suitable for carbon frames. Visit our <span style=\"text-decoration:underline\">fitting guide<\/span> for more detailed information on fitting the Shotgun seat. <\/p><p>The Shotgun seat is not suitable for electric bikes, or bikes without front suspension including road bikes, gravel bikes, some hybrid bikes, beach cruiser bikes, bikes with step-through or single tube frames, or old mountain bikes with brake cables running along the top or side of the top tube.<\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -327,7 +328,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun seat is designed for children 2 - 5 years, and up to 48lb \/ 22kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\"><strong>shotgun seat sizing page<\/strong><\/span><strong>. <\/strong><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
@@ -337,7 +339,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=CfSwmmGcz_Q"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=CfSwmmGcz_Q",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -347,7 +350,8 @@
             "icon": "none",
             "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
@@ -423,7 +427,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/KRS_Shotgun_Combo_2.jpg",
-        "height": "medium",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
