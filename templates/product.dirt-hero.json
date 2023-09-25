@@ -317,7 +317,7 @@
             "row_content": "",
             "page": "",
             "video_link": "",
-            "htmltable": ""
+            "htmltable": "<table>\n  <tbody>\n<tr>\n    <th> <\/th>\n    <th>12\"<\/th>\n    <th>14\"<\/th>\n  <\/tr>\n  <tr>\n    <td>Age<\/td>\n    <td>2 - 3 years<\/td>\n    <td>3 - 5 years<\/td>\n  <\/tr>\n  <tr>\n    <td>Minimum suggested inseam<\/td>\n    <td>337mm \/ 13.3\"<\/td>\n    <td>367mm \/ 14.4\"<\/td>\n  <\/tr>\n  <tr>\n    <td>Minimum saddle height<\/td>\n    <td>\t317mm \/ 12.5\"<\/td>\n    <td>346mm \/ 13.6\"<\/td>\n  <\/tr>\n  <tr>\n \n<\/tr>\n<\/tbody>\n<\/table>"
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -342,14 +342,14 @@
             "htmltable": ""
           }
         },
-        "481b3be1-3cf4-4cd6-ac79-3ddba60fa0ce": {
+        "f2939963-8bdb-4ebb-9e39-2cc24d7df051": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Installation",
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=CCuEWmqAxmA&t=6s",
+            "video_link": "",
             "htmltable": ""
           }
         },
@@ -369,7 +369,7 @@
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2",
-        "481b3be1-3cf4-4cd6-ac79-3ddba60fa0ce",
+        "f2939963-8bdb-4ebb-9e39-2cc24d7df051",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3"
       ],
       "custom_css": [
