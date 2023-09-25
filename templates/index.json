@@ -178,7 +178,8 @@
         "p {color: #212121; width: 600px;}",
         ".image-with-text .content-container {margin-left: -355px; margin-right: -400px; width: 700px;}",
         ".image-with-text__heading {width: 600px;}",
-        ".image-with-texta--overlap .image-with-text__content-text {}"
+        ".image-with-texta--overlap .image-with-text__content-text {}",
+        "@media only screen and (max-width: 1285px) {.image-with-text {display: none; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/A7301766_copy_4.jpg",
@@ -217,7 +218,6 @@
         "b302751a-1129-4a68-ac0a-e26e48db6b64",
         "db48a301-2f6a-4226-93f3-140a735ae899"
       ],
-      "disabled": true,
       "custom_css": [
         "@media only screen and (min-width: 1284.9px) {.image-with-text {display: none; }}",
         ".image-with-text {}",
