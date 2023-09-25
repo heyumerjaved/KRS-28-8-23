@@ -365,29 +365,10 @@
             "heading": "JOIN THOUSANDS OF STOKED MTB FAMILIES",
             "heading_size": "h2"
           }
-        },
-        "0d76a74a-0f75-4099-9d5b-a94c60f99020": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "6e095b4f-bc10-4b39-8c07-731dfe8d6853": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "https:\/\/www.instagram.com\/kidsrideshotgun\/",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "c4f28833-6aff-4881-9a36-e4067d063731",
-        "0d76a74a-0f75-4099-9d5b-a94c60f99020",
-        "6e095b4f-bc10-4b39-8c07-731dfe8d6853"
+        "c4f28833-6aff-4881-9a36-e4067d063731"
       ],
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
