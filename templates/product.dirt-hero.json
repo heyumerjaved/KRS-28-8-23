@@ -314,7 +314,7 @@
           "settings": {
             "heading": "Sizing",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>12\"<\/p><ul><li>Age: 2 - 3 years <\/li><li>Minimum suggested inseam: 337mm \/ 13.3\"<\/li><li>Minimum saddle height: 317mm \/ 12.5\"<\/li><\/ul><p><\/p><p>14\" <\/p><ul><li>Age: 3 - 5 years <\/li><li>Minimum suggested inseam: 367mm \/ 14.4\"<\/li><li>Minimum saddle height: 346mm \/ 13.6\"<\/li><\/ul>",
             "page": "",
             "video_link": "",
             "htmltable": "<table>\n  <tbody>\n<tr>\n    <th> <\/th>\n    <th>12\"<\/th>\n    <th>14\"<\/th>\n  <\/tr>\n  <tr>\n    <td>Age<\/td>\n    <td>2 - 3 years<\/td>\n    <td>3 - 5 years<\/td>\n  <\/tr>\n  <tr>\n    <td>Minimum suggested inseam<\/td>\n    <td>337mm \/ 13.3\"<\/td>\n    <td>367mm \/ 14.4\"<\/td>\n  <\/tr>\n  <tr>\n    <td>Minimum saddle height<\/td>\n    <td>\t317mm \/ 12.5\"<\/td>\n    <td>346mm \/ 13.6\"<\/td>\n  <\/tr>\n  <tr>\n \n<\/tr>\n<\/tbody>\n<\/table>"
@@ -325,10 +325,10 @@
           "settings": {
             "heading": "Specs",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p><strong>Bike weight <\/strong><\/p><ul><li>12\": 4kg <\/li><li>12\" with brake: 4.4kg<\/li><li>14\": 4.2kg <\/li><li>14\" with brake: 4.6kg<\/li><\/ul><p><\/p><p><strong>Wheels <\/strong><\/p><ul><li>Spokes: 2mm stainless steel <\/li><li>Lacing: 16x radial lacing <\/li><li>Front hub: KRS custom through axle 100mm<\/li><li>Rear hub: KRS custom through axle with disc brake mount 100mm<\/li><\/ul><p><\/p><p><strong>Tyres<\/strong><\/p><ul><li>Vee Tire Crown Gem 2.25\" 12\"\/14\" <\/li><\/ul><p><\/p><p><strong>Cockpit <\/strong><\/p><ul><li>Handlebar: KRS custom. 25.4mm clamp, 19mm handles, Up sweep 6 degrees, backsweep 8 degrees, length 450mm, rise 20mm<\/li><li>Grips: KRS custom 19mm <\/li><li>Stem: Forged 6061 T6 Aluminium, Rise: 0, Reach 30mm, Clamp: 25.4mm<\/li><li>Bearings: NECO H125<\/li><li>Headset: Semi integrated headset (sealed cartridge bearings)<\/li><\/ul><p><\/p><p><strong>Frame \/ Other<\/strong><\/p><ul><li>Frame material: 6061-T6 aluminium <\/li><li>Head tube: Standard 1 1\/8\" semi integrated headset compatible<\/li><li>Seat post: Aluminuim 6061- T6, 27.2mm<\/li><li>Fork: 6061-T6 aluminium<\/li><li>Bearings: NECO H125<\/li><li>Colour: Artic storm white, matte <\/li><\/ul><p><\/p><p><strong>Brake <\/strong><\/p><ul><li>Brake model: Magura MT4 post mount<\/li><li>Master cylinder material: Carbotecture<\/li><li>Blade Lever: Magura HC1, aluminium<\/li><li>Caliper: Magura MT4 - Aluminium (OE version)<\/li><li>Rotor: Storm HC 140<\/li><li>Hose length: 750mm<\/li><li>Fluid typeMineral oil<\/li><li>Pad: Organic<\/li><\/ul><p><br\/><\/p>",
             "page": "",
             "video_link": "",
-            "htmltable": "<table>\n  <tbody>\n<tr>\n    <th>Company<\/th>\n    <th>Contact<\/th>\n    <th>Country<\/th>\n   <th>test1<\/th>\n  <\/tr>\n  <tr>\n    <td>Alfreds Futterkiste<\/td>\n    <td>Maria Anders<\/td>\n    <td>Germany<\/td>\n  <\/tr>\n  <tr>\n    <td>Centro comercial Moctezuma<\/td>\n    <td>Francisco Chang<\/td>\n    <td>Mexico<\/td>\n  <\/tr>\n  <tr>\n    <td>Ernst Handel<\/td>\n    <td>Roland Mendel<\/td>\n    <td>Austria<\/td>\n  <\/tr>\n  <tr>\n    <td>Island Trading<\/td>\n    <td>Helen Bennett<\/td>\n    <td>UK<\/td>\n  <\/tr>\n  <tr>\n    <td>Laughing Bacchus Winecellars<\/td>\n    <td>Yoshi Tannamuri<\/td>\n    <td>Canada<\/td>\n  <\/tr>\n  <tr>\n    <td>Magazzini Alimentari Riuniti<\/td>\n    <td>Giovanni Rovelli<\/td>\n    <td>Italy<\/td>\n  <\/tr>\n<\/tbody>\n<\/table>"
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
