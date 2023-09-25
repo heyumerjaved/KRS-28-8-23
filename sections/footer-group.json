@@ -47,6 +47,7 @@
       "blocks": {
         "9b8b686b-de95-43fd-a62a-f9e40777ffb2": {
           "type": "link_list",
+          "disabled": true,
           "settings": {
             "heading": "Main Pages",
             "menu": "header-menu"

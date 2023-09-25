@@ -16,6 +16,35 @@
         "padding_bottom": 0
       }
     },
+    "e7668d16-9f25-4ff7-9cd4-bf8f6e24aef9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "CUSTOMERS ALSO ADD THESE EXCITING PICKS...",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "customers-also-love",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 76,
+        "button_toggle": true
+      }
+    },
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
@@ -73,40 +102,11 @@
       ],
       "settings": {
       }
-    },
-    "e7668d16-9f25-4ff7-9cd4-bf8f6e24aef9": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "CUSTOMERS ALSO ADD THESE EXCITING PICKS...",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "customers-also-love",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "button_toggle": true
-      }
     }
   },
   "order": [
     "cart-items",
-    "cart-footer",
-    "e7668d16-9f25-4ff7-9cd4-bf8f6e24aef9"
+    "e7668d16-9f25-4ff7-9cd4-bf8f6e24aef9",
+    "cart-footer"
   ]
 }
