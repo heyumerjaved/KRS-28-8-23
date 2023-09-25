@@ -314,10 +314,10 @@
           "settings": {
             "heading": "Sizing",
             "icon": "none",
-            "row_content": "<p>12\"<\/p><ul><li>Age: 2 - 3 years <\/li><li>Minimum suggested inseam: 337mm \/ 13.3\"<\/li><li>Minimum saddle height: 317mm \/ 12.5\"<\/li><\/ul><p><\/p><p>14\" <\/p><ul><li>Age: 3 - 5 years <\/li><li>Minimum suggested inseam: 367mm \/ 14.4\"<\/li><li>Minimum saddle height: 346mm \/ 13.6\"<\/li><\/ul>",
+            "row_content": "<p><strong>12\"<\/strong><\/p><ul><li>Age: 2 - 3 years <\/li><li>Minimum suggested inseam: 337mm \/ 13.3\"<\/li><li>Minimum saddle height: 317mm \/ 12.5\"<\/li><\/ul><p><\/p><p><strong>14\" <\/strong><\/p><ul><li>Age: 3 - 5 years <\/li><li>Minimum suggested inseam: 367mm \/ 14.4\"<\/li><li>Minimum saddle height: 346mm \/ 13.6\"<\/li><\/ul>",
             "page": "",
             "video_link": "",
-            "htmltable": "<table>\n  <tbody>\n<tr>\n    <th> <\/th>\n    <th>12\"<\/th>\n    <th>14\"<\/th>\n  <\/tr>\n  <tr>\n    <td>Age<\/td>\n    <td>2 - 3 years<\/td>\n    <td>3 - 5 years<\/td>\n  <\/tr>\n  <tr>\n    <td>Minimum suggested inseam<\/td>\n    <td>337mm \/ 13.3\"<\/td>\n    <td>367mm \/ 14.4\"<\/td>\n  <\/tr>\n  <tr>\n    <td>Minimum saddle height<\/td>\n    <td>\t317mm \/ 12.5\"<\/td>\n    <td>346mm \/ 13.6\"<\/td>\n  <\/tr>\n  <tr>\n \n<\/tr>\n<\/tbody>\n<\/table>"
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -339,7 +339,8 @@
             "row_content": "",
             "page": "",
             "video_link": "",
-            "htmltable": ""
+            "image_cr": "shopify:\/\/shop_images\/mtb_geo_bike-only-1679540752490.jpg",
+            "htmltable": "<table>\n  <tbody>\n<tr>\n    <th> <\/th>\n    <th>12\"<\/th>\n    <th>14\"<\/th>\n  <\/tr>\n  <tr>\n    <td>A. Seated reach<\/td>\n    <td>301-340mm<\/td>\n    <td>301-340mm<\/td>\n  <\/tr>\n  <tr>\n    <td>Minimum suggested inseam<\/td>\n    <td>337mm \/ 13.3\"<\/td>\n    <td>367mm \/ 14.4\"<\/td>\n  <\/tr>\n  <tr>\n    <td>Minimum saddle height<\/td>\n    <td>\t317mm \/ 12.5\"<\/td>\n    <td>346mm \/ 13.6\"<\/td>\n  <\/tr>\n  <tr>\n \n<\/tr>\n<\/tbody>\n<\/table>"
           }
         },
         "f2939963-8bdb-4ebb-9e39-2cc24d7df051": {
