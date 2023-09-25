@@ -83,20 +83,6 @@
         "padding_bottom": 100
       }
     },
-    "5ae21b2d-d3cc-4af4-896c-fd0aef91c98f": {
-      "type": "rich-text",
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 0
-      }
-    },
     "1691371931fdb06143": {
       "type": "apps",
       "blocks": {
@@ -111,24 +97,10 @@
         "11664110-ab1f-4748-8cec-287058b4d3b5"
       ],
       "custom_css": [
-        ".oke-media {margin-top: 100px;}"
+        ".oke-mediaGrid {margin-top: 100px; margin-bottom: 100px;}"
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "a0c5ea50-3e19-4501-9051-49a322c718c8": {
-      "type": "rich-text",
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 0
       }
     },
     "08a39fdf-ae12-4930-bb17-964a0e96d9dd": {
@@ -420,9 +392,7 @@
     "main",
     "31da16f8-a105-4b9c-8661-aef233d5c6b2",
     "50cd6fac-a286-4a84-9510-0abc1086ad65",
-    "5ae21b2d-d3cc-4af4-896c-fd0aef91c98f",
     "1691371931fdb06143",
-    "a0c5ea50-3e19-4501-9051-49a322c718c8",
     "08a39fdf-ae12-4930-bb17-964a0e96d9dd",
     "c7577c43-1db5-4dc2-ad94-3f6604b0a2ec",
     "d074f53f-b812-4bfe-898b-f27bafd0dc7a",
