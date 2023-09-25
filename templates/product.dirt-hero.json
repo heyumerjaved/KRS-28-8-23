@@ -560,7 +560,7 @@
         "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c": {
           "type": "heading",
           "settings": {
-            "heading": "ADD A SLICK AS HEADING HERE",
+            "heading": "INTRODUCING THE DIRT HERO",
             "heading_size": "h2"
           }
         }
@@ -699,6 +699,7 @@
     },
     "a2034ce1-6470-41ba-a894-6e7301faa85d": {
       "type": "rich-text",
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
