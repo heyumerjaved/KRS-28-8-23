@@ -220,12 +220,11 @@
       ],
       "custom_css": [
         "@media only screen and (min-width: 1284.9px) {.image-with-text {display: none; }}",
-        ".image-with-text {margin-bottom: -10px;}",
+        ".image-with-text {}",
         ".image-with-text .content-container {box-shadow: none;}",
-        ".image-with-text p {width: 120%; margin-left: -22px; margin-bottom: -40px;}",
+        ".image-with-text p {width: 120%; margin-left: -20px;}",
         "p {width: 100%; color: #212121;}",
-        ".image-with-text__heading {font-size: 20px; margin-top: 40px;}",
-        ".image-with-text .content-container {background: none;}"
+        ".image-with-text__heading {font-size: 20px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/A7301766_copy_2_0eb705d7-bf77-4628-b2f5-86ac25758c7b.jpg",
