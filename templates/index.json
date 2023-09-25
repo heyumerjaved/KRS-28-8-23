@@ -232,7 +232,7 @@
         "desktop_image_width": "large",
         "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "overlap",
         "color_scheme": "scheme-0719dfdd-f25f-4099-a448-0ceeaad3b7d3",
         "image_behavior": "none",
