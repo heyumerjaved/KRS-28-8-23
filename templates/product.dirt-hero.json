@@ -314,7 +314,7 @@
           "settings": {
             "heading": "Sizing",
             "icon": "none",
-            "row_content": "<p><strong>12\"<\/strong><\/p><ul><li>Age: 2 - 3 years <\/li><li>Minimum suggested inseam: 337mm \/ 13.3\"<\/li><li>Minimum saddle height: 317mm \/ 12.5\"<\/li><\/ul><p><\/p><p><strong>14\" <\/strong><\/p><ul><li>Age: 3 - 5 years <\/li><li>Minimum suggested inseam: 367mm \/ 14.4\"<\/li><li>Minimum saddle height: 346mm \/ 13.6\"<\/li><\/ul>",
+            "row_content": "<p><strong>12\"<\/strong><\/p><p>- Age: 2 - 3 years <\/p><p>- Minimum suggested inseam: 337mm \/ 13.3\"<\/p><p>- Minimum saddle height: 317mm \/ 12.5\"<\/p><p><\/p><p><strong>14\" <\/strong><\/p><p>- Age: 3 - 5 years <\/p><p>- Minimum suggested inseam: 367mm \/ 14.4\"<\/p><p>Minimum saddle height: 346mm \/ 13.6\"<\/p>",
             "page": "",
             "video_link": "",
             "htmltable": ""
