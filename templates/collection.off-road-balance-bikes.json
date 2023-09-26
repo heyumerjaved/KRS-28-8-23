@@ -294,7 +294,7 @@
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "middle",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "scheme-036afa03-d5ab-4c5a-9bac-3aad9e4e6cc7",
@@ -341,7 +341,7 @@
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "middle",
+        "desktop_content_position": "bottom",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "scheme-036afa03-d5ab-4c5a-9bac-3aad9e4e6cc7",
@@ -455,7 +455,8 @@
             "icon": "check_mark",
             "row_content": "",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-2": {
@@ -465,7 +466,8 @@
             "icon": "check_mark",
             "row_content": "",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-3": {
@@ -475,7 +477,8 @@
             "icon": "check_mark",
             "row_content": "",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-4": {
@@ -485,7 +488,8 @@
             "icon": "check_mark",
             "row_content": "",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
