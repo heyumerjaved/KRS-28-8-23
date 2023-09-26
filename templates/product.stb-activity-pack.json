@@ -416,7 +416,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun Pro seat fits almost all modern mountain bikes with standard 1 1\/8 inch steerers, including electric mountain bikes. <strong>Please watch our fitting video below or read our <\/strong><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><strong> to see if the Shotgun Pro seat will fit your bike.<\/strong><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -426,7 +427,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun Pro is designed for children 18 months - 5 years, and up to 60lb \/ 27kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\"><strong>shotgun seat sizing page<\/strong><\/span><strong>. <\/strong><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
@@ -436,7 +438,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -446,7 +449,8 @@
             "icon": "none",
             "row_content": "<p>This is just bunch of random text and it's only here as a placeholder to show what it'll all look like once the copy as been filled out.<\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
@@ -730,7 +734,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 100,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "16873073199d82bfd2": {
@@ -749,20 +753,6 @@
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "a2034ce1-6470-41ba-a894-6e7301faa85d": {
-      "type": "rich-text",
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 0
       }
     },
     "c26ae100-d5a5-4403-9dc7-53fe124f112d": {
@@ -913,7 +903,6 @@
     "14cee2ca-1fd2-4d5b-bfc7-6342263ad48e",
     "e2855d62-ce8e-422b-9231-27be2d827176",
     "16873073199d82bfd2",
-    "a2034ce1-6470-41ba-a894-6e7301faa85d",
     "c26ae100-d5a5-4403-9dc7-53fe124f112d",
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d",
     "1687992408aa7441fa",
