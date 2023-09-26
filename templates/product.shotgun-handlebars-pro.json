@@ -198,7 +198,7 @@
             "layout": "horizontal",
             "icon_1": "apple",
             "image_1": "shopify:\/\/shop_images\/warrenty_2x_5365b47c-c612-472d-bcfc-16e2ca4a64fb.png",
-            "heading_1": "1-year warranty",
+            "heading_1": "<a href=\"\/pages\/warranty\" target=\"_blank\" title=\"\/pages\/warranty\">1-year warranty<\/a>",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/stars_2x_2ce83a17-09da-499b-91e1-2357f6f78f67.png",
             "heading_2": "50+ 5-star reviews ",
