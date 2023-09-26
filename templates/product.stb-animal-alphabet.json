@@ -274,7 +274,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun Pro seat fits almost all modern mountain bikes with standard 1 1\/8 inch steerers, including electric mountain bikes. <strong>Please watch our fitting video below or read our <\/strong><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><strong> to see if the Shotgun Pro seat will fit your bike.<\/strong><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -284,7 +285,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun Pro is designed for children 18 months - 5 years, and up to 60lb \/ 27kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\"><strong>shotgun seat sizing page<\/strong><\/span><strong>. <\/strong><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
@@ -294,7 +296,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -304,7 +307,8 @@
             "icon": "none",
             "row_content": "<p>This is just bunch of random text and it's only here as a placeholder to show what it'll all look like once the copy as been filled out.<\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
@@ -677,7 +681,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 100,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "16873073199d82bfd2": {
