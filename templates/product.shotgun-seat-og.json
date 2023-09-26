@@ -315,7 +315,7 @@
           "settings": {
             "heading": "Will the Shotgun seat fit my bike?",
             "icon": "none",
-            "row_content": "<p>The Shotgun seat fits almost all modern analogue mountain bikes (front suspension required) – including bikes with steep, sloping or tapered top tubes. It’s even suitable for carbon frames. <strong>Visit our <\/strong><a href=\"\/pages\/fitting-instructions\" title=\"\/pages\/fitting-instructions\"><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><\/a><strong> for more detailed information on fitting the Shotgun seat. <\/strong><\/p><p>The Shotgun seat is not suitable for electric bikes, or bikes without front suspension including road bikes, gravel bikes, some hybrid bikes, beach cruiser bikes, bikes with step-through or single tube frames, or old mountain bikes with brake cables running along the top or side of the top tube.<\/p>",
+            "row_content": "<p>The Shotgun seat fits almost all modern analogue mountain bikes (front suspension required) – including bikes with steep, sloping or tapered top tubes. It’s even suitable for carbon frames. <strong>Visit our <\/strong><a href=\"\/pages\/fitting-instructions\" target=\"_blank\" title=\"\/pages\/fitting-instructions\"><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><\/a><strong> for more detailed information on fitting the Shotgun seat. <\/strong><\/p><p>The Shotgun seat is not suitable for electric bikes, or bikes without front suspension including road bikes, gravel bikes, some hybrid bikes, beach cruiser bikes, bikes with step-through or single tube frames, or old mountain bikes with brake cables running along the top or side of the top tube.<\/p>",
             "page": "",
             "video_link": "",
             "htmltable": ""
@@ -326,7 +326,7 @@
           "settings": {
             "heading": "Will my child fit the Shotgun seat?",
             "icon": "none",
-            "row_content": "<p>The Shotgun seat is designed for children 2 - 5 years, and up to 48lb \/ 22kg. <strong>Visit our <\/strong><a href=\"\/pages\/shotgun-size-guide\" title=\"\/pages\/shotgun-size-guide\"><strong>size guide<\/strong><\/a><strong> to find out if your child is ready to ride up front. <\/strong><\/p>",
+            "row_content": "<p>The Shotgun seat is designed for children 2 - 5 years, and up to 48lb \/ 22kg. <strong>Visit our <\/strong><a href=\"\/pages\/shotgun-size-guide\" target=\"_blank\" title=\"\/pages\/shotgun-size-guide\"><strong>size guide<\/strong><\/a><strong> to find out if your child is ready to ride up front. <\/strong><\/p>",
             "page": "",
             "video_link": "",
             "htmltable": ""
