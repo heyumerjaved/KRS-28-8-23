@@ -318,7 +318,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun 2.0 seat fits almost all modern analogue mountain bikes (front suspension required) – including bikes with steep, sloping or tapered top tubes. It’s even suitable for carbon frames. Visit our <span style=\"text-decoration:underline\">fitting guide<\/span> for more detailed information on fitting the Shotgun 2.0 seat. <\/p><p>The Shotgun 2.0 seat is not suitable for electric bikes, or bikes without front suspension including road bikes, gravel bikes, some hybrid bikes, beach cruiser bikes, bikes with step-through or single tube frames, or old mountain bikes with brake cables running along the top or side of the top tube.<\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -328,7 +329,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun 2.0 seat is designed for kids 18 months - 5 years of age, and up to 60lb or 27kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\">shotgun 2.0 seat sizing<\/span> page.<\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
@@ -338,7 +340,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=TeuyhasN4yc"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=TeuyhasN4yc",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -348,7 +351,8 @@
             "icon": "none",
             "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
@@ -400,7 +404,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 100,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "16873073199d82bfd2": {
