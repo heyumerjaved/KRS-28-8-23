@@ -168,8 +168,8 @@
             "image_2": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
             "heading_2": "<a href=\"\/policies\/refund-policy\" target=\"_blank\" title=\"Refund Policy\">60-day returns<\/a>",
             "icon_3": "truck",
-            "image_3": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
-            "heading_3": ""
+            "image_3": "shopify:\/\/shop_images\/stars_2x_2ce83a17-09da-499b-91e1-2357f6f78f67.png",
+            "heading_3": "5-star reviews"
           }
         },
         "fe5a96d1-bee0-415c-9a07-63ded5df7c87": {
@@ -215,6 +215,7 @@
         },
         "e6c0d10e-d9b2-4147-9326-1e4bc6ed1d4b": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
