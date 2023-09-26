@@ -36,7 +36,7 @@
         "e56f95ed-65d5-4f30-af39-e58ffd39a784": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"\/pages\/purpose\" target=\"_blank\" title=\"Our mission\"><strong>SHOP AT YOUR LOCAL RETAILER<\/strong><\/a>",
+            "text": "<a href=\"\/pages\/find-stockist\" target=\"_blank\" title=\"\/pages\/find-stockist\"><strong>SHOP AT YOUR LOCAL RETAILER<\/strong><\/a>",
             "text_style": "uppercase"
           }
         },
@@ -153,10 +153,10 @@
             "layout": "horizontal",
             "icon_1": "apple",
             "image_1": "shopify:\/\/shop_images\/delivery_2x_971aff3d-8247-4381-9768-21090a41c0ac.png",
-            "heading_1": "Free tracked shipping over $39",
+            "heading_1": "<a href=\"\/policies\/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\">Free tracked shipping over $39<\/a>",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
-            "heading_2": "60-day returns",
+            "heading_2": "<a href=\"\/policies\/refund-policy\" target=\"_blank\" title=\"Refund Policy\">60-day returns<\/a>",
             "icon_3": "truck",
             "image_3": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
             "heading_3": ""
@@ -320,7 +320,8 @@
             "icon": "none",
             "row_content": "<p>To attach, wrap the bottom flap of the pogies underneath the bar, and then secure the top flap over the top of the bar using the velcro. Simple! Not suitable for use in conjunction with brake or gear levers. <\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -330,7 +331,8 @@
             "icon": "none",
             "row_content": "<p>Hand wash the pogies and hang dry out of direct sunlight. Avoid regular washing to help maintain waterproofing.<\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
@@ -341,7 +343,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -351,7 +354,8 @@
             "icon": "none",
             "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
