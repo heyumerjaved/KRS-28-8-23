@@ -35,7 +35,7 @@
         "e56f95ed-65d5-4f30-af39-e58ffd39a784": {
           "type": "text",
           "settings": {
-            "text": "<a href=\"\/pages\/purpose\" target=\"_blank\" title=\"Our mission\"><strong>SHOP AT YOUR LOCAL RETAILER<\/strong><\/a>",
+            "text": "<a href=\"\/pages\/find-stockist\" target=\"_blank\" title=\"\/pages\/find-stockist\"><strong>SHOP AT YOUR LOCAL RETAILER<\/strong><\/a>",
             "text_style": "uppercase"
           }
         },
