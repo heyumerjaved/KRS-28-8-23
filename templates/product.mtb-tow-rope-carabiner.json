@@ -153,10 +153,10 @@
             "layout": "horizontal",
             "icon_1": "apple",
             "image_1": "shopify:\/\/shop_images\/delivery_2x_971aff3d-8247-4381-9768-21090a41c0ac.png",
-            "heading_1": "Free tracked shipping over $60",
+            "heading_1": "Free tracked shipping over $39",
             "icon_2": "banana",
             "image_2": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
-            "heading_2": "30-day returns",
+            "heading_2": "60-day returns",
             "icon_3": "truck",
             "image_3": "shopify:\/\/shop_images\/return_2x_25b08cbe-447c-4404-b4b2-3eea4ce65424.png",
             "heading_3": ""
@@ -319,7 +319,8 @@
             "icon": "none",
             "row_content": "<p>1.7m\/5.5 feet un-stretched – 3.3m \/ 10.8 feet stretched (polyester)<\/p><p>Load rated to 500lb \/ 225kg<\/p><p>Product weight: 0.25kgs.<\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
@@ -329,7 +330,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=-sHgxfueG5U"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=-sHgxfueG5U",
+            "htmltable": ""
           }
         },
         "aafac044-95c9-4a63-8c2b-51be3be1b02f": {
@@ -339,7 +341,8 @@
             "icon": "check_mark",
             "row_content": "",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -349,7 +352,8 @@
             "icon": "none",
             "row_content": "<p><strong>Is the tow rope safe for use on dropper posts?<br\/><\/strong>The majority of our customers use their tow rope on dropper posts and we aren’t aware of any issues. To minimise wear and tear on your seat post you should remain seated when towing.<\/p><p><strong>Is the tow rope safe to use with e-bikes? <br\/><\/strong>We’re aware of many customers using their tow ropes with Ebikes and we haven’t heard of any issue to date. To minimise load on the Ebike motor we recommend the person being towed is also pedalling.<\/p><p><strong>What age is the tow rope suitable for?<br\/><\/strong>The shotgun tow rope is designed with kids in mind, but it’s suitable for adults too – as it’s rated to 500lb \/ 225kg. For kids, we’ve found that the tow rope works best once they’re confidently riding a balance bike or pedal bike themselves. <\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -359,7 +363,8 @@
             "icon": "none",
             "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
