@@ -321,7 +321,8 @@
             "row_content": "<p>Our riding jersey is a relaxed unisex fit. If your child is in between years, we recommend sizing up.<\/p>",
             "page": "",
             "video_link": "",
-            "image_cr": "shopify:\/\/shop_images\/Metric_600x600_1.jpg"
+            "image_cr": "shopify:\/\/shop_images\/Metric_600x600_1.jpg",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -331,7 +332,8 @@
             "icon": "none",
             "row_content": "<p>Body: 47% modal \/ 47% cotton \/ 6% spandex<br\/>Windproof front panel: 100% nylon<\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
@@ -341,7 +343,8 @@
             "icon": "none",
             "row_content": "<p>Cold machine wash with like colours. Dry in the shade. Do not tumble dry. Do not iron. Do not dry clean.<\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -351,7 +354,8 @@
             "icon": "none",
             "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
@@ -672,7 +676,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 100,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "16873073199d82bfd2": {
