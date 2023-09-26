@@ -15,6 +15,7 @@
         },
         "0a75fbf8-7f73-4360-9060-f43714b1530c": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Starting from...",
             "text_style": "uppercase"
@@ -22,7 +23,6 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
           }
         },
@@ -322,7 +322,8 @@
             "row_content": "<p>Our Dialled Dino t-shirt is a unisex fit. If your child is in between years, we recommend sizing up.<\/p>",
             "page": "",
             "video_link": "",
-            "image_cr": "shopify:\/\/shop_images\/STB_Dialed_Dino_Tee_Specs_480x480_d28edc0d-149c-4482-8bf9-96b01878e499.jpg"
+            "image_cr": "shopify:\/\/shop_images\/STB_Dialed_Dino_Tee_Specs_480x480_d28edc0d-149c-4482-8bf9-96b01878e499.jpg",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -332,7 +333,8 @@
             "icon": "none",
             "row_content": "<p>Heavyweight 180GSM, 100% certified organic cotton. <\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
@@ -342,7 +344,8 @@
             "icon": "none",
             "row_content": "<p>Cold machine wash with like colours. Dry in the shade. Do not tumble dry. Do not iron. Do not dry clean. <\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -352,7 +355,8 @@
             "icon": "none",
             "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
