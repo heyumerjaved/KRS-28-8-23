@@ -334,7 +334,7 @@
           "settings": {
             "heading": "Shipping, returns & warranty",
             "icon": "none",
-            "row_content": "<p>Before placing your order, we recommend checking our <a href=\"\/policies\/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\"><span style=\"text-decoration:underline\">shipping page<\/span><\/a> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <a href=\"\/policies\/refund-policy\" target=\"_blank\" title=\"Refund Policy\"><span style=\"text-decoration:underline\">returns policy.<\/span><\/a><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
+            "row_content": "<p>Before placing your order, we recommend checking our <a href=\"\/policies\/shipping-policy\" target=\"_blank\" title=\"Shipping Policy\"><span style=\"text-decoration:underline\">shipping page<\/span><\/a> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <a href=\"\/policies\/refund-policy\" target=\"_blank\" title=\"Refund Policy\"><span style=\"text-decoration:underline\">returns policy.<\/span><\/a><\/p><p>For warranty information, please see our <a href=\"\/pages\/warranty\" target=\"_blank\" title=\"\/pages\/warranty\"><span style=\"text-decoration:underline\">warranty policy.<\/span><\/a><\/p>",
             "page": "",
             "video_link": "",
             "htmltable": ""
