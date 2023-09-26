@@ -318,7 +318,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun Pro seat fits almost all modern mountain bikes with standard 1 1\/8 inch steerers, including electric mountain bikes. <strong>Please watch our fitting video below or read our <\/strong><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><strong> to see if the Shotgun Pro seat will fit your bike.<\/strong><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -329,7 +330,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun Pro is designed for children 18 months - 5 years, and up to 60lb \/ 27kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\"><strong>shotgun seat sizing page<\/strong><\/span><strong>. <\/strong><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
@@ -339,7 +341,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=TeuyhasN4yc&t=153s"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=TeuyhasN4yc&t=153s",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -349,7 +352,8 @@
             "icon": "none",
             "row_content": "<p>Before placing your order, we recommend checking our <span style=\"text-decoration:underline\">shipping page<\/span> for the most up-to-date processing and delivery timeframes for this product.<\/p><p>For returns information please see our <span style=\"text-decoration:underline\">shipping & returns policy<\/span><\/p><p>For warranty information, please see our <span style=\"text-decoration:underline\">warranty policy<\/span><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
@@ -401,7 +405,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 100,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "16873073199d82bfd2": {
@@ -815,20 +819,6 @@
         "include_margins": true
       }
     },
-    "5132e1e2-9ef2-45bf-b6e2-b204ee99cb3e": {
-      "type": "rich-text",
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 0
-      }
-    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -889,7 +879,6 @@
     "a2034ce1-6470-41ba-a894-6e7301faa85d",
     "43aa86e7-fefc-45fb-8e58-49313cb0c50d",
     "1687992408aa7441fa",
-    "5132e1e2-9ef2-45bf-b6e2-b204ee99cb3e",
     "related-products",
     "8ff52a62-2d47-49da-af69-e88276c64690"
   ]
