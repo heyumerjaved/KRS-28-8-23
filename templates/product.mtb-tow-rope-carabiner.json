@@ -492,7 +492,6 @@
     },
     "cd2df96a-1516-4ef8-a67e-077495db249d": {
       "type": "video",
-      "disabled": true,
       "custom_css": [
         "@media only screen and (min-width: 1299px) {.video-section {display: none; }}"
       ],
