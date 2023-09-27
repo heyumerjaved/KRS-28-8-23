@@ -18,6 +18,9 @@
     },
     "e7668d16-9f25-4ff7-9cd4-bf8f6e24aef9": {
       "type": "featured-collection",
+      "custom_css": [
+        ".collection {width: 50%; margin: auto}"
+      ],
       "settings": {
         "title": "CUSTOMERS ALSO ADD THESE EXCITING PICKS...",
         "heading_size": "h2",
