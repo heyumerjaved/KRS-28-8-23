@@ -45,12 +45,11 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "9b8b686b-de95-43fd-a62a-f9e40777ffb2": {
+        "753dfa19-d53a-4ac2-a3fe-d4d6620507a9": {
           "type": "link_list",
-          "disabled": true,
           "settings": {
-            "heading": "Main Pages",
-            "menu": "header-menu"
+            "heading": "Quick links",
+            "menu": "footer"
           }
         },
         "3a63325b-a45c-4609-81ee-5d80798e62b3": {
@@ -78,7 +77,7 @@
         }
       },
       "block_order": [
-        "9b8b686b-de95-43fd-a62a-f9e40777ffb2",
+        "753dfa19-d53a-4ac2-a3fe-d4d6620507a9",
         "3a63325b-a45c-4609-81ee-5d80798e62b3",
         "2cb7f3fd-e520-4c23-9f23-225ec507a952",
         "d266f6f2-09da-438a-bc88-4d133780d595"
