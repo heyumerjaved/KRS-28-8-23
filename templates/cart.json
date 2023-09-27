@@ -76,6 +76,7 @@
         },
         "2a58c4f4-9912-48f8-a1ef-dee11882c04d": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/delivery_2x_971aff3d-8247-4381-9768-21090a41c0ac.png",
             "title": "Delivery timeframes"
