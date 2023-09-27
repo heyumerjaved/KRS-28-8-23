@@ -46,6 +46,39 @@
         "hide_controls": true
       }
     },
+    "5db3ad43-09b4-4905-85ee-36f1798c3966": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>INTRODUCING THE DIRT HERO<\/h3><p>Designed for kids aged 2 - 5 years<\/p><p>12 - 14” convertible<\/p><p>2.25” Vee Tire Crown Gem pneumatic tires<\/p><p>Magura hydraulic rear disc brake with child safe rotor guard<\/p><p>Trail ready mtb geometry & build quality<\/p><p>3 x mtb skins include<\/p><h4><a href=\"\/products\/dirt-hero-off-road-balance-bike\" title=\"DIRT HERO OFF-ROAD BALANCE BIKE\">BUILD YOUR DREAM BIKE<\/a><\/h4>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-text-1"
+      ],
+      "custom_css": [
+        "p {color: #212121;}",
+        "h4 {color: #ff6b00;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/14-BL-45.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "eba27a35-b816-4934-8987-101de4c0f6f6": {
       "type": "rich-text",
       "blocks": {
@@ -59,7 +92,7 @@
         "9818d9b2-1f47-47b4-87f1-5c64f514a5d4": {
           "type": "text",
           "settings": {
-            "text": "<p>Taking to the trails with your balance bike kid is an amazing bonding experience for you to do together – guaranteed to foster their passion for mountain biking and being in nature. However not every balance bike is suitable for riding off-road, and there are some key features to look out for when picking the perfect off-road balance bike.<\/p>"
+            "text": "<p>Discover the must-have features your little one's balance bike needs for tackling off-road terrain.<\/p>"
           }
         }
       },
@@ -115,39 +148,6 @@
         "full_width": true,
         "padding_top": 100,
         "padding_bottom": 0
-      }
-    },
-    "5db3ad43-09b4-4905-85ee-36f1798c3966": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>INTRODUCING THE DIRT HERO<\/h3><p>Designed for kids aged 2 - 5 years<\/p><p>12 - 14” convertible<\/p><p>2.25” Vee Tire Crown Gem pneumatic tires<\/p><p>Magura hydraulic rear disc brake with child safe rotor guard<\/p><p>Trail ready mtb geometry & build quality<\/p><p>3 x mtb skins include<\/p><h4><a href=\"\/products\/dirt-hero-off-road-balance-bike\" title=\"DIRT HERO OFF-ROAD BALANCE BIKE\">SHOP DIRT HERO®<\/a><\/h4>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-text-1"
-      ],
-      "custom_css": [
-        "p {color: #212121;}",
-        "h4 {color: #ff6b00;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/14-BL-45.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 100,
-        "padding_bottom": 100
       }
     },
     "7f96a391-6b55-45ea-bdec-c7ebae4914a7": {
@@ -551,10 +551,10 @@
   },
   "order": [
     "1fbe2ef4-7f2b-45b9-99c3-314570df5274",
+    "5db3ad43-09b4-4905-85ee-36f1798c3966",
     "eba27a35-b816-4934-8987-101de4c0f6f6",
     "06736dab-d9a8-464f-9eee-7a001f500d40",
     "a50aa60c-e40f-464a-a5a8-d2f1fbf3e580",
-    "5db3ad43-09b4-4905-85ee-36f1798c3966",
     "7f96a391-6b55-45ea-bdec-c7ebae4914a7",
     "b090af9f-d513-4991-aef2-f890298945a5",
     "d5f87ff4-bc76-41b9-87c3-b055459de40c",
