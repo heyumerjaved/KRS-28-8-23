@@ -46,6 +46,62 @@
         "hide_controls": true
       }
     },
+    "c8c401f7-df4b-488c-8886-d34717257dde": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16079573221526__c8c401f7-df4b-488c-8886-d34717257dde-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>MAKING MTB RELATABLE<\/strong>",
+            "text": "<p>Introduce mtb in a relatable way from their first book in the nursery<\/p>",
+            "link_label": "",
+            "link": "",
+            "outlinebtncheck": false
+          }
+        },
+        "template--16079573221526__c8c401f7-df4b-488c-8886-d34717257dde-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>MADE FOR KIDS<\/strong>",
+            "text": "<p>From lay-flat pages in our activity pack to extra hard wearing apparel - everything is designed specifically for kids<\/p>",
+            "link_label": "",
+            "link": "",
+            "outlinebtncheck": false
+          }
+        },
+        "template--16079573221526__c8c401f7-df4b-488c-8886-d34717257dde-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>STOKE ON AND OFF THE TRAILS<\/strong>",
+            "text": "<p>Keep the mtb stoke alive at home, with MTB books, activity packs and more.<\/p>",
+            "link_label": "",
+            "link": "",
+            "outlinebtncheck": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16079573221526__c8c401f7-df4b-488c-8886-d34717257dde-column-1",
+        "template--16079573221526__c8c401f7-df4b-488c-8886-d34717257dde-column-2",
+        "template--16079573221526__c8c401f7-df4b-488c-8886-d34717257dde-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80": {
       "type": "multicolumn-sidebyside",
       "blocks": {
@@ -176,19 +232,22 @@
         "template--16079573221526__72201984-a4fd-4f3e-9758-8dbddf32579b-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "handlebars"
+            "collection": "handlebars",
+            "newtitle": ""
           }
         },
         "template--16079573221526__72201984-a4fd-4f3e-9758-8dbddf32579b-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "apparel-accessories"
+            "collection": "apparel-accessories",
+            "newtitle": ""
           }
         },
         "template--16079573221526__72201984-a4fd-4f3e-9758-8dbddf32579b-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": "offroad-balance-bikes"
+            "collection": "offroad-balance-bikes",
+            "newtitle": ""
           }
         }
       },
@@ -483,7 +542,8 @@
             "icon": "check_mark",
             "row_content": "",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-2": {
@@ -493,7 +553,8 @@
             "icon": "check_mark",
             "row_content": "",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-3": {
@@ -503,7 +564,8 @@
             "icon": "check_mark",
             "row_content": "",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16065498054806__1a579df8-c859-4fe1-b0b0-1851a4542970-collapsible_row-4": {
@@ -513,7 +575,8 @@
             "icon": "check_mark",
             "row_content": "",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
@@ -527,6 +590,7 @@
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
+        "isfaq": false,
         "caption": "",
         "heading": "CATH'S SEO SECTION",
         "heading_size": "h2",
@@ -650,6 +714,7 @@
   },
   "order": [
     "1fbe2ef4-7f2b-45b9-99c3-314570df5274",
+    "c8c401f7-df4b-488c-8886-d34717257dde",
     "4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80",
     "19d069c6-6ef8-4b77-9e7c-6b8027636d51",
     "5db3ad43-09b4-4905-85ee-36f1798c3966",
