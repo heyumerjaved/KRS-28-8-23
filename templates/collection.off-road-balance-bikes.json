@@ -90,7 +90,7 @@
         "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>INTRODUCING THE DIRT HERO<\/h3><p>- Designed for kids aged 2 - 5 years<\/p><p>- 12 - 14” convertible<\/p><p>- 2.25” Vee Tire Crown Gem pneumatic tires<\/p><p>- Magura hydraulic rear disc brake with child safe rotor guard<\/p><p>- Trail ready mtb geometry & build quality<\/p><p>- 3 x mtb skins include<\/p><h4><a href=\"\/products\/dirt-hero-off-road-balance-bike\" title=\"DIRT HERO OFF-ROAD BALANCE BIKE\">SHOP DIRT HERO®<\/a><\/h4>",
+            "text": "<h3>INTRODUCING THE DIRT HERO<\/h3><p>Designed for kids aged 2 - 5 years<\/p><p>12 - 14” convertible<\/p><p>2.25” Vee Tire Crown Gem pneumatic tires<\/p><p>Magura hydraulic rear disc brake with child safe rotor guard<\/p><p>Trail ready mtb geometry & build quality<\/p><p>3 x mtb skins include<\/p><h4><a href=\"\/products\/dirt-hero-off-road-balance-bike\" title=\"DIRT HERO OFF-ROAD BALANCE BIKE\">SHOP DIRT HERO®<\/a><\/h4>",
             "text_style": "body"
           }
         }
@@ -100,7 +100,7 @@
       ],
       "custom_css": [
         "p {color: #212121;}",
-        "h4 {color: #ff6b00}"
+        "h4 {color: #ff6b00;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/14-BL-45.jpg",
