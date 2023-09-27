@@ -107,6 +107,9 @@
     },
     "94ddd234-c799-4f78-bc73-838a67718b7e": {
       "type": "featured-collection",
+      "custom_css": [
+        ".cloud-search-filter {display: none}"
+      ],
       "settings": {
         "title": "SHOP APPAREL",
         "heading_size": "h2",
