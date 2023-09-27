@@ -173,20 +173,6 @@
             "heading_3": ""
           }
         },
-        "f976b21f-114f-48ad-8c82-42f536f85dae": {
-          "type": "icon-with-text",
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "apple",
-            "image_1": "shopify:\/\/shop_images\/award_2x_853aee2f-f468-476a-94b5-ba55d557ebfa.png",
-            "heading_1": "Award winning design",
-            "icon_2": "banana",
-            "image_2": "shopify:\/\/shop_images\/quality_2x_7e02532d-5eb3-46c6-8921-b1711590b389.png",
-            "heading_2": "Independent quality inspections",
-            "icon_3": "truck",
-            "heading_3": ""
-          }
-        },
         "59ff94a8-9b5e-4fa0-b718-16d5e2a7895b": {
           "type": "icon-with-text",
           "settings": {
@@ -214,6 +200,20 @@
             "heading_3": ""
           }
         },
+        "f976b21f-114f-48ad-8c82-42f536f85dae": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "apple",
+            "image_1": "shopify:\/\/shop_images\/stb_2x_33699d27-fbe9-4b0e-a332-ebf0caf71ade.png",
+            "heading_1": "Shred Til Bed stickers & tattoos included",
+            "icon_2": "banana",
+            "image_2": "shopify:\/\/shop_images\/quality_2x_7e02532d-5eb3-46c6-8921-b1711590b389.png",
+            "heading_2": "<a href=\"\/pages\/why-we-choose-tuv-sud-for-independent-quality-inspections\" target=\"_blank\" title=\"\/pages\/why-we-choose-tuv-sud-for-independent-quality-inspections\">Independent quality inspections<\/a>",
+            "icon_3": "truck",
+            "heading_3": ""
+          }
+        },
         "4376e36b-7ce2-4190-b3d9-6ccd8077c4fc": {
           "type": "icon-with-text",
           "settings": {
@@ -229,6 +229,7 @@
         },
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -272,9 +273,9 @@
         "394f4dc4-c73a-4f86-ba11-5fa48b45d771",
         "b57ac794-075b-4a7a-ad08-e655d04448a7",
         "fe5a96d1-bee0-415c-9a07-63ded5df7c87",
-        "f976b21f-114f-48ad-8c82-42f536f85dae",
         "59ff94a8-9b5e-4fa0-b718-16d5e2a7895b",
         "e6c0d10e-d9b2-4147-9326-1e4bc6ed1d4b",
+        "f976b21f-114f-48ad-8c82-42f536f85dae",
         "4376e36b-7ce2-4190-b3d9-6ccd8077c4fc",
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601",
         "share"
