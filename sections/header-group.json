@@ -61,8 +61,8 @@
         ".header {box-shadow: 0 4px 5px -5px rgba(0, 0, 0, 0.2); width: 100%;}",
         ".header {width: 100%; max-width: 100%;}",
         "@media only screen and (max-width: 992px) {.list-menu__item {font-size: 20px; }}",
-        ".header__submenu .header__menu-item {display: block; padding: 10px; align-content: left;}",
-        ".header__submenu {display: grid; grid-auto-flow: row;}"
+        ".header__submenu .header__menu-item {display: block; padding: 10px; text-align: left; \/* Align the text to the left *\/}",
+        ".header__submenu {display: grid; grid-auto-flow: row; justify-content: start; \/* Align items to the left *\/}"
       ],
       "settings": {
         "logo_position": "middle-left",
