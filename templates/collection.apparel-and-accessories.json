@@ -394,74 +394,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "d5f87ff4-bc76-41b9-87c3-b055459de40c": {
-      "type": "featured-collection",
-      "disabled": true,
-      "custom_css": [
-        ".cloud-search-filter {display: none;}",
-        ".cloud-search-filters-mobile-classic {display: none;}"
-      ],
-      "settings": {
-        "title": "DESIGN YOUR EXPERIENCE",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "seats-only",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 100,
-        "padding_bottom": 16,
-        "button_toggle": true
-      }
-    },
-    "652cffc6-4a39-45af-aefd-3adc911d3a82": {
-      "type": "featured-collection",
-      "custom_css": [
-        ".cloud-search-filter {display: none;}",
-        ".cloud-search-filters-mobile-classic {display: none;}"
-      ],
-      "settings": {
-        "title": "SHOP APPAREL & ACCESSORIES",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "handlebars-only",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "button_toggle": true
+        "padding_bottom": 48
       }
     },
     "9ff8835c-a0ea-448a-ac08-52da2fe6d6a0": {
@@ -484,25 +417,27 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 60
+        "padding_top": 52,
+        "padding_bottom": 0
       }
     },
     "1688078656b90c3621": {
       "type": "apps",
       "blocks": {
-        "ae0f93b4-3bcb-4296-bb21-3d9debd32a8f": {
-          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+        "1205f249-ad81-4065-b81a-205f8935c78f": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-carousel\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
           "settings": {
-            "product": "asiento-para-ninos-shotgun-pro-mtb",
-            "widget_type": "reviews_widget"
+            "show_heading": false,
+            "heading": "",
+            "badge_link": "",
+            "product": ""
           }
         }
       },
       "block_order": [
-        "ae0f93b4-3bcb-4296-bb21-3d9debd32a8f"
+        "1205f249-ad81-4065-b81a-205f8935c78f"
       ],
       "custom_css": [
 
@@ -715,8 +650,6 @@
     "72201984-a4fd-4f3e-9758-8dbddf32579b",
     "7f96a391-6b55-45ea-bdec-c7ebae4914a7",
     "b090af9f-d513-4991-aef2-f890298945a5",
-    "d5f87ff4-bc76-41b9-87c3-b055459de40c",
-    "652cffc6-4a39-45af-aefd-3adc911d3a82",
     "9ff8835c-a0ea-448a-ac08-52da2fe6d6a0",
     "1688078656b90c3621",
     "619cae11-7e87-4ce5-bb99-9a62fabedfe8",
