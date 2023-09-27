@@ -53,9 +53,35 @@
       ],
       "settings": {
         "custom_liquid": "<table>\n  <tbody>\n <tr>\n      <th rowspan=“1”> <\/th>\n      <th colspan=\"2\"style=\"font-weight: 900; text-align: center;\">Suitable for riding off-road<\/th>\n      <th colspan=\"2\"style=\"font-weight: 900; text-align: center;\">Not suitable for riding off-road<\/th>\n\n    <\/tr>\n\n    <td><\/td>\n<td style=\"font-weight: 900; text-align: center;\">Feature<\/td>\n      <td style=\"font-weight: 900; text-align: center;\">Why?<\/td>\n      <td style=\"font-weight: 900; text-align: center;\">Feature<\/td>\n      <td style=\"font-weight: 900; text-align: center;\">Why?<\/td>\n\n  <tr>\n\n<td style=\"font-weight: 900; text-align: center;\">Tires<\/td>\n    <td>- Pneumatic knobbly MTB tires<\/td>\n    <td>- Increased grip riding off-road <BR>- Tires act as suspension\n<\/td>\n    <td>- Foam or slick tires<\/td>\n<td>- Poor grip riding off-road <BR>\n- Hard tires give a bumpy ride<\/td>\n\n  <\/tr>\n\n<td style=\"font-weight: 900; text-align: center;\">Brakes<\/td>\n    <td>- Hydraulic disc brake<\/td>\n    <td>- Increased stopping power for steeper terrain<BR>- Easy to pull levers <\/td>\n    <td>- V brakes<\/td>\n<td>- Unreliable in the wet <BR> - Increased hand strength required to operate<\/td>\n\n  <\/tr>\n\n<td style=\"font-weight: 900; text-align: center;\">Frame shape<\/td>\n    <td>- Slack and low MTB geometry<\/td>\n    <td>- Improved stability, handling and weight distribution<BR>- Comfortable and confidence inspiring <\/td>\n    <td>- Traditional upright geometry<\/td>\n<td>- Increased risk of Over-The-Handlebars (OTB) accidents when braking <BR> - Twitchy handling on descents<\/td>\n\n  <\/tr>\n\n<td style=\"font-weight: 900; text-align: center;\">Trail ready build quality & parts<\/td>\n    <td>- Sealed cartridge bearings<\/td>\n    <td>- Protected from the elements<BR>- Longer lifespan <\/td>\n    <td>- Open race bearings<\/td>\n<td>- Open to the elements <BR> - Shorter lifespan<\/td>\n\n\n  <tr>\n<\/tr>\n<\/tbody>\n<\/table>\n\n<style>\n  table {\n    border-collapse: collapse;\n    width: 55%;\n    border-radius: 10px;\n    margin: auto;\n  }\n\n@media only screen and (max-width: 992px) {\n   table {\n    border-collapse: collapse;\n    width: 95%;\n    border-radius: 10px;\n    margin: auto;\n  }\n  th {\n    font-weight: 900;\n    font-size: 11px;\n    color: #606060;\n  }\n\n  td {\n    font-weight: 500;\n    font-size: 6.5px;\n    color: #212121;\n  }\n}\n\n  th, td {\n    border: 6px #212121;\n    padding: 8px;\n    text-align: left;\n  }\n\n  th {\n    font-weight: 900;\n    font-size: 15px;\n    color: #606060;\n  }\n\n  td {\n    font-weight: 500;\n    font-size: 10px;\n    color: #212121;\n  }\n\n  td:first-child {\n    text-align: left;\n  }\n<\/style>",
-        "color_scheme": "",
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
         "padding_top": 100,
         "padding_bottom": 100
+      }
+    },
+    "a50aa60c-e40f-464a-a5a8-d2f1fbf3e580": {
+      "type": "rich-text",
+      "blocks": {
+        "54e934ae-52e5-407d-8563-e1e8f83ecfe0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>BUILD YOUR DREAM BIKE<\/strong>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "54e934ae-52e5-407d-8563-e1e8f83ecfe0"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 0
       }
     },
     "5db3ad43-09b4-4905-85ee-36f1798c3966": {
@@ -77,11 +103,11 @@
         ".image-with-texta--overlap .image-with-text__content-text {}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-08-31_at_12.07.44_PM.png",
-        "height": "medium",
+        "image": "shopify:\/\/shop_images\/14-BL-45.jpg",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "middle",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
@@ -97,52 +123,12 @@
         "bd8cc940-1067-475a-9ad3-b9e78f7410e7": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "<strong>\"The kids ride shotgun seat is the best kids seat for taking your child mountain biking, and is a great way to bond with your child and introduce them to a sport you love\"<\/strong>",
+            "subheading": "\"The kids ride shotgun seat is the best kids seat for taking your child mountain biking, and is a great way to bond with your child and introduce them to a sport you love\"",
             "smallimage": "shopify:\/\/shop_images\/image_10_2_copy.jpg",
             "smallimage_width": 200,
-            "button_label": "",
-            "link": "",
-            "button_toggle": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 30,
-            "color_scheme": "background-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "b0d59a11-3c9d-401d-8aca-a44edfd2683a": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "<strong>\"Kids Ride Shotgun are out to reset your expectations for fun and ease-of-use when you want to bring your child along for the ride.\"<\/strong>",
-            "smallimage": "shopify:\/\/shop_images\/Artboard_2-100.jpg",
-            "smallimage_width": 310,
-            "button_label": "",
-            "link": "",
-            "button_toggle": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 30,
-            "color_scheme": "background-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "5134bd4a-cce0-4287-bd98-ab794dc58421": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "<strong>\"It's lightning fast to mount, quick release up front, quick release at the back. Literally flick it onto one bike and off as you need it. This is one seat to fit all bikes.\"<\/strong>",
-            "smallimage": "shopify:\/\/shop_images\/Artboard_4-100.jpg",
-            "smallimage_width": 250,
             "button_label": "",
             "link": "",
             "button_toggle": false,
@@ -156,9 +142,7 @@
         }
       },
       "block_order": [
-        "bd8cc940-1067-475a-9ad3-b9e78f7410e7",
-        "b0d59a11-3c9d-401d-8aca-a44edfd2683a",
-        "5134bd4a-cce0-4287-bd98-ab794dc58421"
+        "bd8cc940-1067-475a-9ad3-b9e78f7410e7"
       ],
       "custom_css": [
         ".banner__media {opacity: 100%; color: #f1f1f1;}",
@@ -183,7 +167,7 @@
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "BUNDLE & SAVE",
+            "heading": "ADD A BRAKE & SAVE",
             "heading_size": "h1"
           }
         },
@@ -224,53 +208,6 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 100,
-        "padding_bottom": 16
-      }
-    },
-    "edaf9d75-c54d-4be8-9d8f-28378937c008": {
-      "type": "image-with-text",
-      "blocks": {
-        "a13a6636-2031-480a-a4b8-c48c51e379a6": {
-          "type": "heading",
-          "settings": {
-            "heading": "BUNDLE & SAVE",
-            "heading_size": "h1"
-          }
-        },
-        "9a251d0c-468e-4020-a307-5790201e481c": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Purchase a seat and handlebars as a combo and save 5%<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "ebd53739-fe9d-4b2c-92ad-3ce65039f5fb": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "product": "shotgun-child-bike-seat-handlebars-combo",
-            "atc_type": "ajax",
-            "button_toggle": false
-          }
-        }
-      },
-      "block_order": [
-        "a13a6636-2031-480a-a4b8-c48c51e379a6",
-        "9a251d0c-468e-4020-a307-5790201e481c",
-        "ebd53739-fe9d-4b2c-92ad-3ce65039f5fb"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/221121_9889_Grey_BG_bb47fdf4-c686-49be-9d0c-639397f98fdb.jpg",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "bottom",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "scheme-036afa03-d5ab-4c5a-9bac-3aad9e4e6cc7",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 16,
         "padding_bottom": 100
       }
     },
@@ -281,7 +218,7 @@
         ".cloud-search-filters-mobile-classic {display: none;}"
       ],
       "settings": {
-        "title": "SHOP THE DIRT HERO® RANGE",
+        "title": "<strong>EXPLORE BALANCE BIKE ACCESSORIES<\/strong>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -303,7 +240,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 100,
-        "padding_bottom": 16,
+        "padding_bottom": 100,
         "button_toggle": true
       }
     },
@@ -616,10 +553,10 @@
   "order": [
     "1fbe2ef4-7f2b-45b9-99c3-314570df5274",
     "06736dab-d9a8-464f-9eee-7a001f500d40",
+    "a50aa60c-e40f-464a-a5a8-d2f1fbf3e580",
     "5db3ad43-09b4-4905-85ee-36f1798c3966",
     "7f96a391-6b55-45ea-bdec-c7ebae4914a7",
     "b090af9f-d513-4991-aef2-f890298945a5",
-    "edaf9d75-c54d-4be8-9d8f-28378937c008",
     "d5f87ff4-bc76-41b9-87c3-b055459de40c",
     "9ff8835c-a0ea-448a-ac08-52da2fe6d6a0",
     "1688078656b90c3621",
