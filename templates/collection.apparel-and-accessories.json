@@ -357,13 +357,13 @@
           "type": "heading",
           "settings": {
             "heading": "FREE BOREDOM BUSTER DOWNLOADABLE",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our free downloadable boredom buster pack is a teaser from our Shred Til Bed MTB Activity Book.<br\/><br\/>It has 3 print-at-home activities to keep your little one busy when they can't get out and ride.<br\/><\/p><p><a href=\"\/products\/boredom-buster-printables\" target=\"_blank\" title=\"Shred Til Bed â€“ Free Boredom Buster Printables\">To get your copy, enter your email, download and print<\/a><br\/><\/p>",
+            "text": "<p>Our free downloadable boredom buster pack is a teaser from our Shred Til Bed MTB Activity Book.<br\/><br\/>It has 3 print-at-home activities to keep your little one busy when they can't get out and ride.<br\/><\/p><h3><a href=\"\/products\/boredom-buster-printables\" target=\"_blank\" title=\"Shred Til Bed â€“ Free Boredom Buster Printables\">To get your copy, enter your email, download and print<\/a><br\/><\/h3>",
             "text_style": "body"
           }
         },
@@ -383,7 +383,7 @@
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-button-1"
       ],
       "custom_css": [
-
+        "a {color: #ff6b00;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/KRSBoredomBusterGrey_d781d422-3cb8-4f96-97f6-bcee17bcb849.jpg",
