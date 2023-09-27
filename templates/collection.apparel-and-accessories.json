@@ -52,6 +52,7 @@
         "template--16079573221526__c8c401f7-df4b-488c-8886-d34717257dde-column-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/shred_til_bed.jpg",
             "title": "<strong>MAKING MTB RELATABLE<\/strong>",
             "text": "<p>Introduce mtb in a relatable way from their first book in the nursery<\/p>",
             "link_label": "",
@@ -62,6 +63,7 @@
         "template--16079573221526__c8c401f7-df4b-488c-8886-d34717257dde-column-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/KRS_Windproof_Kids_MTB_Jersey_Dino.jpg",
             "title": "<strong>MADE FOR KIDS<\/strong>",
             "text": "<p>From lay-flat pages in our activity pack to extra hard wearing apparel - everything is designed specifically for kids<\/p>",
             "link_label": "",
@@ -72,6 +74,7 @@
         "template--16079573221526__c8c401f7-df4b-488c-8886-d34717257dde-column-3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/ShredTillBed_ActivityPack_RCP-13_1.jpg",
             "title": "<strong>STOKE ON AND OFF THE TRAILS<\/strong>",
             "text": "<p>Keep the mtb stoke alive at home, with MTB books, activity packs and more.<\/p>",
             "link_label": "",
@@ -89,7 +92,7 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
@@ -100,6 +103,35 @@
         "swipe_on_mobile": false,
         "padding_top": 100,
         "padding_bottom": 100
+      }
+    },
+    "94ddd234-c799-4f78-bc73-838a67718b7e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SHOP APPAREL",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "accessories-apparel",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "button_toggle": false
       }
     },
     "4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80": {
@@ -207,6 +239,7 @@
       "block_order": [
         "template--16065498054806__5db3ad43-09b4-4905-85ee-36f1798c3966-text-1"
       ],
+      "disabled": true,
       "custom_css": [
         "p {color: #212121;}",
         ".image-with-texta--overlap .image-with-text__content-text {}"
@@ -256,6 +289,7 @@
         "template--16079573221526__72201984-a4fd-4f3e-9758-8dbddf32579b-featured_collection-2",
         "template--16079573221526__72201984-a4fd-4f3e-9758-8dbddf32579b-featured_collection-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -715,6 +749,7 @@
   "order": [
     "1fbe2ef4-7f2b-45b9-99c3-314570df5274",
     "c8c401f7-df4b-488c-8886-d34717257dde",
+    "94ddd234-c799-4f78-bc73-838a67718b7e",
     "4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80",
     "19d069c6-6ef8-4b77-9e7c-6b8027636d51",
     "5db3ad43-09b4-4905-85ee-36f1798c3966",
