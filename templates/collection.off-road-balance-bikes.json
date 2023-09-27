@@ -207,24 +207,14 @@
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Purchase a seat and handlebars as a combo and save 5%<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
+            "text": "<p>Upgrade your Dirt Hero by adding the Magura HT4 hydraulic disc brake and save $X% on your order!<\/p><p>The Magura HT4 brake comes with our child safe rotor guard for added piece of mind.<\/p>",
             "text_style": "body"
-          }
-        },
-        "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "product": "shotgun-child-bike-seat-handlebars-combo",
-            "atc_type": "ajax",
-            "button_toggle": false
           }
         }
       },
       "block_order": [
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-heading-1",
-        "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-text-1",
-        "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-button-1"
+        "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-text-1"
       ],
       "custom_css": [
 
