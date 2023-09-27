@@ -363,14 +363,14 @@
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Purchase a seat and handlebars as a combo and save 5%<\/p><p>With the Pro handlebars included, your little one is going to love hitting the trails riding up front.<\/p>",
+            "text": "<p>Our free downloadable boredom buster pack is a teaser from our Shred Til Bed MTB Activity Book.<br\/><br\/>It has 3 print-at-home activities to keep your little one busy when they can't get out and ride.<br\/><\/p><p>To get your copy, enter your email, download and print<br\/><\/p>",
             "text_style": "body"
           }
         },
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "product": "boredom-buster-printables",
             "atc_type": "ajax",
             "button_toggle": false
