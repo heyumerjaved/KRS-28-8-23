@@ -383,10 +383,11 @@
 
       ],
       "settings": {
-        "height": "medium",
+        "image": "shopify:\/\/shop_images\/KRSBoredomBusterGrey_d781d422-3cb8-4f96-97f6-bcee17bcb849.jpg",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "middle",
+        "desktop_content_position": "bottom",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "scheme-036afa03-d5ab-4c5a-9bac-3aad9e4e6cc7",
