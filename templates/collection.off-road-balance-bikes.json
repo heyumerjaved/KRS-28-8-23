@@ -623,6 +623,18 @@
         "padding_bottom": 68,
         "button_toggle": false
       }
+    },
+    "06736dab-d9a8-464f-9eee-7a001f500d40": {
+      "type": "custom-liquid",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "custom_liquid": "<table>\n  <tbody>\n<tr>\n    <th>Company<\/th>\n    <th>Contact<\/th>\n    <th>Country<\/th>\n   <th>test1<\/th>\n  <\/tr>\n  <tr>\n    <td>Alfreds Futterkiste<\/td>\n    <td>Maria Anders<\/td>\n    <td>Germany<\/td>\n  <\/tr>\n  <tr>\n    <td>Centro comercial Moctezuma<\/td>\n    <td>Francisco Chang<\/td>\n    <td>Mexico<\/td>\n  <\/tr>\n  <tr>\n    <td>Ernst Handel<\/td>\n    <td>Roland Mendel<\/td>\n    <td>Austria<\/td>\n  <\/tr>\n  <tr>\n    <td>Island Trading<\/td>\n    <td>Helen Bennett<\/td>\n\n    <td>UK<\/td>\n  <\/tr>\n  <tr>\n    <td>Laughing Bacchus Winecellars<\/td>\n    <td>Yoshi Tannamuri<\/td>\n    <td>Canada<\/td>\n  <\/tr>\n  <tr>\n    <td>Magazzini Alimentari Riuniti<\/td>\n    <td>Giovanni Rovelli<\/td>\n    <td>Italy<\/td>\n  <\/tr>\n<\/tbody>\n<\/table>\n\n<style>\n  table {\n    border-collapse: collapse;\n    width: 95%;\nboarder-radius: 6px;\nmargin: auto;\n  }\n\n  th, td {\n    border: 6px #212121;\n    padding: 8px;\n    text-align: center;\n  }\n\n  th {\n    font-weight: 900;\n    font-size: 15px;\ncolor: #606060\n  }\n\n  td {\n    font-weight: 900;\n    font-size: 10px;\ncolor: #212121\n  }\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -643,6 +655,7 @@
     "27d73539-01a4-4974-9b9f-3fe3d99e798f",
     "1e698311-db95-4d2d-a273-9ff553e11a0a",
     "main-collection-banner",
-    "main-collection-product-grid"
+    "main-collection-product-grid",
+    "06736dab-d9a8-464f-9eee-7a001f500d40"
   ]
 }
