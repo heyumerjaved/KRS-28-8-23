@@ -309,52 +309,12 @@
         "bd8cc940-1067-475a-9ad3-b9e78f7410e7": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "<strong>\"The kids ride shotgun seat is the best kids seat for taking your child mountain biking, and is a great way to bond with your child and introduce them to a sport you love\"<\/strong>",
+            "subheading": "\"The kids ride shotgun seat is the best kids seat for taking your child mountain biking, and is a great way to bond with your child and introduce them to a sport you love\"",
             "smallimage": "shopify:\/\/shop_images\/image_10_2_copy.jpg",
             "smallimage_width": 200,
-            "button_label": "",
-            "link": "",
-            "button_toggle": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 30,
-            "color_scheme": "background-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "b0d59a11-3c9d-401d-8aca-a44edfd2683a": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "<strong>\"Kids Ride Shotgun are out to reset your expectations for fun and ease-of-use when you want to bring your child along for the ride.\"<\/strong>",
-            "smallimage": "shopify:\/\/shop_images\/Artboard_2-100.jpg",
-            "smallimage_width": 310,
-            "button_label": "",
-            "link": "",
-            "button_toggle": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 30,
-            "color_scheme": "background-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "5134bd4a-cce0-4287-bd98-ab794dc58421": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_copy_e105d8b3-2490-4977-aedd-83bd0dada00b.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "<strong>\"It's lightning fast to mount, quick release up front, quick release at the back. Literally flick it onto one bike and off as you need it. This is one seat to fit all bikes.\"<\/strong>",
-            "smallimage": "shopify:\/\/shop_images\/Artboard_4-100.jpg",
-            "smallimage_width": 250,
             "button_label": "",
             "link": "",
             "button_toggle": false,
@@ -368,9 +328,7 @@
         }
       },
       "block_order": [
-        "bd8cc940-1067-475a-9ad3-b9e78f7410e7",
-        "b0d59a11-3c9d-401d-8aca-a44edfd2683a",
-        "5134bd4a-cce0-4287-bd98-ab794dc58421"
+        "bd8cc940-1067-475a-9ad3-b9e78f7410e7"
       ],
       "custom_css": [
         ".banner__media {opacity: 100%; color: #f1f1f1;}",
@@ -395,8 +353,8 @@
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "BUNDLE & SAVE",
-            "heading_size": "h1"
+            "heading": "FREE BOREDEM BUSTER DOWNLOADABLE",
+            "heading_size": "h2"
           }
         },
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-text-1": {
@@ -410,7 +368,7 @@
           "type": "button",
           "settings": {
             "button_label": "Button label",
-            "product": "shotgun-child-bike-seat-handlebars-combo",
+            "product": "boredom-buster-printables",
             "atc_type": "ajax",
             "button_toggle": false
           }
