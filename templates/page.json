@@ -3,11 +3,11 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        "h1 {display: flex; justify-content: center; align-items: center; height: 140px; font-size: 23px;}"
+        "h1 {display: flex; justify-content: center; align-items: center; margin-bottom: 100px; font-size: 23px;}"
       ],
       "settings": {
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     }
   },
