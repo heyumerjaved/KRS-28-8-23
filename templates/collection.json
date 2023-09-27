@@ -46,15 +46,6 @@
         "hide_controls": true
       }
     },
-    "083cd6b8-64c2-4898-a6f6-96672f7089e6": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "main-collection-banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -70,7 +61,7 @@
     "main-collection-product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        "#cloud_search_filters_root {display: none;}"
+
       ],
       "settings": {
         "products_per_page": 24,
@@ -85,7 +76,7 @@
         "filter_type": "vertical",
         "enable_sorting": false,
         "columns_mobile": "2",
-        "padding_top": 24,
+        "padding_top": 40,
         "padding_bottom": 100,
         "button_toggle": true
       }
@@ -93,7 +84,6 @@
   },
   "order": [
     "1710a3f7-17f0-4973-b0bf-54cae633410d",
-    "083cd6b8-64c2-4898-a6f6-96672f7089e6",
     "main-collection-banner",
     "main-collection-product-grid"
   ]
