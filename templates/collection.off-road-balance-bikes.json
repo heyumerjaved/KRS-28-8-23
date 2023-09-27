@@ -46,6 +46,39 @@
         "hide_controls": true
       }
     },
+    "eba27a35-b816-4934-8987-101de4c0f6f6": {
+      "type": "rich-text",
+      "blocks": {
+        "7fb4b20f-ba18-4ffb-a957-77e1e129e735": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>GET OFF THE DRIVEWAY AND ONTO THE DIRT<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "9818d9b2-1f47-47b4-87f1-5c64f514a5d4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Taking to the trails with your balance bike kid is an amazing bonding experience for you to do together – guaranteed to foster their passion for mountain biking and being in nature. However not every balance bike is suitable for riding off-road, and there are some key features to look out for when picking the perfect off-road balance bike.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "7fb4b20f-ba18-4ffb-a957-77e1e129e735",
+        "9818d9b2-1f47-47b4-87f1-5c64f514a5d4"
+      ],
+      "custom_css": [
+        ".content-container:after {box-shadow: none !important;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-9e99a7aa-130c-4d6e-bd1a-c7f38d522593",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
     "06736dab-d9a8-464f-9eee-7a001f500d40": {
       "type": "custom-liquid",
       "custom_css": [
@@ -540,6 +573,7 @@
   },
   "order": [
     "1fbe2ef4-7f2b-45b9-99c3-314570df5274",
+    "eba27a35-b816-4934-8987-101de4c0f6f6",
     "06736dab-d9a8-464f-9eee-7a001f500d40",
     "a50aa60c-e40f-464a-a5a8-d2f1fbf3e580",
     "5db3ad43-09b4-4905-85ee-36f1798c3966",
