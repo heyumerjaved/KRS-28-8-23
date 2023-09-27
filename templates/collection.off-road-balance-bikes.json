@@ -273,16 +273,18 @@
     "1688078656b90c3621": {
       "type": "apps",
       "blocks": {
-        "ae0f93b4-3bcb-4296-bb21-3d9debd32a8f": {
-          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+        "053a8bf9-f183-4389-bb4d-a04a9a115702": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-carousel\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
           "settings": {
-            "product": "asiento-para-ninos-shotgun-pro-mtb",
-            "widget_type": "reviews_widget"
+            "show_heading": false,
+            "heading": "",
+            "badge_link": "",
+            "product": ""
           }
         }
       },
       "block_order": [
-        "ae0f93b4-3bcb-4296-bb21-3d9debd32a8f"
+        "053a8bf9-f183-4389-bb4d-a04a9a115702"
       ],
       "custom_css": [
 
