@@ -267,7 +267,7 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 100,
-        "padding_bottom": 60
+        "padding_bottom": 0
       }
     },
     "1688078656b90c3621": {
@@ -291,20 +291,6 @@
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "619cae11-7e87-4ce5-bb99-9a62fabedfe8": {
-      "type": "rich-text",
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 48,
-        "padding_bottom": 0
       }
     },
     "1a579df8-c859-4fe1-b0b0-1851a4542970": {
@@ -562,7 +548,6 @@
     "d5f87ff4-bc76-41b9-87c3-b055459de40c",
     "9ff8835c-a0ea-448a-ac08-52da2fe6d6a0",
     "1688078656b90c3621",
-    "619cae11-7e87-4ce5-bb99-9a62fabedfe8",
     "1a579df8-c859-4fe1-b0b0-1851a4542970",
     "b0ec386c-1010-4319-b050-9af9c9565561",
     "16884380759e7ce7b8",
