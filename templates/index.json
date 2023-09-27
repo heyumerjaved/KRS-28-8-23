@@ -129,11 +129,11 @@
         "fa5635db-c96b-43cc-89ef-2d7f3d67f868"
       ],
       "custom_css": [
-        "@media only screen and (min-width: 992px) {.multicolumn-list__item.center .media--adapt, .multicolumn-list__item .media--adapt .multicolumn-card__image {max-width: 70%; max-height: 50%; margin: 8%; margin-bottom: -50px; }}",
+        "@media only screen and (min-width: 992px) {.multicolumn-list__item.center .media--adapt, .multicolumn-list__item .media--adapt .multicolumn-card__image {max-width: 70%; max-height: 50%; margin: 8%; margin-bottom: -50px; pointer-events: none; }}",
         ".content-container:after {box-shadow: none !important;}",
-        "p {font-size: 11px; margin-top: -15px;}",
-        "h3 {margin-top: -15px; color: #212121;}",
-        "@media only screen and (max-width: 992px) {p {display: none; } h3 {margin-top: 0px; font-size: 12px !important; color: #212121; }}"
+        "p {font-size: 11px; margin-top: -15px; }",
+        "h3 {margin-top: -15px; color: #212121; pointer-events: none; }",
+        "@media only screen and (max-width: 992px) {p {display: none; } h3 {margin-top: 0px; font-size: 12px !important; color: #212121; pointer-events: none; }}"
       ],
       "settings": {
         "title": "",
