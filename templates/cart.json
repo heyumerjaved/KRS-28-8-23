@@ -21,7 +21,7 @@
       "custom_css": [
         ".collection {width: 55%; margin: auto;}",
         "a {font-size: 10px;}",
-        "h2 {width: 100%; font-size: 20px}"
+        "h2 {width: 100%;}"
       ],
       "settings": {
         "title": "CUSTOMERS ALSO ADD THESE EXCITING PICKS...",
