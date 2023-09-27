@@ -208,7 +208,7 @@
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Upgrade your Dirt Hero by adding the Magura HT4 hydraulic disc brake and save $X% on your order!<\/p><p>The Magura HT4 brake comes with our child safe rotor guard for added piece of mind.<\/p>",
+            "text": "<p>Upgrade your Dirt Hero by adding the Magura MT4 hydraulic disc brake and save $X% on your order!<\/p><p>The Magura MT4 brake comes with our child safe rotor guard for added piece of mind.<\/p><h4><a href=\"\/products\/dirt-hero-off-road-balance-bike\" title=\"DIRT HERO OFF-ROAD BALANCE BIKE\">SHOP DIRT HERO®<\/a><\/h4>",
             "text_style": "body"
           }
         }
@@ -218,7 +218,7 @@
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-text-1"
       ],
       "custom_css": [
-
+        "a {color: #ff6b00;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/221121_9889_Grey_BG_bb47fdf4-c686-49be-9d0c-639397f98fdb.jpg",
