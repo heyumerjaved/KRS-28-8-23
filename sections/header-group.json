@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "This is a demo site. You cannot place orders 🚚 *T&C's apply",
+            "text": "Free shipping on orders above US$39 🚚 *T&C's apply",
             "link": ""
           }
         }
