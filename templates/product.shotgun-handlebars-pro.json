@@ -596,12 +596,54 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "70cc6ba5-892b-40d4-bd66-22ab3789ded9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"With no frame contact and the ability to adjust its legs to fit wider frames (hooray ebikes!), the Shotgun Pro is a perfect accessory for an even wider array of mountain bikes than the original Shotgun seat. But perhaps its biggest “upgrade” is the lightning fast mounting process, and the super quick adjustments when swapping from bike to bike.\"",
+            "smallimage": "shopify:\/\/shop_images\/two_wheeling_tots_95283286-98c0-40b0-928f-c8923e4c9661.jpg",
+            "smallimage_width": 120,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "6cb31414-459c-49ea-9cf3-bdf7e6e7eecf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "For us, the Shotgun Pro Seat is a great solution to share what we love with our little one. It allows him to experience the wind on his face, the flow of the trail and the ultimate freedom a mountain bike provides. We feel the Shotgun Pro Seat is a great way to learn skills and inspire a passion lifelong for bikes!",
+            "smallimage": "shopify:\/\/shop_images\/bike_faff.jpg",
+            "smallimage_width": 120,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0",
         "8d7e93dc-2c8b-4533-8cd7-b6b555229053",
-        "86a5ef19-6e84-4345-bca0-5d65319ea2e6"
+        "86a5ef19-6e84-4345-bca0-5d65319ea2e6",
+        "70cc6ba5-892b-40d4-bd66-22ab3789ded9",
+        "6cb31414-459c-49ea-9cf3-bdf7e6e7eecf"
       ],
       "custom_css": [
         ".banner__media {opacity: 100%;}"
