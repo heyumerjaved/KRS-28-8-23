@@ -106,9 +106,9 @@
     "08a39fdf-ae12-4930-bb17-964a0e96d9dd": {
       "type": "video",
       "custom_css": [
-        ".video-section__poster {height: 600px; position: center; overflow: hidden; margin: 0 auto; margin-top: px; justify-content: center; align-items: center;}",
-        ".video-section {height: 600px; position: top; overflow: hidden; justify-content: center; align-items: center;}",
-        "iframe {max-width: 100%; width: 100%; height: 1080px; position: absolute; top: 1%; left: 50%; transform: translate(-50%, calc(-100% + 820px));}",
+        ".video-section__poster {height: 800px; position: center; overflow: hidden; margin: 0 auto; margin-top: px; justify-content: center; align-items: center;}",
+        ".video-section {height: 800px; position: top; overflow: hidden; justify-content: center; align-items: center;}",
+        "iframe {max-width: 100%; width: 100%; height: 1080px; position: absolute; top: 1%; left: 50%; transform: translate(-50%, calc(-100% + 920px));}",
         ".container {position: relative; padding-bottom: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 1300px) {.video-section {display: none; }}"
       ],
