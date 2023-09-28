@@ -328,7 +328,7 @@
           "settings": {
             "heading": "Installation video",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Skip to 1:25-min for fitting instructions. <\/p>",
             "page": "",
             "video_link": "https:\/\/www.youtube.com\/watch?v=-gFJZQh51Hk",
             "htmltable": ""
