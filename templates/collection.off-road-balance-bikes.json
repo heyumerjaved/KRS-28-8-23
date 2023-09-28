@@ -272,7 +272,7 @@
         "template--16061949083798__b090af9f-d513-4991-aef2-f890298945a5-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>BLAH BLAH BLAH<\/p><h4><a href=\"\/products\/dirt-hero-off-road-balance-bike\" title=\"DIRT HERO OFF-ROAD BALANCE BIKE\">SHOP DIRT HERO®<\/a><\/h4>",
+            "text": "<p>We’ve partnered with Magura to spec the ultimate brake for mini shredders. <\/p><p>Legendary performance, class-leading lever reach adjustment and the world’s first child safe rotor guard make this the perfect balance bike brake for MTB kids.<\/p><h4><a href=\"\/products\/dirt-hero-off-road-balance-bike\" title=\"DIRT HERO OFF-ROAD BALANCE BIKE\">SHOP DIRT HERO®<\/a><\/h4>",
             "text_style": "body"
           }
         }
@@ -285,7 +285,7 @@
         "a {color: #ff6b00;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/KRS_Dirt_Hero_Brake_Kit_Main_Grey.jpg",
+        "image": "shopify:\/\/shop_images\/Dirt_Hero_Magura_brake_ecom.webp",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
