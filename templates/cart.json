@@ -19,7 +19,8 @@
     "e7668d16-9f25-4ff7-9cd4-bf8f6e24aef9": {
       "type": "featured-collection",
       "custom_css": [
-        "@media only screen and (min-width: 992px) {.collection {width: 55%; margin: auto;}a {font-size: 10px;}h2 {width: 100%;}}"
+        "@media only screen and (min-width: 992px) {.collection {width: 55%; margin: auto; } a {font-size: 10px; } h2 {width: 100%; }}",
+        "a {font-size: 12px}"
       ],
       "settings": {
         "title": "CUSTOMERS ALSO ADD THESE EXCITING PICKS...",
