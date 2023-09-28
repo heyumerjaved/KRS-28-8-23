@@ -25,7 +25,7 @@
         "template--16066259779734__31da16f8-a105-4b9c-8661-aef233d5c6b2-text-1": {
           "type": "text",
           "settings": {
-            "text": "<strong>We're on a mission to raise the next generation of mountain bikers. <\/strong>To help families ride together, and inspire future riders. ",
+            "text": "<strong>We're on a mission to raise the next generation of mountain bikers.<\/strong; br>To help families ride together, and inspire future riders.",
             "text_style": "body"
           }
         }
