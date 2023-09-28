@@ -543,88 +543,8 @@
             "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "\"If you want to instil young shredders with a love for mountain biking as early as possible, the Shotgun Pro is great\"",
-            "smallimage": "shopify:\/\/shop_images\/enduro_mag.jpg",
-            "smallimage_width": 300,
-            "button_label": "",
-            "link": "",
-            "button_toggle": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 30,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "8d7e93dc-2c8b-4533-8cd7-b6b555229053": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_1_copy.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "\"The Shotgun Pro is quick-mounting, very adjustable for finding the sweet spot for your little rascal’s ride, and definitely looks pro set up on the mountain bike.\"",
-            "smallimage": "shopify:\/\/shop_images\/rascal_rides.jpg",
-            "smallimage_width": 120,
-            "button_label": "",
-            "link": "",
-            "button_toggle": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 30,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "86a5ef19-6e84-4345-bca0-5d65319ea2e6": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "\"It's lightning fast to mount, quick release up front, quick release at the back. Literally flick it onto one bike and off as you need it. This is one seat to fit all bikes.\"",
-            "smallimage": "shopify:\/\/shop_images\/Artboard_4-100.jpg",
-            "smallimage_width": 300,
-            "button_label": "",
-            "link": "",
-            "button_toggle": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 30,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "70cc6ba5-892b-40d4-bd66-22ab3789ded9": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "\"With no frame contact and the ability to adjust its legs to fit wider frames (hooray ebikes!), the Shotgun Pro is a perfect accessory for an even wider array of mountain bikes than the original Shotgun seat. But perhaps its biggest “upgrade” is the lightning fast mounting process, and the super quick adjustments when swapping from bike to bike.\"",
+            "subheading": "\"They offer a soft and secure way for kids to hold on tight, and are really easy to take on and off.\" ",
             "smallimage": "shopify:\/\/shop_images\/two_wheeling_tots_95283286-98c0-40b0-928f-c8923e4c9661.jpg",
-            "smallimage_width": 120,
-            "button_label": "",
-            "link": "",
-            "button_toggle": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 30,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "6cb31414-459c-49ea-9cf3-bdf7e6e7eecf": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "For us, the Shotgun Pro Seat is a great solution to share what we love with our little one. It allows him to experience the wind on his face, the flow of the trail and the ultimate freedom a mountain bike provides. We feel the Shotgun Pro Seat is a great way to learn skills and inspire a passion lifelong for bikes!",
-            "smallimage": "shopify:\/\/shop_images\/bike_faff.jpg",
             "smallimage_width": 120,
             "button_label": "",
             "link": "",
@@ -639,11 +559,7 @@
         }
       },
       "block_order": [
-        "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0",
-        "8d7e93dc-2c8b-4533-8cd7-b6b555229053",
-        "86a5ef19-6e84-4345-bca0-5d65319ea2e6",
-        "70cc6ba5-892b-40d4-bd66-22ab3789ded9",
-        "6cb31414-459c-49ea-9cf3-bdf7e6e7eecf"
+        "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0"
       ],
       "custom_css": [
         ".banner__media {opacity: 100%;}"
