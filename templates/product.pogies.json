@@ -648,7 +648,27 @@
             "heading_size": "h2",
             "subheading": "\"Our Adventure Mama Lauren Hronek has been out fat biking in the snow putting these Pogies to the test. She has been SO PLEASED with this solution and only wished she had them sooner to get her through cold weather riding during October and November. Her toddler has quickly become accustomed to using his pogies and much prefers them over gloves.\"",
             "smallimage": "shopify:\/\/shop_images\/two_wheeling_tots_95283286-98c0-40b0-928f-c8923e4c9661.jpg",
-            "smallimage_width": 200,
+            "smallimage_width": 120,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "df3644fe-d2f0-4154-ab8e-46ba8e1c85b7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"These are every bit as well made and feature packed as anything an adult would use, which is the way it should be for children’s gear!\"",
+            "smallimage": "shopify:\/\/shop_images\/rascal_rides.jpg",
+            "smallimage_width": 120,
             "button_label": "",
             "link": "",
             "button_toggle": false,
@@ -663,7 +683,8 @@
       },
       "block_order": [
         "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0",
-        "a499d3b7-7cc2-47c4-b6b4-9de8f664c5f8"
+        "a499d3b7-7cc2-47c4-b6b4-9de8f664c5f8",
+        "df3644fe-d2f0-4154-ab8e-46ba8e1c85b7"
       ],
       "custom_css": [
         ".banner__media {opacity: 100%;}"
