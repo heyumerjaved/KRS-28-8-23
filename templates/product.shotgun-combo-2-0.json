@@ -321,6 +321,17 @@
             "htmltable": ""
           }
         },
+        "4916baac-b3f2-4da3-b08c-9af471a060bd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will the Shotgun 2.0 handlebars fit my bike?",
+            "icon": "none",
+            "row_content": "<p>The Shotgun 2.0 handlebars fit 25.4mm, 31.8mm and 35mm handlebar diameters, and stems up to 75mm wide – with full rubber handlebar protection. Suitable for flat or riser handlebars.<\/p>",
+            "page": "",
+            "video_link": "",
+            "htmltable": ""
+          }
+        },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
           "type": "collapsible_row",
           "settings": {
@@ -357,6 +368,7 @@
       },
       "block_order": [
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0",
+        "4916baac-b3f2-4da3-b08c-9af471a060bd",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3"
