@@ -161,9 +161,69 @@
             "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "\"The kids ride shotgun seat is the best kids seat for taking your child mountain biking, and is a great way to bond with your child and introduce them to a sport you love\"",
-            "smallimage": "shopify:\/\/shop_images\/image_10_2_copy.jpg",
-            "smallimage_width": 200,
+            "subheading": "\"The Dirt Hero is the best off-road balance bike we have ever tested, sure to build confidence and skill level while providing endless hours of fun\"",
+            "smallimage": "shopify:\/\/shop_images\/two_wheeling_tots_95283286-98c0-40b0-928f-c8923e4c9661.jpg",
+            "smallimage_width": 120,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "4e336f9a-dfce-411d-a1b9-f91616835f43": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"My daughter likes to ride in the dirt and blast down grass hills, and this bike feels a lot better. It’s shaped like an enduro bike, it’s long, it's low slung, it’s slack, it’s easier to hold a straight line on this bike. If you know your kid’s gonna be riding in the dirt and doing a lot of downhill, the enduro category actually delivers.\"",
+            "smallimage": "shopify:\/\/shop_images\/barm_peak.jpg",
+            "smallimage_width": 120,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "7dccad7f-467b-40ad-8a5b-a8277f006c72": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "My daughter likes to ride in the dirt and blast down grass hills, and this bike feels a lot better. It’s shaped like an enduro bike, it’s long, it's low slung, it’s slack, it’s easier to hold a straight line on this bike. If you know your kid’s gonna be riding in the dirt and doing a lot of downhill, the enduro category actually delivers. ",
+            "smallimage": "shopify:\/\/shop_images\/rascal_rides.jpg",
+            "smallimage_width": 120,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "8c424c62-8900-4dbd-a0cf-4bc7efdef81c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"Kids Ride Shotgun may just have released the raddest balance bike around! We're talking chunky Vee Tire Co rubber, a Magura hydraulic disc brake and compatibility with dual wheel sizes, allowing an on-trend mullet set-up with super-slack head angle!\" ",
+            "smallimage": "shopify:\/\/shop_images\/mountain_biking_uk.jpg",
+            "smallimage_width": 120,
             "button_label": "",
             "link": "",
             "button_toggle": false,
@@ -177,7 +237,10 @@
         }
       },
       "block_order": [
-        "bd8cc940-1067-475a-9ad3-b9e78f7410e7"
+        "bd8cc940-1067-475a-9ad3-b9e78f7410e7",
+        "4e336f9a-dfce-411d-a1b9-f91616835f43",
+        "7dccad7f-467b-40ad-8a5b-a8277f006c72",
+        "8c424c62-8900-4dbd-a0cf-4bc7efdef81c"
       ],
       "custom_css": [
         ".banner__media {opacity: 100%; color: #f1f1f1;}",
