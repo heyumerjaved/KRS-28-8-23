@@ -136,7 +136,7 @@
           "settings": {
             "heading": "Handlebars included",
             "icon": "none",
-            "content": "<p>Your child will love riding up front with the Shotgun Pro handlebars. Lightning fast quick release fitting, combined with our custom 19mm grips, make for a great addition to your Shotgun Pro seat setup.<\/p>",
+            "content": "<p>The Shotgun Pro handlebars are the ultimate up-front experience for your mini mountain biker. With lightning fast quick release fitting, and our custom 19mm grips – the pro bars are the perfect partner for your Shotgun Pro seat. <\/p>",
             "page": ""
           }
         },
@@ -306,6 +306,17 @@
             "htmltable": ""
           }
         },
+        "8ecb8b32-e68f-4357-b979-b653c0270996": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will the Shotgun Pro handlebars fit my bike?",
+            "icon": "none",
+            "row_content": "<p>The Shotgun Pro handlebars fit <\/p>",
+            "page": "",
+            "video_link": "",
+            "htmltable": ""
+          }
+        },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
           "type": "collapsible_row",
           "settings": {
@@ -353,6 +364,7 @@
       },
       "block_order": [
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0",
+        "8ecb8b32-e68f-4357-b979-b653c0270996",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2",
         "9af158a1-5e0e-4fc5-be3b-537f78abbe4f",
