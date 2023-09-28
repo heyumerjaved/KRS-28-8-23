@@ -230,6 +230,7 @@
         },
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
