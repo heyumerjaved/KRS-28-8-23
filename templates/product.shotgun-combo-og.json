@@ -145,7 +145,7 @@
           "settings": {
             "heading": "Handlebars included",
             "icon": "none",
-            "content": "<p>Your child will love riding up front with the Shotgun handlebars. Secure allen key fitting, combined with rubber grips designed for little hands, make for a great addition to your Shotgun seat setup.<\/p>",
+            "content": "<p>Your child will love riding up front with the Shotgun handlebars. With secure allen key fitting and rubber grips designed for little hands – the shotgun bars make for a great addition to your Shotgun seat setup.<\/p>",
             "page": ""
           }
         },
@@ -332,6 +332,17 @@
             "htmltable": ""
           }
         },
+        "59fc3518-c87b-45a2-b48b-d1c1efe72330": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will the Shotgun handlebars fit my bike?",
+            "icon": "none",
+            "row_content": "",
+            "page": "",
+            "video_link": "",
+            "htmltable": ""
+          }
+        },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
           "type": "collapsible_row",
           "settings": {
@@ -368,6 +379,7 @@
       },
       "block_order": [
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-0",
+        "59fc3518-c87b-45a2-b48b-d1c1efe72330",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2",
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3"
