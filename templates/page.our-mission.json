@@ -1,5 +1,52 @@
 {
   "sections": {
+    "2ee5cf4a-8302-4589-b1c0-6877b9164c2b": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16077484720278__2ee5cf4a-8302-4589-b1c0-6877b9164c2b-slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ProCombo_KidsRideShotgun_KaylorDastrupStudios_-21_9c4346d9-85b0-4f54-a0e2-f03fe25ac754.jpg",
+            "heading": "FOR THE NEXT GENERATION OF MOUNTAIN BIKERS.",
+            "heading_size": "h1",
+            "subheading": "<strong>We're on a mission to raise the next generation of mountain bikers.<\/strong> To help families ride together, and inspire future riders.",
+            "smallimage_width": 150,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--16077484720278__2ee5cf4a-8302-4589-b1c0-6877b9164c2b-slide-2"
+      ],
+      "custom_css": [
+        ".gradient {display: flex; width: 100%; height: 100%; background: linear-gradient(to top right, black -100%, rgba(0, 0, 0, 0) 100%);}",
+        "@media only screen and (min-width: 540px) {.gradient {background: none; }}",
+        "@media only screen and (max-width: 540px) {h2 {font-size: 20px; max-width: 50%; } p {max-width: 60%; font-size: 10px; }}",
+        "@media screen and (max-width: 750px) {slideshow-component .slideshow.banner {flex-direction: row; flex-wrap: nowrap; margin: 0; gap: 0; height: 650px; } h2 {margin-top: 280px; }}",
+        ".banner__media {opacity: 100%;}",
+        "h2 {width: 60%; color: #ff6b00}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "",
+        "hide_arrows_play": true,
+        "hide_controls": false
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -390,6 +437,7 @@
     }
   },
   "order": [
+    "2ee5cf4a-8302-4589-b1c0-6877b9164c2b",
     "main",
     "31da16f8-a105-4b9c-8661-aef233d5c6b2",
     "50cd6fac-a286-4a84-9510-0abc1086ad65",
