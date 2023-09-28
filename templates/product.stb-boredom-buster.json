@@ -95,6 +95,7 @@
         },
         "7e842de0-e6df-4acc-90ed-735e1c44718b": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Zero frame contact",
             "icon": "none",
@@ -104,6 +105,7 @@
         },
         "7e76a656-277f-49ed-a5bc-8551073e56d4": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Lightning fast fitting",
             "icon": "none",
@@ -113,6 +115,7 @@
         },
         "0c9e6846-1be9-4387-b0a8-9a189a67732d": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "E-MTB compatible",
             "icon": "none",
@@ -122,6 +125,7 @@
         },
         "b0990f17-118f-4c87-ba9e-1522276c0a8d": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "For kids 18 months - 5 years",
             "icon": "none",
@@ -131,6 +135,7 @@
         },
         "528db60a-035c-439a-ba58-bef7b6b0b638": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Fully adjustable",
             "icon": "none",
@@ -146,6 +151,7 @@
         },
         "b57ac794-075b-4a7a-ad08-e655d04448a7": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -174,6 +180,7 @@
         },
         "f976b21f-114f-48ad-8c82-42f536f85dae": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -201,6 +208,7 @@
         },
         "e6c0d10e-d9b2-4147-9326-1e4bc6ed1d4b": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -228,6 +236,7 @@
         },
         "ad7f7a95-9d0f-4423-b8b3-ee7e820fa601": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
             "icon_1": "apple",
@@ -315,7 +324,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun Pro seat fits almost all modern mountain bikes with standard 1 1\/8 inch steerers, including electric mountain bikes. <strong>Please watch our fitting video below or read our <\/strong><span style=\"text-decoration:underline\"><strong>fitting guide<\/strong><\/span><strong> to see if the Shotgun Pro seat will fit your bike.<\/strong><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-1": {
@@ -325,7 +335,8 @@
             "icon": "none",
             "row_content": "<p>The Shotgun Pro is designed for children 18 months - 5 years, and up to 60lb \/ 27kg. Find out if your child is ready to ride shotgun on our <span style=\"text-decoration:underline\"><strong>shotgun seat sizing page<\/strong><\/span><strong>. <\/strong><\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-2": {
@@ -335,7 +346,8 @@
             "icon": "none",
             "row_content": "",
             "page": "",
-            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE"
+            "video_link": "https:\/\/www.youtube.com\/watch?v=9fcZvGl6RPE",
+            "htmltable": ""
           }
         },
         "template--16038410911894__3de35d8a-2b33-4a2a-99e1-32d2b23fdc8a-16871435106c3053cf-3": {
@@ -345,7 +357,8 @@
             "icon": "none",
             "row_content": "<p>This is just bunch of random text and it's only here as a placeholder to show what it'll all look like once the copy as been filled out.<\/p>",
             "page": "",
-            "video_link": ""
+            "video_link": "",
+            "htmltable": ""
           }
         }
       },
@@ -359,6 +372,7 @@
         ".content-container:after {box-shadow: none !important;}"
       ],
       "settings": {
+        "isfaq": false,
         "caption": "",
         "heading": "Specifications",
         "heading_size": "h2",
@@ -438,6 +452,7 @@
       "blocks": {
         "template--16039832944790__c3900cb3-25d1-4846-8af6-062209ae0070-1688422403b8037bbd-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "SEE THE SHOTGUN® PRO IN ACTION",
             "heading_size": "h2"
@@ -447,6 +462,7 @@
       "block_order": [
         "template--16039832944790__c3900cb3-25d1-4846-8af6-062209ae0070-1688422403b8037bbd-0"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -461,6 +477,7 @@
     },
     "ec8d4414-d91b-47ed-be23-12f897619257": {
       "type": "video",
+      "disabled": true,
       "custom_css": [
         ".video-section__poster {height: 750px; position: center; overflow: hidden; margin: 0 auto; margin-top: 0px; justify-content: center; align-items: center;}",
         ".video-section {height: 750px; position: top; overflow: hidden; justify-content: center; align-items: center;}",
@@ -483,6 +500,7 @@
     },
     "cd2df96a-1516-4ef8-a67e-077495db249d": {
       "type": "video",
+      "disabled": true,
       "custom_css": [
         "@media only screen and (min-width: 1299px) {.video-section {display: none; }}"
       ],
@@ -501,6 +519,7 @@
     },
     "c26ae100-d5a5-4403-9dc7-53fe124f112d": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".button {outline-width: 1px; outline-style: solid; outline-color: #ff6b00; background-color: transparent; color: #ff6b00; border-radius: 6px; padding: 10px 20px; \/* Adjust padding as needed *\/ transition: color 0.3s, background-color 0.3s; cursor: pointer; text-align: center; text-decoration: none;}",
         ".button:hover {color: #f1f1f1; background-color: #ff6b00;}"
@@ -537,6 +556,7 @@
       "blocks": {
         "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "ADD A SLICK AS HEADING HERE",
             "heading_size": "h2"
@@ -546,6 +566,7 @@
       "block_order": [
         "6bcdbb15-48a7-4e9c-bcc2-07c1802b474c"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -612,6 +633,7 @@
         "template--16039832944790__14cee2ca-1fd2-4d5b-bfc7-6342263ad48e-1688422438ad9b0f6c-2",
         "b631a22c-2a2b-41a2-8f1a-609cf79a352e"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -636,6 +658,7 @@
       "blocks": {
         "93b97971-a8d9-4ff9-a159-6ff497e81490": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "JOIN THOUSANDS OF STOKED MTB FAMILIES",
             "heading_size": "h2"
@@ -645,6 +668,7 @@
       "block_order": [
         "93b97971-a8d9-4ff9-a159-6ff497e81490"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -671,12 +695,14 @@
       "block_order": [
         "b2580218-50d8-4279-9fa6-12288ec45cb7"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
     },
     "a2034ce1-6470-41ba-a894-6e7301faa85d": {
       "type": "rich-text",
+      "disabled": true,
       "custom_css": [
         ".content-container:after {box-shadow: none !important;}"
       ],
@@ -842,6 +868,7 @@
         "a18cc939-d8e8-411d-8046-5ce1db3ab2fe",
         "e7bc1331-a9ef-4fee-a541-8ce49449400a"
       ],
+      "disabled": true,
       "custom_css": [
         ".banner__media {opacity: 100%;}"
       ],
