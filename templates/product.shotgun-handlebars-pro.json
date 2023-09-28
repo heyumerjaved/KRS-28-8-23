@@ -556,10 +556,31 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "be1b02a1-9da4-4601-b6c5-450d5eca29aa": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artboard_1_f67e09f0-dfb2-4f0a-851b-b77f280e5227.png",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "\"We were presently surprised at the huge difference the Shotgun Pro Bars provide. The bars provide a much-improved ride position for both you and your mini co-pilot, which is more confidence-inspiring and ultimately more fun for you both! Giving your little shredder their won handlebars really allows them to get stoked on mountain biking from their own perspective.\" ",
+            "smallimage": "shopify:\/\/shop_images\/bike_faff.jpg",
+            "smallimage_width": 120,
+            "button_label": "",
+            "link": "",
+            "button_toggle": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0"
+        "template--16039832944790__f8bc5375-bc65-4712-86f1-5fd751d0ed64-1688424232a10b3944-0",
+        "be1b02a1-9da4-4601-b6c5-450d5eca29aa"
       ],
       "custom_css": [
         ".banner__media {opacity: 100%;}"
