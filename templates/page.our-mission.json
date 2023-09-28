@@ -32,7 +32,7 @@
         "@media only screen and (max-width: 540px) {h2 {font-size: 20px; max-width: 50%; } p {max-width: 60%; font-size: 10px; }}",
         "@media screen and (max-width: 750px) {slideshow-component .slideshow.banner {flex-direction: row; flex-wrap: nowrap; margin: 0; gap: 0; height: 650px; } h2 {margin-top: 280px; }}",
         ".banner__media {opacity: 100%;}",
-        "h2 {width: 60%; color: #ff6b00}"
+        "h2 {width: 100%; color: #ff6b00;}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -81,6 +81,7 @@
         "template--16066259779734__31da16f8-a105-4b9c-8661-aef233d5c6b2-heading-1",
         "template--16066259779734__31da16f8-a105-4b9c-8661-aef233d5c6b2-text-1"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {color: #ff6b00;}",
         "p {font-size: 12px; color: #f1f1f1;}",
