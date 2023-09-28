@@ -457,10 +457,11 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".okeReviews[data-oke-container] .oke-reviewContent-title,div.okeReviews .oke-reviewContent-title,.oke-product-details-title,div[data-oke-carousel] div.okeReviews[data-oke-container] .oke-w-reviewer-name, .okeReviews[data-oke-container] .oke-w-reviews-list, div.okeReviews .oke-w-reviews-list {font-weight: 900;}",
+      ".okeReviews[data-oke-container] .oke-reviewContent-title,div.okeReviews .oke-reviewContent-title,.oke-product-details-title,div[data-oke-carousel] div.okeReviews[data-oke-container] .oke-w-reviewer-name,.okeReviews[data-oke-container] .oke-w-reviews-list,div.okeReviews .oke-w-reviews-list {font-weight: 900;}",
       ".oke-product-details-name,.oke-product-details-name {font-weight: 500;}",
       "div[data-oke-carousel] div.okeReviews[data-oke-container] .oke-w-reviewer-verified {font-weight: 500;}",
-      ".okeReviews[data-oke-container] .oke-is-large .oke-w-review-side,.okeReviews[data-oke-container] .oke-is-medium .oke-w-review-side,div.okeReviews .oke-is-large .oke-w-review-side,div.okeReviews .oke-is-medium .oke-w-review-side {border-radius: 10px;}"
+      ".okeReviews[data-oke-container] .oke-is-large .oke-w-review-side,.okeReviews[data-oke-container] .oke-is-medium .oke-w-review-side,div.okeReviews .oke-is-large .oke-w-review-side,div.okeReviews .oke-is-medium .oke-w-review-side {border-radius: 10px;}",
+      ".collection__view-all a:not(.link) {margin-top: 32px;}"
     ]
   }
 }
