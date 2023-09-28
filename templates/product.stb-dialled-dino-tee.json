@@ -669,6 +669,7 @@
         "a18cc939-d8e8-411d-8046-5ce1db3ab2fe",
         "e7bc1331-a9ef-4fee-a541-8ce49449400a"
       ],
+      "disabled": true,
       "custom_css": [
         ".banner__media {opacity: 100%;}"
       ],
