@@ -1168,3 +1168,21 @@ class ProductRecommendations extends HTMLElement {
 
 customElements.define('product-recommendations', ProductRecommendations);
 
+// Get all elements with class .image-with-text
+const imageWithTextSections = document.querySelectorAll('.image-with-text');
+
+// Loop through each section
+imageWithTextSections.forEach((section) => {
+  const imageWithTextMedia = section.querySelector('.image-with-text__media img');
+  const fullUnstyledLink = section.querySelector('.full-unstyled-link');
+
+  if (imageWithTextMedia && fullUnstyledLink) {
+    // Change cursor to pointer for .image-with-text__media img
+    imageWithTextMedia.style.cursor = 'pointer';
+
+    imageWithTextMedia.addEventListener('click', function () {
+      // Simulate a click on the .full-unstyled-link element within this section.
+      fullUnstyledLink.click();
+    });
+  }
+});
