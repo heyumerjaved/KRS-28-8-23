@@ -3787,4 +3787,15 @@ slideshow-component.slider-mobile-gutter {
 .cloud-search-filter .cloud-search-filters-apply {
   border-radius: 6px;
 }
+
+.header__inline-menu ul.header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce.notasveerwalamenu{
+  flex-direction: column;
+  text-align: left;
+  align-items: flex-start;
+  gap: 15px;
+}
+.header__inline-menu ul.header__submenu.list-menu.list-menu--disclosure.caption-large.motion-reduce.notasveerwalamenu li a{
+  align-items: flex-start;
+  text-align: left;
+}
 /* Copied from Theme Custom CSS */
