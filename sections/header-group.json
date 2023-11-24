@@ -76,10 +76,20 @@
         "padding_top": 24,
         "padding_bottom": 24
       }
+    },
+    "6628e50e-da0a-4f17-a3de-dbff78335492": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"quiz-container\">\n  <h2>Take Our Quiz!<\/h2>\n  <div class=\"question\" id=\"question1\">\n    <h3>Question 1: What is your favorite color?<\/h3>\n    <label><input type=\"radio\" name=\"q1\" value=\"red\"> Red<\/label>\n    <label><input type=\"radio\" name=\"q1\" value=\"blue\"> Blue<\/label>\n    <label><input type=\"radio\" name=\"q1\" value=\"green\"> Green<\/label>\n  <\/div>\n  <!-- More questions follow the same structure -->\n  <!-- Add 9 more questions here -->\n  \n  <button onclick=\"submitQuiz()\">Submit<\/button>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "6628e50e-da0a-4f17-a3de-dbff78335492"
   ]
 }
