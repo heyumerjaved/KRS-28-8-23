@@ -79,6 +79,12 @@
     },
     "6628e50e-da0a-4f17-a3de-dbff78335492": {
       "type": "custom-liquid",
+      "custom_css": [
+        ".quiz-container {max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 5px; font-family: Arial, sans-serif;}",
+        ".question {margin-bottom: 15px;}",
+        "button {padding: 10px 20px; background-color: #3498db; color: #fff; border: none; border-radius: 3px; cursor: pointer; font-size: 16px;}",
+        "button:hover {background-color: #2980b9;}"
+      ],
       "settings": {
         "custom_liquid": "<div class=\"quiz-container\">\n  <h2>Take Our Quiz!<\/h2>\n  <div class=\"question\" id=\"question1\">\n    <h3>Question 1: What is your favorite color?<\/h3>\n    <label><input type=\"radio\" name=\"q1\" value=\"red\"> Red<\/label>\n    <label><input type=\"radio\" name=\"q1\" value=\"blue\"> Blue<\/label>\n    <label><input type=\"radio\" name=\"q1\" value=\"green\"> Green<\/label>\n  <\/div>\n  <!-- More questions follow the same structure -->\n  <!-- Add 9 more questions here -->\n  \n  <button onclick=\"submitQuiz()\">Submit<\/button>\n<\/div>",
         "color_scheme": "",
