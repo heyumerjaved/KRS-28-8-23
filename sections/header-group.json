@@ -88,7 +88,7 @@
       ],
       "settings": {
         "custom_liquid": "<div class=\"quiz-container\">\n  <h2>Take Our Quiz!<\/h2>\n  <div class=\"question\" id=\"question1\">\n    <h3>Question 1: What type of bike do you have?<\/h3>\n    <label><input type=\"radio\" name=\"q1\" value=\"emtb\"> Electric MTB<\/label>\n    <label><input type=\"radio\" name=\"q1\" value=\"nmtb\"> Standard MTB<\/label>\n    <label><input type=\"radio\" name=\"q1\" value=\"other\"> Road Bike or Other<\/label>\n  <\/div>\n  <!-- More questions follow the same structure -->\n  <!-- Add 9 more questions here -->\n  \n  <button onclick=\"submitQuiz()\">Submit<\/button>\n<\/div>",
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "padding_top": 40,
         "padding_bottom": 52
       }
