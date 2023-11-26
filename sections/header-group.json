@@ -79,7 +79,6 @@
     },
     "6628e50e-da0a-4f17-a3de-dbff78335492": {
       "type": "custom-liquid",
-      "disabled": true,
       "custom_css": [
         ".quiz-container {max-width: 1000px; margin: 0 auto; padding: 20px; background-color: #f1f1f1; border: 1px solid #ccc; border-radius: 5px; font-family: Arial, sans-serif;}",
         ".question {margin-bottom: 15px;}",
