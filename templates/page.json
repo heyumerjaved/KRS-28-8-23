@@ -9,9 +9,30 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "170104828789f275bc": {
+      "type": "apps",
+      "blocks": {
+        "a7510961-63a7-47dd-bad3-b6d26607e91f": {
+          "type": "shopify:\/\/apps\/shop-quiz-product-recommender\/blocks\/inline-quiz\/672f3d48-fd3b-4227-8778-c6e58c4f8a98",
+          "settings": {
+            "quiz_id": "BZHonV",
+            "quiz_height": 600,
+            "quiz_autoscroll": true,
+            "quiz_fixed_height": false
+          }
+        }
+      },
+      "block_order": [
+        "a7510961-63a7-47dd-bad3-b6d26607e91f"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "170104828789f275bc"
   ]
 }
