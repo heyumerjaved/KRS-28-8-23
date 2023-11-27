@@ -19,7 +19,7 @@
             "quiz_id": "BZHonV",
             "quiz_height": 700,
             "quiz_autoscroll": true,
-            "quiz_fixed_height": false
+            "quiz_fixed_height": true
           }
         }
       },
