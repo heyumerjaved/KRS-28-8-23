@@ -110,13 +110,24 @@
         "padding_bottom": 100
       }
     },
-    "10e3c3ed-9706-414f-8db1-1d14996409d1": {
-      "type": "custom-liquid",
+    "17017443082c4ccc13": {
+      "type": "apps",
+      "blocks": {
+        "f0ac3742-4aa4-46ac-af64-321d3002ca38": {
+          "type": "shopify:\/\/apps\/shop-quiz-product-recommender\/blocks\/inline-quiz\/672f3d48-fd3b-4227-8778-c6e58c4f8a98",
+          "settings": {
+            "quiz_id": "meHVkG",
+            "quiz_height": 675,
+            "quiz_autoscroll": false,
+            "quiz_fixed_height": true
+          }
+        }
+      },
+      "block_order": [
+        "f0ac3742-4aa4-46ac-af64-321d3002ca38"
+      ],
       "settings": {
-        "custom_liquid": "",
-        "color_scheme": "inverse",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "include_margins": true
       }
     },
     "19d069c6-6ef8-4b77-9e7c-6b8027636d51": {
@@ -723,7 +734,7 @@
   "order": [
     "1fbe2ef4-7f2b-45b9-99c3-314570df5274",
     "4cbc37e9-6d0c-455a-9c9d-8a5a7b211a80",
-    "10e3c3ed-9706-414f-8db1-1d14996409d1",
+    "17017443082c4ccc13",
     "19d069c6-6ef8-4b77-9e7c-6b8027636d51",
     "5db3ad43-09b4-4905-85ee-36f1798c3966",
     "f8bc5375-bc65-4712-86f1-5fd751d0ed64",
