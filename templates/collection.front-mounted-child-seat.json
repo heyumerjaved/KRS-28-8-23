@@ -117,7 +117,7 @@
           "type": "shopify:\/\/apps\/shop-quiz-product-recommender\/blocks\/inline-quiz\/672f3d48-fd3b-4227-8778-c6e58c4f8a98",
           "settings": {
             "quiz_id": "meHVkG",
-            "quiz_height": 650,
+            "quiz_height": 700,
             "quiz_autoscroll": false,
             "quiz_fixed_height": true
           }
@@ -658,6 +658,8 @@
         "2a9f0935-f2cf-4bd2-b6e2-0c1a7a23a7ac": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
+            "title_color": "",
+            "alignment": "center",
             "html_area": ""
           }
         }
