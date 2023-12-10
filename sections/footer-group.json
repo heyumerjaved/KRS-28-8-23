@@ -2,46 +2,6 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "newsletter": {
-      "type": "newsletter",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "RAISING A MTB KID?",
-            "heading_size": "h2"
-          }
-        },
-        "paragraph": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p><\/p><p>GET HELPFUL ARTICLES AND KIDS MTB INSPIRATION.<\/p><p>UNSUBSCRIBE ANYTIME.<\/p>"
-          }
-        },
-        "email-form": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "paragraph",
-        "email-form"
-      ],
-      "custom_css": [
-        ".content-container:after {box-shadow: none !important;}",
-        "p {line-height: 12px;}",
-        "@media only screen and (max-width: 992px) {p {line-height: 7px; font-size: 8px; }}",
-        ".field__label {font-fmaily: Söhne Breit Fett; font-weight: 900; opacity: 30%;}"
-      ],
-      "settings": {
-        "color_scheme": "scheme-c73c17f1-45ee-4530-b024-4727529471db",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -104,7 +64,6 @@
     }
   },
   "order": [
-    "newsletter",
     "footer"
   ]
 }

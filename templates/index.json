@@ -706,18 +706,6 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
-    },
-    "a32160e9-c15f-4316-95fe-ec1a647eb2c5": {
-      "type": "custom-liquid",
-      "custom_css": [
-        ".button {display: flex; justify-content: center}"
-      ],
-      "settings": {
-        "custom_liquid": "<div data-tf-live=\"01HHANE81CVDW9E3Q5G056Q13E\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
-        "color_scheme": "background-1",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
     }
   },
   "order": [
@@ -735,7 +723,6 @@
     "20bcc3cd-52c8-4a27-a85f-1a5ffd06b27e",
     "168714602302433599",
     "0ab8e846-10fb-43aa-9cf4-0d788e146d07",
-    "a3de545d-617e-4ca5-84c9-500ee4a88230",
-    "a32160e9-c15f-4316-95fe-ec1a647eb2c5"
+    "a3de545d-617e-4ca5-84c9-500ee4a88230"
   ]
 }
