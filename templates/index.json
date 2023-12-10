@@ -712,8 +712,8 @@
       "settings": {
         "custom_liquid": "<div data-tf-live=\"01HHANE81CVDW9E3Q5G056Q13E\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     }
   },
