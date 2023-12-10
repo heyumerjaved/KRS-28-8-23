@@ -710,7 +710,7 @@
     "a32160e9-c15f-4316-95fe-ec1a647eb2c5": {
       "type": "custom-liquid",
       "custom_css": [
-
+        ".button {display: flex; justify-content: center}"
       ],
       "settings": {
         "custom_liquid": "<div data-tf-live=\"01HHANE81CVDW9E3Q5G056Q13E\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
