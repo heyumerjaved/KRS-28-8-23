@@ -709,6 +709,9 @@
     },
     "a32160e9-c15f-4316-95fe-ec1a647eb2c5": {
       "type": "custom-liquid",
+      "custom_css": [
+        ".hnGdey {margin: 0px; max-width: 100%; width: inherit; font-family: Copyright Klim Type Foundry, sans-serif; font-weight: 900; font-size: 20px; line-height: 28px; color: rgb(0, 0, 0); overflow-wrap: break-word;}"
+      ],
       "settings": {
         "custom_liquid": "<div data-tf-live=\"01HHANE81CVDW9E3Q5G056Q13E\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
         "color_scheme": "background-1",
