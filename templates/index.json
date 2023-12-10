@@ -408,6 +408,9 @@
     },
     "a912e581-baea-4f59-a26e-de7b4a6ed468": {
       "type": "custom-liquid",
+      "custom_css": [
+        ".section-template--16077484458134__a912e581-baea-4f59-a26e-de7b4a6ed468-padding .button {display: flex; flex-wrap: nowrap; align-content: center; justify-content: center; align-items: center;}"
+      ],
       "settings": {
         "custom_liquid": "<div data-tf-live=\"01HHAQ1QSG9TSHQT137EBTC2XG\"><\/div><script src=\"\/\/embed.typeform.com\/next\/embed.js\"><\/script>",
         "color_scheme": "",
